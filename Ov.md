@@ -2,11 +2,14 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.6
 Creation-Date: 2023-07-29T23:15:52+07:00
 
-# Sammā-ditthi: Dhamma as Frame/ arbitrator & Refuge ===
-**Buddha Saranam:** Daily: Rd Pitaka, Pali
-  + Weekly: Vid Sutta Teaching
-**Dhamma Saranam**: 4 ariya saccha: Med & Guide, Upd Dh Note, Vid Med Guide.
-**Sangha Saranam**: Thai forest tradition: Thanissaro, Ajahn Brahm, Ajahn Sujato,...
+# Sammā-ditthi: Dhamma as Frame/ arbitrator & Refuge
+## Buddha Saranam:
+ + Daily: Rd Pitaka, Pali
+ + Weekly: Vid Sutta Teaching
+## Dhamma Saranam: 
+4 ariya saccha: Med & Guide, Upd Dh Note, Vid Med Guide.
+## Sangha Saranam: 
+Thai forest tradition: Thanissaro, Ajahn Brahm, Ajahn Sujato,...
 Daily Talk & Book: WoA. Translate Thanissaro Dhamma talk book? 
 + Ajahn : Talk, Sutta Teaching & Book. Check interesting Dh talk
 +  Cousr: Early Meditation + Ajahn Brahmamavaso + ...
