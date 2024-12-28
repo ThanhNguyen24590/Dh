@@ -1,0 +1,21 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2024-01-10T21:53:43+07:00
+
+Link: https://suttacentral.net/mn28/en/sujato
+Audio: https://www.paliaudio.com/mn28
+Viet: https://suttacentral.net/mn28/vi/minh_chau
+
+Kusalā dhammā sabbete catūsu ariyasaccesu saṅgahaṁ gacchanti.
+Katamesu catūsu? Dukkhe ariyasacce, dukkhasamudaye ariyasacce, dukkhanirodhe ariyasacce, dukkhanirodhagāminiyā paṭipadāya ariyasacce.
+Katamañcāvuso, dukkhaṁ ariyasaccaṁ? Jātipi dukkhā, jarāpi dukkhā, maraṇampi dukkhaṁ, sokaparidevadukkhadomanassupāyāsāpi dukkhā, yampicchaṁ na labhati tampi dukkhaṁ; saṅkhittena, pañcupādānakkhandhā dukkhā.
+Katame cāvuso, pañcupādānakkhandhā? Seyyathidaṁ—rūpupādānakkhandho, vedanupādānakkhandho, saññupādānakkhandho, saṅkhārupādānakkhandho, viññāṇupādānakkhandho.
+Katamo cāvuso, rūpupādānakkhandho? Cattāri ca mahābhūtāni, catunnañca mahābhūtānaṁ upādāya rūpaṁ.
+Katamā cāvuso, cattāro mahābhūtā? Pathavīdhātu, āpodhātu, tejodhātu, vāyodhātu.
+=== pathavīdhātuyā ===
+Katamā cāvuso, pathavīdhātu? Pathavīdhātu siyā ajjhattikā, siyā bāhirā.
+Katamā cāvuso, ajjhattikā pathavīdhātu? Yaṁ ajjhattaṁ paccattaṁ kakkhaḷaṁ kharigataṁ upādinnaṁ, seyyathidaṁ—kesā lomā nakhā dantā taco maṁsaṁ nhāru aṭṭhi aṭṭhimiñjaṁ vakkaṁ hadayaṁ yakanaṁ kilomakaṁ pihakaṁ papphāsaṁ antaṁ antaguṇaṁ udariyaṁ karīsaṁ, yaṁ vā panaññampi kiñci ajjhattaṁ paccattaṁ kakkhaḷaṁ kharigataṁ upādinnaṁ.
+‘Taṁ netaṁ mama, nesohamasmi, na meso attā’ti—evametaṁ yathābhūtaṁ sammappaññāya daṭṭhabbaṁ. Evametaṁ yathābhūtaṁ sammappaññāya disvā pathavīdhātuyā nibbindati, pathavīdhātuyā cittaṁ virājeti.
+Hoti kho so, āvuso, samayo yaṁ bāhirā āpodhātu pakuppati. Antarahitā tasmiṁ samaye bāhirā pathavīdhātu hoti. Tassā hi nāma, āvuso, bāhirāya pathavīdhātuyā tāva mahallikāya aniccatā paññāyissati, khayadhammatā paññāyissati, vayadhammatā paññāyissati, vipariṇāmadhammatā paññāyissati. Kiṁ panimassa mattaṭṭhakassa kāyassa taṇhupādinnassa ‘ahanti vā mamanti vā asmī’ti vā? Atha khvāssa notevettha hoti.
+
+Tañce, āvuso, bhikkhuṁ pare akkosanti paribhāsanti rosenti vihesenti, so evaṁ pajānāti: ‘uppannā kho me ayaṁ sotasamphassajā dukkhavedanā. Sā ca kho paṭicca, no apaṭicca. Kiṁ paṭicca? Phassaṁ paṭicca’. So phasso aniccoti passati, vedanā aniccāti passati, saññā aniccāti passati, saṅkhārā aniccāti passati, viññāṇaṁ aniccanti passati. Tassa dhātārammaṇameva cittaṁ pakkhandati pasīdati santiṭṭhati adhimuccati.

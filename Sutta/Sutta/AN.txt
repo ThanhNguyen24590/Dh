@@ -1,0 +1,20 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2022-11-25T10:46:22+07:00
+
+[AN 3.60 Saṅgāravasutta](https://suttacentral.net/an3.60/en/sujato)
+idha tathāgato loke uppajjati arahaṁ sammāsambuddho vijjācaraṇasampanno sugato lokavidū anuttaro purisadammasārathi satthā devamanussānaṁ buddho bhagavā.
+So evamāha:
+‘ethāyaṁ maggo ayaṁ paṭipadā yathāpaṭipanno ahaṁ anuttaraṁ brahmacariyogadhaṁ sayaṁ abhiññā sacchikatvā pavedemi;
+etha, tumhepi tathā paṭipajjatha, yathāpaṭipannā tumhepi anuttaraṁ brahmacariyogadhaṁ sayaṁ abhiññā sacchikatvā upasampajja viharissathā’ti.
+Iti ayañceva satthā dhammaṁ deseti, pare ca tathatthāya paṭipajjanti, tāni kho pana honti anekānipi satāni anekānipi sahassāni anekānipi satasahassāni.
+Taṁ kiṁ maññasi:
+iccāyaṁ evaṁ sante ekasārīrikā vā puññappaṭipadā hoti anekasārīrikā vā, yadidaṁ pabbajjādhikaraṇan.
+
+Ahañhi, brāhmaṇa, anekavihitaṁ iddhividhaṁ paccanubhoti: ‘ekopi hutvā bahudhā hoti, bahudhāpi hutvā eko hoti; āvibhāvaṁ, tirobhāvaṁ; tirokuṭṭaṁ tiropākāraṁ tiropabbataṁ asajjamāno gacchati, seyyathāpi ākāse; pathaviyāpi ummujjanimujjaṁ karoti, seyyathāpi udake; udakepi abhijjamāne gacchati, seyyathāpi pathaviyaṁ; ākāsepi pallaṅkena kamati, seyyathāpi pakkhī sakuṇo; imepi candimasūriye evaṁmahiddhike evaṁmahānubhāve pāṇinā parimasati parimajjati, yāva brahmalokāpi kāyena vasaṁ vatteti’.
+Ahañhi, brāhmaṇa, avitakkaṁ avicāraṁ samādhiṁ samāpannassa cetasā ceto paricca pajānāmi:‘yathā imassa bhoto manosaṅkhārā paṇihitā, imassa cittassa anantarā amuṁ nāma vitakkaṁ vitakkessatī’ti.
+Ahañhi, brāhmaṇa, evamanusāsāmi:evaṁ vitakketha, mā evaṁ vitakkayittha; evaṁ manasi karotha, mā evaṁ manasākattha; idaṁ pajahatha, idaṁ upasampajja viharathā’”ti.
+“Atthi pana, bho gotama, añño ekabhikkhupi yo imehi tīhi pāṭihāriyehi samannāgato, aññatra bhotā gotamenā”ti?
+“Na kho, brāhmaṇa, ekaṁyeva sataṁ na dve satāni na tīṇi satāni na cattāri satāni na pañca satāni, atha kho bhiyyova, ye bhikkhū imehi tīhi pāṭihāriyehi samannāgatā”ti.
+
+---

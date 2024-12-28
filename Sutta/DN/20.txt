@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2024-02-11T16:02:29+07:00
+
+
+
+=== Refer ===
+[[https://www.dhammawheel.com/viewtopic.php?t=9161|dhammawheel StG]]

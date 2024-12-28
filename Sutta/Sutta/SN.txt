@@ -1,0 +1,70 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2022-11-25T10:43:51+07:00
+
+#### [SN6.1 Brahmāyācanasutta](https://suttacentral.net/sn6.1/en/sujato)
+Adhigato kho myāyaṁ dhammo gambhīro duddaso duranubodho santo paṇīto atakkāvacaro nipuṇo paṇḍitavedanīyo. 
+Ālayarāmā kho panāyaṁ pajā ālayaratā ālayasammuditā.
+Ālayarāmāya kho pana pajāya ālayaratāya ālayasammuditāya duddasaṁ idaṁ ṭhānaṁ yadidaṁ idappaccayatāpaṭiccasamuppādo.
+Idampi kho ṭhānaṁ duddasaṁ yadidaṁ sabbasaṅkhārasamatho sabbūpadhipaṭinissaggo taṇhākkhayo virāgo nirodho nibbānaṁ.
+Ahañceva kho pana dhammaṁ deseyyaṁ; pare ca me na ājāneyyuṁ; so mamassa kilamatho, sā mamassa vihesā.
+
+---
+.Samatho :calm .Upadhi :attachment + paṭinissagga :let go .Rāga :lust/greed
+
+---
+nassati vata bho loko, vinassati vata bho loko, yatra hi nāma tathāgatassa arahato sammāsambuddhassa appossukkatāya cittaṁ namati, no dhammadesanāyā
+
+---
+Addasā kho bhagavā buddhacakkhunā lokaṁ volokento satte apparajakkhe mahārajakkhe tikkhindriye mudindriye svākāre dvākāre suviññāpaye duviññāpaye, appekacce paralokavajjabhayadassāvine viharante, appekacce na paralokavajjabhayadassāvine viharante.
+
+---
+.Cakkhu :eye	.Voloketi :examines	.Rajakkha :dust/defilement
+.ākāra	:state	.Svākāre : good inner qualities/disposition. (Su+ākāra) .Dvākāre (Du+ākāra)
+.Viññāpeti :teach> Viññāpaye :being taught.
+.Paraloka :world beyond	.Vajja :fault	.Bhaya :fear	.Dassa :see
+
+#### [SN6.2 Gāravasutta](https://suttacentral.net/sn6.2/en/sujato)
++ "One suffers if living with nothing to revere. Who still living that can I depend, honor and respect?"
++ "In order to practice to complete sīlasampannataraṁ , samādhikkhandhassa, paññākkhandhassa, vimuttikkhandhassa, vimuttiñāṇadassanakkhandhassa, then one live in depend of others. But I've completed and found none more accomplished."
++ "Why don’t I honor, respect and rely on the same Dhamma to which I was awakened?"
++ All arahaṁ sammāsambuddho who lived in the past honored and respected and relied on this Dhamma. All arahaṁ sammāsambuddho who will live in the future will honor and respect and rely on this Dhamma. And so, the Bhagavato, arahaṁ sammāsambuddho of this time, also honor and respect and rely on this Dhamma.
+[sn15.9 Daṇḍasutta](https://suttacentral.net/sn15.9/en/sujato)
+From inconstruable beginning comes transmigration. A begin's not found for beings roaming, wandering, hindered by ignorance and fettered by craving.
+Suppose a stick's tossed up; sometimes it land on its base, sometimes its side, sometimes its top; So are for being roaming, wandering, hindered by ignorance and fettered by craving from world to world.
+Long have you thus experienced stress, experienced pain, experienced loss, swelling the cemeteries — enough to become disenchanted with all fabricated things, enough to become dispassionate, enough to be released.
+[SN 16.5 Jiṇṇasutta](https://suttacentral.net/sn16.5/en/sujato)
+In Bamboo Grove, the bhagavā said to Mahākassapa:
+"You’re old now, Kassapa. Those worn-out hempen rag robes must be a burden for you. So Kassapa, you should wear clothes given by householders, accept invitations for the meal, and stay in my presence.”
+
+---
++ Ahaṁ kho, bhante, dīgharattaṁ āraññiko ceva āraññikattassa ca vaṇṇavādī
+“For a long time, bhante, I’ve lived in the wilderness and praised of living in wilderness;
++  piṇḍapātiko ceva piṇḍapātikattassa ca vaṇṇavādī
+I've been an almsgoer and praised of being an almsgoer.
++ paṁsukūliko ceva paṁsukūlikattassa ca vaṇṇavādī
+I've worn cast off rags and praised of wearing cast off rags.
++ tecīvariko ceva tecīvarikattassa ca vaṇṇavādī
+I have had only three robes and praised of having only three robe.
++ appiccho ceva appicchatāya ca vaṇṇavādī
+I have had few wishes and have praised of having few wishes. 
++ santuṭṭho ceva santuṭṭhiyā ca vaṇṇavādī
+I've taken joy of being content and praised of taking pleasure in being content.
++ pavivitto ceva pavivekassa ca vaṇṇavādī, 
+I've been secluded and praised of solitude
++ asaṁsaṭṭho ceva asaṁsaggassa ca vaṇṇavādī, 
+I've been unentangled with contact and praised of being unentangled with contact.
++ āraddhavīriyo ceva vīriyārambhassa ca vaṇṇavādī”ti.
+I've kept my persistence aroused and praised of having persistence aroused.
+
+---
+“But seeing what benefit, Kassapa, have you long practiced these things?”
+“Bhante, seeing two benefits I have long practiced these things.
++ Attano ca diṭṭhadhammasukhavihāraṁ sampassamāno, 
+Seeing a pleasant abiding for myself in the here & now
++ Pacchimañca janataṁ anukampamāno: ‘appeva nāma pacchimā janatā diṭṭhānugatiṁ āpajjeyyuṁ'
+. And I have compassion for future generations, thinking: ‘Hopefully those who come after might follow my example.’
++ Te tathattāya paṭipajjissanti, tesaṁ taṁ bhavissati dīgharattaṁ hitāya sukhāya.
+They’ll practice accordingly, which will be for their lasting welfare and happiness.
++ “Sādhu sādhu, kassapa. Bahujanahitāya kira tvaṁ, kassapa, paṭipanno bahujanasukhāya lokānukampāya atthāya hitāya sukhāya devamanussānaṁ. Tasmātiha tvaṁ, kassapa, sāṇāni ceva paṁsukūlāni dhārehi nibbasanāni, piṇḍāya ca carāhi, araññe ca viharāhī"ti
+Good, Kassapa. Very good. It seems that you are one who practices for the happiness of many, out of compassion for the world, for the welfare, benefit, & happiness of beings human & divine. So continue wearing your robes of cast off hemp cloth, go for alms, and live in the wilderness.

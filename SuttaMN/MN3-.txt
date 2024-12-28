@@ -1,0 +1,220 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2022-11-26T17:50:16+07:00
+
+=== MN101: Viriya | Dhamma Context: 4 sammappadhāna ===
+Kathañca saphalo (fruitful) upakkamo (exert) hoti, saphalaṁ padhānaṁ (strive)?
+1. Saṃvara: Bhikkhu na heva an-addha-bhūtaṁ attānaṁ dukkhena addha-bhāveti. (Not identificate with austerity in present or past)
+2. Pahāna: Dukkha-nidānassa saṅkhāraṁ padahato saṅkhārap-padhānā virāgo vā ajjhupekkhato upekkhaṁ bhāvayato virāgo hoti. Evampissa taṁ dukkhaṁ nijjiṇṇaṁ hoti. (Try padhānā first or upekkha as appropriate for dukkha's origin > dispassion from padhānā or upekkha > that dukkha is worn away)
+3. Bhāvanā: Dhammikañca sukhaṁ na pariccajati, tasmiñca sukhe an-adhi-mucchito hoti. (Not give up sukkha accord with Dhamma, not fixate on that sukha)
+4. Anurakkhaṇā: anavajjasukhaṁ < abyāsekasukhaṁ (silakhanda) 
+< vivicceva kāmehi vivicca akusalehi dhammehi savitakkaṁ savicāraṁ vivekajaṁ pītisukhaṁ paṭhamaṁ jhānaṁ 
+< vitakkavicārānaṁ vūpasamā ajjhattaṁ sampasādanaṁ cetaso ekodibhāvaṁ avitakkaṁ avicāraṁ samādhijaṁ pītisukhaṁ dutiyaṁ jhānaṁ 
+< pītiyā ca virāgā upekkhako ca viharati sato ca sampajāno, sukhañca kāyena paṭisaṁvedeti. Yaṁ taṁ ariyā ācikkhanti: ‘upekkhako satimā sukhavihārī’ti tatiyaṁ jhānaṁ < sukhassa ca pahānā dukkhassa ca pahānā, pubbeva somanassadomanassānaṁ atthaṅgamā, adukkhamasukhaṁ upekkhāsatipārisuddhiṁ catutthaṁ jhānaṁ
+< anāsavā sukhā
+--------------------
+### [MN 39: Mahāassapurasutta](https://suttacentral.net/mn39/en/sujato)
+People label you as ascetics. And when they ask you what you are, you claim to be ascetics. Given this label and this claim, you should train like this: ‘We will undertake and follow the things that make one an ascetic and a brahmin. That way our label will be accurate and our claim correct.'
+#### The 5 fold Silakhanda:
+##### Sila
++ Hirottappena samannāgatā bhavissāmā
++ We will have conscience and prudence.
+
++ Parisuddho no kāya-vacī-mano-samācāro bhavissati uttāno vivaṭo na ca chiddavā saṁvuto ca. Tāya ca pana parisuddhakāyasamācāratāya nevattānukkaṁsessāma na paraṁ vambhessāmā.
++ Our bodily-verbal-mental behavior will be pure, clear, open, neither inconsistent nor secretive.And we won’t glorify ourselves or put others down on account of our pure bodily behavior.
+
+##### Indriyesu guttadvārā bhavissāma: Restrain of senses
+##### Bhojane mattaññuno bhavissāma: Don't eat too much. Recollection of Requisites
+We will not eat too much. We will only eat after reflecting properly on our food.
+We will eat not for fun, indulgence, adornment, or decoration, but only to sustain this body, to avoid harm, and to support spiritual practice. In this way, we shall put an end to old discomfort and not give rise to new discomfort, and we will live blamelessly and at ease.’
+
+‘Bhojane mattaññuno bhavissāma, paṭisaṅkhā yoniso āhāraṁ āharissāma, neva davāya na madāya na maṇḍanāya na vibhūsanāya yāvadeva imassa kāyassa ṭhitiyā yāpanāya, vihiṁsūparatiyā, brahmacariyānuggahāya, iti purāṇañca vedanaṁ paṭihaṅkhāma navañca vedanaṁ na uppādessāma, yātrā ca no bhavissati, anavajjatā ca, phāsu vihāro cā’ti evañhi vo, bhikkhave, sikkhitabbaṁ.
+##### Jāgariyaṁ anuyuttā bhavissāma: Devoted to wakefulness
+And what, monks, is there further to be done? Thinking: ‘We must be intent on vigilance; During daytime, walking or sitting, we'll cleanse our mind from obstacles. 
+During first third of night, walking or sitting, we'll cleanse our mind from obstacles.
+During second third of the night, we'll lie down on the right side in the lion’s posture, placing one foot on top of the other—mindful and aware, and focused on the time of getting up. 
+During the last third of night, walking or sitting, we'll cleanse our mind from obstacles.’
+
+'Jāgariyaṁ anuyuttā bhavissāma, divasaṁ caṅkamena nisajjāya āvaraṇīyehi dhammehi cittaṁ parisodhessāma.
+Rattiyā paṭhamaṁ yāmaṁ caṅkamena nisajjāya āvaraṇīyehi dhammehi cittaṁ parisodhessāma.
+Rattiyā majjhimaṁ yāmaṁ dakkhiṇena passena sīhaseyyaṁ kappessāma pāde pādaṁ accādhāya, sato sampajāno uṭṭhānasaññaṁ manasi karitvā.
+Rattiyā pacchimaṁ yāmaṁ paccuṭṭhāya caṅkamena nisajjāya āvaraṇīyehi dhammehi cittaṁ parisodhessāmā’ti, evañhi vo, bhikkhave, sikkhitabbaṁ.
+
+---
+. Jāgariya :Waking + .Anuyutta : Apply oneself to(anuyuñjati)
+##### Satisampajaññena samannāgatā bhavissāma : Have sati
+Satisampajaññena samannāgatā bhavissāma, abhikkante paṭikkante sampajānakārī, ālokite vilokite sampajānakārī, samiñjite pasārite sampajānakārī, saṅghāṭipattacīvaradhāraṇe sampajānakārī, asite pīte khāyite sāyite sampajānakārī, uccārapassāvakamme sampajānakārī, gate ṭhite nisinne sutte jāgarite bhāsite tuṇhībhāve sampajānakārī’ti, evañhi vo, bhikkhave, sikkhitabbaṁ.
+
+We will have situational awareness and mindfulness. We will act with situational awareness when going out and coming back; when looking ahead and aside; when bending and extending the limbs; when bearing the outer robe, bowl and robes; when eating, drinking, chewing, and tasting; when urinating and defecating; when walking, standing, sitting, sleeping, waking, speaking, and keeping silent.’
+
+---
+.Sampajañña : clear comprehend. aware cleary.
+
+##### The hindrances
+
+Suppose a man who has gotten into debt were to apply himself to work, and his efforts proved successful. He would pay off the original loan and have enough left over to support his partner. Thinking about this, he’d be filled with joy and happiness.
+
+Suppose a person was sick, suffering, and gravely ill. They’d lose their appetite and get physically weak. But after some time they’d recover from that illness, and regain their appetite and their strength. Thinking about this, they’d be filled with joy and happiness.
+
+Suppose a person was imprisoned in a jail. But after some time they were released from jail, safe and sound, with no loss of wealth. Thinking about this, they’d be filled with joy and happiness.
+
+Suppose a person was a bondservant. They belonged to someone else and were unable to go where they wished. But after some time they’d be freed from servitude and become their own master, an emancipated individual able to go where they wished. Thinking about this, they’d be filled with joy and happiness.
+
+Suppose there was a person with wealth and property who was traveling along a desert road. But after some time they crossed over the desert, safe and sound, with no loss of wealth. Thinking about this, they’d be filled with joy and happiness.
+
+In the same way, as long as these five hindrances are not given up inside themselves, a mendicant regards them as a debt, a disease, a prison, slavery, and a desert crossing. But when these five hindrances are given up inside themselves, a mendicant regards this as freedom from debt, good health, release from prison, emancipation, and sanctuary.
+##### 50: Māratajjanīyasutta: Rebuke of Mara
+* Tales of Mara Duusi/Moggalaana previous life.
+* Miccha Samadhi: pattakkhandhā (Slouching) adhomukhā (downcast) madhurakajātā (dopey) jhāyanti (meditate) paj-jhāyanti nij-jhāyanti apaj-jhāyantī (ruminate).
+Like an owl on a branch, hunting a mouse. 
+Like a jackal on a river-bank, hunting a fish.
+Like a cat on a dustbin, hunting a mouse.
+Like an unladen donkey, by an alley, by a drain, nodding & resting.
+* Don't let the mind have otāra (opportunity to failed/ vulnerability) by Brahmavihaara (When dosa) or meditate observing the ugliness of the body, perceiving the repulsiveness of food, perceiving dissatisfaction with the whole world, and observing the impermanence of all conditions.(asubhānupassino kāye viharatha, āhāre paṭikūlasaññino, sabbaloke anabhiratisaññino, sabbasaṅkhāresu aniccānupassino)
+##### 52: Aṭṭhakanāgarasutta
+Anada speaks.
+Atthi nu kho tena bhagavatā jānatā passatā arahatā sammāsambuddhena ekadhammo akkhāto yattha bhikkhuno appamattassa ātāpino pahitattassa viharato avimuttañceva cittaṁ vimuccati, aparikkhīṇā ca āsavā parikkhayaṁ gacchanti, ananuppattañca anuttaraṁ yogakkhemaṁ anupāpuṇātī
+* Is there one thing that has been rightly explained by the Blessed One—who knows and sees, the perfected one, the fully awakened Buddha—practicing which a diligent, keen, and resolute mendicant’s mind is freed, their defilements are ended, and they arrive at the supreme sanctuary?
+Atthi kho, gahapati. Idha, gahapati, bhikkhu vivicceva kāmehi vivicca akusalehi dhammehi savitakkaṁ savicāraṁ vivekajaṁ pītisukhaṁ paṭhamaṁ jhānaṁ upasampajja viharati
+* There is, householder. Householder, it’s when a mendicant, quite secluded from sensual pleasures, secluded from unskillful qualities, enters and remains in the first absorption, which has the rapture and bliss born of seclusion, while placing the mind and keeping it connected.
+So iti paṭisañcikkhati: ‘idampi kho paṭhamaṁ jhānaṁ abhisaṅkhataṁ abhisañcetayitaṁ. Yaṁ kho pana kiñci abhisaṅkhataṁ abhisañcetayitaṁ tadaniccaṁ nirodhadhamman’ti pajānāti.
+* Then they reflect: ‘Even this first absorption is produced by choices and intentions.’ They understand: ‘But whatever is produced by choices and intentions is impermanent and liable to cessation.’
+So tattha ṭhito āsavānaṁ khayaṁ pāpuṇāti.
+* Abiding in that they attain the ending of defilements.
+No ce āsavānaṁ khayaṁ pāpuṇāti, teneva dhammarāgena tāya dhammanandiyā pañcannaṁ orambhāgiyānaṁ saṁyojanānaṁ parikkhayā opapātiko hoti tattha parinibbāyī anāvattidhammo tasmā lokā.
+* If they don’t attain the ending of defilements, with the ending of the five lower fetters they’re reborn spontaneously, because of their passion and love for that meditation. They are extinguished there, and are not liable to return from that world.
+
+[MN 70 Kīṭāgirisutta](https://suttacentral.net/mn70/en/sujato)
+Who "na appamādena karaṇīyan":
++ One Ubhatobhāgavimutto : Both in Arupa Samadhi and Vipassana)
++ One Paññāvimutto : In Jhana/Vipassana, not Arupa Samadhi)
+Who need to "appamādena karaṇīyan":
++ One Kāyasakkhi: achive in Jhana, achive in Arupa Samadhi and some success in Vipassana with some taints destroyed.
++ One Diṭṭhippatto: not achive in Arupa Samadhi, yet somewhat success in Jhana/Vipassana, having some taints destroyed. They've - with panna - seen, understood & contemplated the Tathagata's Teaching.
++ One Saddhāvimutto: not achive in Arupa Samadhi, yet somewhat success in Jhana/Vipassana, having some taints destroyed. his conviction's planted, rooted, and established in the Tathāgata.
++ One Dhammānusārī: not achive in Arupa Samadhi, not yet success in Jhana/Vipassana and his taints not destroyed. But he accepted the Tathāgata's teachings after reflecting on them sufficiently with panna. Furthermore, he has these qualities: saddhindriyaṁ, vīriyindriyaṁ, satindriyaṁ, samādhindriyaṁ, paññindriyaṁ.
++ One Saddhānusārī: not achive in Arupa Samadhi, not yet success in Jhana/Vipassana and his taints not destroyed. But he have a degree of faith and love for the tathāgata. Furthermore, he has these qualities: saddhindriyaṁ, vīriyindriyaṁ, satindriyaṁ, samādhindriyaṁ, paññindriyaṁ.
+---
++ Imassapi kho ahaṁ, bhikkhave, bhikkhuno ‘appamādena karaṇīyan’ti vadāmi. Taṁ kissa hetu?
+I say that the mendicant (above) also still has work to do with diligence. Why is that? Thinking:
++ Appeva nāma ayamāyasmā anulomikāni senāsanāni paṭisevamāno kalyāṇamitte bhajamāno indriyāni samannānayamāno—
+Hopefully this venerable will frequent appropriate lodgings, associate with good friends, and control their faculties.
++ yassatthāya kulaputtā sammadeva agārasmā anagāriyaṁ pabbajanti, tadanuttaraṁ—brahmacariyapariyosānaṁ diṭṭheva dhamme sayaṁ abhiññā sacchikatvā upasampajja vihareyyāti.
+Then they might realize the supreme culmination of the spiritual path in this very life, and live having achieved with their own insight the goal for which gentlemen rightly go forth from the lay life to homelessness.’
++ Imaṁ kho ahaṁ, bhikkhave, imassa bhikkhuno appamādaphalaṁ sampassamāno ‘appamādena karaṇīyan’ti vadāmi.
+Seeing this fruit of diligence for this mendicant, I say that they still have work to do with diligence.
+
+---
++ Nāhaṁ, bhikkhave, ādikeneva aññārādhanaṁ vadāmi; api ca, bhikkhave, anupubbasikkhā anupubbakiriyā anupubbapaṭipadā aññārādhanā hoti. Kathañca, bhikkhave, anupubbasikkhā anupubbakiriyā anupubbapaṭipadā aññārādhanā hoti?
+Bhikkhus, I do not say that final knowledge is achieved all at once. On the contrary, final knowledge is achieved by gradual training, by gradual practice, by gradual progress. How?
++ Sāpi nāma, bhikkhave, saddhā nāhosi; tampi nāma, bhikkhave, upasaṅkamanaṁ nāhosi; sāpi nāma, bhikkhave, payirupāsanā nāhosi; tampi nāma, bhikkhave, sotāvadhānaṁ nāhosi; tampi nāma, bhikkhave, dhammassavanaṁ nāhosi; sāpi nāma, bhikkhave, dhammadhāraṇā nāhosi; sāpi nāma, bhikkhave, atthūpaparikkhā nāhosi; sāpi nāma, bhikkhave, dhammanijjhānakkhanti nāhosi; sopi nāma, bhikkhave, chando nāhosi; sopi nāma, bhikkhave, ussāho nāhosi; sāpi nāma, bhikkhave, tulanā nāhosi; tampi nāma, bhikkhave, padhānaṁ nāhosi. 
+If there's no conviction (in the Teacher), bhikkhus, and there's no visiting (the Teacher), and there's no paying of respect (the Teacher), and there's no giving ear (of Teacher's Dhamma), and there's no hearing of the Dhamma, and there's no memorising of the Dhamma, and there's no examination of the meaning, and there's no reflective acceptance of the Dhamma, and there's no zeal, and there's no effort, and there's no scrutiny, and there's no striving.
++ Vippaṭipannāttha, bhikkhave, micchāpaṭipannāttha, bhikkhave. Kīva dūrevime, bhikkhave, moghapurisā apakkantā imamhā dhammavinayā.
+Bhikkhus, you have lost your way; bhikkhus, you have been practising the wrong way. Just how far, bhikkhus, have these misguided men strayed from this Doctrine and Discipline?
++ Yopi so, bhikkhave, satthā āmisagaru āmisadāyādo āmisehi saṁsaṭṭho viharati tassa pāyaṁ evarūpī paṇopaṇaviyā na upeti:
+Even with a teacher who values material things, is an heir in material things, who lives caught up in material things, you wouldn’t get into such haggling:
++ ‘evañca no assa atha naṁ kareyyāma, na ca no evamassa na naṁ kareyyāmā’ti, kiṁ pana, bhikkhave, yaṁ tathāgato sabbaso āmisehi visaṁsaṭṭho viharati.
+‘If we get this, we’ll do that. If we don’t get this, we won’t do it.’ What then of the Realized One, who lives utterly detached from material things?
++ Saddhassa, bhikkhave, sāvakassa satthusāsane pariyogāhiya vattato ayamanudhammo hoti:
+For a faithful disciple who is practicing to fathom the Teacher’s instructions, this is in line with the teaching:
++ ‘satthā bhagavā, sāvakohamasmi; jānāti bhagavā, nāhaṁ jānāmī’ti.
+‘The Buddha is my Teacher, I am his disciple. The Buddha knows, I do not know.’
++ Saddhassa, bhikkhave, sāvakassa satthusāsane pariyogāhiya vattato ruḷhanīyaṁ satthusāsanaṁ hoti ojavantaṁ.
+For a faithful disciple who is practicing to fathom the Teacher’s instructions, the Teacher’s instructions are nourishing and nutritious.
++ Saddhassa, bhikkhave, sāvakassa satthusāsane pariyogāhiya vattato ayamanudhammo hoti:
+For a faithful disciple who is practicing to fathom the Teacher’s instructions, this is in line with the teaching:
++ ‘kāmaṁ taco ca nhāru ca aṭṭhi ca avasissatu, sarīre upassussatu maṁsalohitaṁ, yaṁ taṁ purisathāmena purisavīriyena purisaparakkamena pattabbaṁ na taṁ apāpuṇitvā vīriyassa saṇṭhānaṁ bhavissatī’ti.
+‘Gladly, let only skin, sinews, and bones remain! Let the flesh and blood waste away in my body! I will not relax my energy until I have achieved what is possible by human strength, energy, and vigor.’
++ Saddhassa, bhikkhave, sāvakassa satthusāsane pariyogāhiya vattato dvinnaṁ phalānaṁ aññataraṁ phalaṁ pāṭikaṅkhaṁ—diṭṭheva dhamme aññā, sati vā upādisese anāgāmitā”ti.
+A faithful disciple who is practicing to fathom the Teacher’s instructions can expect one of two results: enlightenment in the present life, or if there’s something left over, non-return.”
+---
+.Ogāhati :plunges or enters into； absorbs in．> Pariyogāhati :penetrates;fathom
+.Vattati :going on;happen;
+.Ayam :This + .Anu-Dhamma :Conform with Dhamma
+.Ruha :growing + .Niyama :limitation > Aniyama :Without limit? > Ruḷhanīya :Grow strong
+.Ojavā ：Juicy;sweet
+.Kāmaṁ :Even if .kāmaṁ + Avasissati :left over;remain over
+[Esukārīsutta](https://suttacentral.net/mn96/en/sujato)
+I declare: a person’s own wealth is the transcendent dhamma.
+* Ariyaṁ kho ahaṁ, lokuttaraṁ dhammaṁ purisassa sandhanaṁ paññapemi.
+
+[Vāseṭṭhasutta](https://suttacentral.net/mn98/en/sujato)
+Like rain off a lotus leaf, like a mustard seed off the point of a pin,
+sensual pleasures slide off them: that’s who I call a brahmin.
+* Vāripokkharapatteva, āraggeriva sāsapo; Yo na limpati kāmesu, tamahaṁ brūmi brāhmaṇaṁ.
+They have no clinging, knowledge has freed them of indecision,
+they’ve arrived at the culmination of the deathless: that’s who I call a brahmin.
+* Yassālayā na vijjanti, aññāya akathaṅkathiṁ; Amatogadhaṁ anuppattaṁ, tamahaṁ brūmi brāhmaṇaṁ.
+
+[Subhasutta](https://suttacentral.net/mn99/en/sujato)
+##### The hindrances
+* There're five hindrances (nīvaraṇā): sensual desire, ill will, dullness and drowsiness, restlessness and remorse, and doubt. For those who're caged, trapped, covered, and engulfed by these five hindrances, they can not possible to know, see or realize a superhuman distinction in knowledge and vision worthy of the noble ones.
+* There're five kinds of sense desire (kāmaguṇā): sights known by the eye, sounds known by the ear, smells known by the nose, tastes known by the tongue, touches known by the body that are likable, desirable, agreeable, pleasant, sensual, and arousing. For those who enjoy sense desire, tied, infatuated, attached, blind to the drawbacks, and not understanding its escape, they can not possible to to know, see or realize a superhuman distinction in knowledge and vision worthy of the noble ones.
+
+* If possible for fire to burn without fuel as grass or logs, that fire'll have better flames, color, and radiance. Rapture with fuel of sensual stimulation is like fire burn of grass and logs. Rapture that’s apart from sensual pleasures and unskillful qualities is like fire that doesn’t depend on fuel as grass and logs.
+
+* Take a mendicant who speaks the truth. Thinking, ‘I’m truthful,’ they find joy in the meaning and the teaching, and find joy connected with the teaching. That joy connected with the skillful is a prerequisite of the mind for developing a mind free of enmity and ill will.
+
+
+[Caṅkīsutta](https://suttacentral.net/mn95/en/sujato)
+What is awakening to truth?
+1. Investigated the person: check if they purified of states based on greed, hatred, delusion. 
+2. Place conviction on the person.
+3. Visit and get acquainted with them.
+4. Listen to what they say and do
+5. Listen to their Dhamma
+6. Remember the Dhamma
+7. Research its meaning
+8. Approval of its meaning based on contemplation
+9. Zeal appear, interested in practice Dhamma
+10. Put effort in practice and persevere
+11. Realize the truth
+
+[Saṅgāravasutta](https://suttacentral.net/mn100/en/sujato)
+
+The 3 log simile
+* Suppose there was a green, sappy log lying in water. A man comes along, want to start a fire and get some heat. By drilling against that green, sappy log lying in water, do you think he could?
+* In the same way, those don’t live withdrawn in body and mind from sensual pleasures, who haven’t internally given up or stilled desire, affection, infatuation, thirst, and passion for sensual pleasures, regardless of whether or not they suffer painful, sharp, severe, acute feelings due to overexertion, are incapable of knowledge and vision, of supreme awakening.
+
+* Suppose there was a green, sappy log lying on dry land, far from water. A man comes along, want to start a fire and get some heat. By drilling against that green, sappy log on dry land, far from water, do you think he could?
+* In the same way, those who live withdrawn in body and mind from sensual pleasures, but haven’t internally given up or stilled desire, affection, infatuation, thirst, and passion for sensual pleasures, regardless of whether or not they suffer painful, sharp, severe, acute feelings due to overexertion, they are incapable of knowledge and vision, of supreme awakening.
+
+* Suppose there was a dried up, withered log, lying on dry land, far from water. A man comes along, want to start a fire and get some heat. By drilling against that dried up, withered log on dry land far from water, do you think he could?
+* In the same way, those live withdrawn in body and mind from sensual pleasures, who have internally given up and stilled desire, affection, infatuation, thirst, and passion for sensual pleasures, regardless of whether or not they suffer painful, sharp, severe, acute feelings due to overexertion, they are capable of knowledge and vision, of supreme awakening.
+
+
+[MN 101: Devadahasutta](https://suttacentral.net/mn101/en/sujato)
+  How exertion and striving's fruitful ?
+  A practitioner doesn’t bring suffering upon himself; don’t give up legitimate pleasure, BUT he is not besotted with that pleasure.
+  He understand:
+"For this type of dukkha's cause, I'll put effort to become dispassionate. For that type of dukkha's cause, I'll develop upekkha to become dispassionate."
+  So, he do so. Thus, this dukkha, coming from cause need to be put forward effor, is ended and that dukkha, coming from cause need to develop upekkha, is ended.
+  Like a man in love. His mind ensnared with fierce desire, fierce passion. As he sees her standing with other man, chatting, joking, laughing; soka (sorrow), parideva (lamentation), dukkha (physical pain), domanassa (mental pain) arise (uppāda) in him. Then he think :"Why don’t I give up desire and passion for that woman?". So he did. Thus, as he sees her standing with other man, chatting, joking, laughing; soka (sorrow), parideva (lamentation), dukkha (physical pain), domanassa (mental pain) NOT arise (uppāda) in him. 
+  Furthermore, he reflects:
+"When I live as I please, unskillful qualities grow and skillful qualities decline. But when I strive painfully, unskillful qualities decline and skillful qualities grow. Why don’t I strive painfully?"
+  So that what he do. As he do so, unskillful qualities decline and skillful qualities grow. After some time, he no longer strives painfully ,because they have accomplished the goal for which he strived.
+  
+  They’re content with robes to look after the body and alms-food to look after the belly. Wherever they go, they set out taking only these things. They’re like a bird: wherever it flies, wings are its only burden.
+  So santuṭṭho hoti kāyaparihārikena cīvarena, kucchiparihārikena piṇḍapātena. So yena yeneva pakkamati samādāyeva pakkamati. Seyyathāpi nāma pakkhī sakuṇo yena yeneva ḍeti sapattabhārova ḍeti;
+  
+  They act with situational awareness when going out and coming back; when looking ahead and aside; when bending and extending the limbs; when bearing the outer robe, bowl and robes; when eating, drinking, chewing, and tasting; when urinating and defecating; when walking, standing, sitting, sleeping, waking, speaking, and keeping silent.
+  So abhikkante paṭikkante sampajānakārī hoti, ālokite vilokite sampajānakārī hoti, samiñjite pasārite sampajānakārī hoti, saṅghāṭipattacīvaradhāraṇe sampajānakārī hoti, asite pīte khāyite sāyite sampajānakārī hoti, uccārapassāvakamme sampajānakārī hoti, gate ṭhite nisinne sutte jāgarite bhāsite tuṇhībhāve sampajānakārī hoti.
+  
+  After the meal, they return from alms-round, sit down cross-legged with their body straight, and establish mindfulness right there.
+So pacchābhattaṁ piṇḍapātapaṭikkanto nisīdati pallaṅkaṁ ābhujitvā, ujuṁ kāyaṁ paṇidhāya, parimukhaṁ satiṁ upaṭṭhapetvā.
+
+Giving up desire for the world, they meditate with a heart rid of desire, cleansing the mind of desire.
+Giving up ill will and malevolence, they meditate with a mind rid of ill will, full of compassion for all living beings, cleansing the mind of ill will.
+Giving up dullness and drowsiness, they meditate with a mind rid of dullness and drowsiness, perceiving light, mindful and aware, cleansing the mind of dullness and drowsiness.
+Giving up restlessness and remorse, they meditate without restlessness, their mind peaceful inside, cleansing the mind of restlessness and remorse.
+Giving up doubt, they meditate having gone beyond doubt, not undecided about skillful qualities, cleansing the mind of doubt.
+They give up these five hindrances, corruptions of the heart that weaken wisdom.
+Then, quite secluded from sensual pleasures, secluded from unskillful qualities, they enter and remain in the first absorption, which has the rapture and bliss born of seclusion, while placing the mind and keeping it connected.
+
+So abhijjhaṁ loke pahāya vigatābhijjhena cetasā viharati, abhijjhāya cittaṁ parisodheti.
+Byāpādapadosaṁ pahāya abyāpannacitto viharati sabbapāṇabhūtahitānukampī, byāpādapadosā cittaṁ parisodheti.
+Thinamiddhaṁ pahāya vigatathinamiddho viharati ālokasaññī sato sampajāno, thinamiddhā cittaṁ parisodheti.
+Uddhaccakukkuccaṁ pahāya anuddhato viharati ajjhattaṁ vūpasantacitto, uddhaccakukkuccā cittaṁ parisodheti.
+Vicikicchaṁ pahāya tiṇṇavicikiccho viharati akathaṅkathī kusalesu dhammesu, vicikicchāya cittaṁ parisodheti.
+So ime pañca nīvaraṇe pahāya cetaso upakkilese paññāya dubbalīkaraṇe
+vivicceva kāmehi vivicca akusalehi dhammehi savitakkaṁ savicāraṁ vivekajaṁ pītisukhaṁ paṭhamaṁ jhānaṁ upasampajja viharati.

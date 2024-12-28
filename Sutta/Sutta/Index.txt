@@ -1,0 +1,22 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2022-11-25T10:42:23+07:00
+
+#### Buddha
++ [MN 8 : Sallekhasutta](https://suttacentral.net/mn8/en/sujato) : Yaṁ kho, satthārā karaṇīyaṁ sāvakānaṁ hitesinā anukampakena anukampaṁ upādāya, kataṁ vo taṁ mayā. Etāni, rukkhamūlāni, etāni suññāgārāni, jhāyatha, mā pamādattha, mā pacchāvippaṭisārino ahuvattha—ayaṁ kho amhākaṁ anusāsanī. (Out of compassion, I’ve done what a teacher should do who wants what’s best for their disciples. Here are these roots of trees, and here are these empty huts. Practice absorption. Don’t be negligent! Don’t regret it later! This is my instruction.)
+#### Diṭṭhi [mn72 : Aggivacchasutta](https://suttacentral.net/mn72/en/sujato)
++ Diṭṭhigatametaṁ diṭṭhigahanaṁ diṭṭhikantāro diṭṭhivisūkaṁ diṭṭhivipphanditaṁ diṭṭhisaṁyojanaṁ sadukkhaṁ savighātaṁ saupāyāsaṁ sapariḷāhaṁ, na nibbidāya na virāgāya na nirodhāya na upasamāya na abhiññāya na sambodhāya na nibbānāya saṁvattati. 
+ + Imaṁ kho ahaṁ, ādīnavaṁ sampassamāno evaṁ imāni sabbaso diṭṭhigatāni anupagato. Diṭṭhigatanti kho, apanītametaṁ tathāgatassa.
+ + Diṭṭhañhetaṁ, tathāgatena: ‘iti rūpaṁ, iti rūpassa samudayo, iti rūpassa atthaṅgamo; iti vedanā, iti vedanāya samudayo, iti vedanāya atthaṅgamo; iti saññā, iti saññāya samudayo, iti saññāya atthaṅgamo; iti saṅkhārā, iti saṅkhārānaṁ samudayo, iti saṅkhārānaṁ atthaṅgamo; iti viññāṇaṁ, iti viññāṇassa samudayo, iti viññāṇassa atthaṅgamo’ti. asmā tathāgato sabbamaññitānaṁ sabbamathitānaṁ sabbaahaṅkāramamaṅkāramānānusayānaṁ khayā virāgā nirodhā cāgā paṭinissaggā anupādā vimuttoti vadāmī.
+#### Nivarana (MN39)
++ Like debt, sickness, prisonment, slavery
+[MN 39 : Mahāassapurasutta](https://suttacentral.net/mn39/en/sujato)
+### Pariyosana: 
+MN 26
+##### Saññā  [AN 10.60 GirimanandaSutta](https://suttacentral.net/an10.60/en/sujato)
++ Aniccasaññā: rūpaṁ aniccaṁ, vedanā aniccā, saññā aniccā, saṅkhārā aniccā, viññāṇaṁ aniccan.
++ Anattasaññā : cakkhu anattā, rūpā anattā, sotaṁ anattā, saddā anattā, ghānaṁ anattā, gandhā anattā, jivhā anattā, rasā anattā, kāyā anattā, phoṭṭhabbā anattā, mano anattā, dhammā anattā.
++ pahānasaññā : Uppannaṁ kāmavitakkaṁ-byāpādavitakkaṁ-vihiṁsāvitakkaṁ, Uppannuppanne pāpake akusale dhamme nādhivāseti, pajahati, vinodeti, byantīkaroti, anabhāvaṁ gameti.
++ virāga-nirodhasaññā : etaṁ santaṁ etaṁ paṇītaṁ yadidaṁ sabbasaṅkhārasamatho sabbūpadhippaṭinissaggo taṇhākkhayo virāgo nibbānan.
++ sabbaloke anabhiratasaññā : bhikkhu ye loke upādānā cetaso adhiṭṭhānābhinivesānusayā, te pajahanto viharati anupādiyanto.
++ sabbasaṅkhāresu anicchāsaññā: sabbasaṅkhāresu aṭṭīyati harāyati jigucchati.

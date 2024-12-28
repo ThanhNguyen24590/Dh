@@ -1,0 +1,85 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2022-11-25T10:42:34+07:00
+
+=== 11 [[https://suttacentral.net/mn11/en/sujato|Cūḷasīhanādasutta]] ===
+Atthi kho no, satthari pasādo, atthi dhamme pasādo, atthi sīlesu paripūrakāritā; sahadhammikā kho pana piyā manāpā - gahaṭṭhā ceva pabbajitā ca. Ime kho no, tena bhagavatā jānatā passatā arahatā sammāsambuddhena cattāro dhammā akkhātā ye mayaṁ attani sampassamānā evaṁ vadema: Idheva samaṇo, idha dutiyo samaṇo, idha tatiyo samaṇo, idha catuttho samaṇo; suññā parappavādā samaṇebhi aññehīti.
+Ye hi keci, samaṇā vā brāhmaṇā vā : Cattārimāni upādānāni - Kāmupādānaṁ, diṭṭhupādānaṁ, sīlabbatupādānaṁ, attavādupādānaṁ : samudayañca atthaṅgamañca assādañca ādīnavañca nissaraṇañca yathābhūtaṁ nappajānanti.
+Tathāgato ca kho, arahaṁ sammāsambuddho sabbupādānapariññāvādo paṭijānamāno sammā sabbupādānapariññaṁ paññapeti - kāmupādānassa pariññaṁ paññapeti, diṭṭhupādānassa pariññaṁ paññapeti, sīlabbatupādānassa pariññaṁ paññapeti, attavādupādānassa pariññaṁ paññapeti. Evarūpe kho, dhammavinaye yo satthari pasādo so sammaggato akkhāyati; yo dhamme pasādo so sammaggato akkhāyati; yā sīlesu paripūrakāritā sā sammaggatā akkhāyati; yā sahadhammikesu piyamanāpatā sā sammaggatā akkhāyati. Evañhetaṁ, hoti yathā taṁ svākkhāte dhammavinaye suppavedite niyyānike upasamasaṁvattanike sammāsambuddhappavedite.
+Ime ca, cattāro upādānā. Kiṁnidānā kiṁsamudayā kiṁjātikā kiṁpabhavā? Ime cattāro upādānā taṇhānidānā taṇhāsamudayā taṇhājātikā taṇhāpabhavā....(paṭiccasamuppāda)...Saṅkhārā avijjānidānā avijjāsamudayā avijjājātikā avijjāpabhavā.
+Yato ca kho, bhikkhuno avijjā pahīnā hoti vijjā uppannā, so avijjāvirāgā vijjuppādā neva kāmupādānaṁ upādiyati, na diṭṭhupādānaṁ upādiyati, na sīlabbatupādānaṁ upādiyati, na attavādupādānaṁ upādiyati. Anupādiyaṁ na paritassati, aparitassaṁ paccattaññeva parinibbāyati. ‘Khīṇā jāti, vusitaṁ brahmacariyaṁ, kataṁ karaṇīyaṁ, nāparaṁ itthattāyā’ti pajānātī”ti.
+=== 12 [[https://suttacentral.net/mn12/en/sujato|Mahāsīhanādasutta]] Note: Buddho: 13 Power ===
+=== 13 [[https://suttacentral.net/mn13/en/sujato|Mahādukkhakkhandhasutta]] ===
+Ko kāmānaṁ assādo, ko ādīnavo, kiṁ nissaraṇaṁ?
++ Yaṁ kho, ime pañca kāmaguṇe paṭicca uppajjati sukhaṁ somanassaṁ—ayaṁ kāmānaṁ assādo. 
++ Kāmahetu kāmanidānaṁ kāmādhikaraṇaṁ kāmānameva hetu kāyena duccaritaṁ caranti, vācāya duccaritaṁ caranti, manasā duccaritaṁ caranti....[dukkha sacca] Ayampi, kāmānaṁ ādīnavo sandiṭṭhiko/samparāyiko, dukkhakkhandho kāmahetu kāmanidānaṁ kāmādhikaraṇaṁ kāmānameva hetu.
++ Yo kho, kāmesu chandarāgavinayo chandarāgappahānaṁ—idaṁ kāmānaṁ nissaraṇaṁ.
+Ko rūpānaṁ assādo, ko ādīnavo, kiṁ nissaraṇaṁ?
++ Yaṁ kho, subhaṁ vaṇṇanibhaṁ paṭicca uppajjati sukhaṁ somanassaṁ
++ yā purimā subhā vaṇṇanibhā sā antarahitā, ādīnavo pātubhūtoti?
++ Yo rūpesu chandarāgavinayo chandarāgappahānaṁ—idaṁ rūpānaṁ nissaraṇaṁ.
+Ko vedanānaṁ assādo, ko ādīnavo, kiṁ nissaraṇan’ti?
++ Idha bhikkhu vivicceva kāmehi vivicca akusalehi dhammehi savitakkaṁ savicāraṁ vivekajaṁ pītisukhaṁ paṭhamaṁ jhānaṁ upasampajja viharati...Abyābajjhaparamāhaṁ, vedanānaṁ assādaṁ vadāmi.
++ Yaṁ, vedanā aniccā dukkhā vipariṇāmadhammā—ayaṁ vedanānaṁ ādīnavo.
++ Yo vedanāsu chandarāgavinayo, chandarāgappahānaṁ—idaṁ vedanānaṁ nissaraṇaṁ.
+=== 14 [[https://suttacentral.net/mn14/en/sujato|Cūḷadukkhakkhandhasutta]] ===
++ Dīgharattāhaṁ, bhagavatā evaṁ dhammaṁ desitaṁ ājānāmi: ‘lobho cittassa upakkileso, doso cittassa upakkileso, moho cittassa upakkileso’ti. Atha ca pana me ekadā lobhadhammāpi cittaṁ pariyādāya tiṭṭhanti, dosadhammāpi cittaṁ pariyādāya tiṭṭhanti, mohadhammāpi cittaṁ pariyādāya tiṭṭhanti. Tassa mayhaṁ, evaṁ hoti: ‘kosu nāma me dhammo ajjhattaṁ appahīno yena me ekadā lobhadhammāpi cittaṁ pariyādāya tiṭṭhanti, dosadhammāpi cittaṁ pariyādāya tiṭṭhanti, mohadhammāpi cittaṁ pariyādāya tiṭṭhantī’”ti.
++ So eva kho te, dhammo ajjhattaṁ appahīno yena te ekadā lobhadhammāpi cittaṁ pariyādāya tiṭṭhanti, dosadhammāpi cittaṁ pariyādāya tiṭṭhanti, mohadhammāpi cittaṁ pariyādāya tiṭṭhanti. So ca hi te, dhammo ajjhattaṁ pahīno abhavissa, na tvaṁ agāraṁ ajjhāvaseyyāsi, na kāme paribhuñjeyyāsi. Yasmā ca kho te, so eva dhammo ajjhattaṁ appahīno tasmā tvaṁ agāraṁ ajjhāvasasi, kāme paribhuñjasi.
++ ‘Appassādā kāmā bahudukkhā bahupāyāsā, ādīnavo ettha bhiyyo’ti -iti cepi, ariyasāvakassa yathābhūtaṁ sammappaññāya sudiṭṭhaṁ hoti, so ca aññatreva kāmehi aññatra akusalehi dhammehi pītisukhaṁ nādhigacchati, aññaṁ vā tato santataraṁ; atha kho so neva tāva anāvaṭṭī kāmesu hoti.
++ Yato ca kho, ariyasāvakassa ‘appassādā kāmā bahudukkhā bahupāyāsā, ādīnavo ettha bhiyyo’ti—evametaṁ yathābhūtaṁ sammappaññāya sudiṭṭhaṁ hoti, so ca aññatreva kāmehi aññatra akusalehi dhammehi pītisukhaṁ adhigacchati aññaṁ vā tato santataraṁ;
++ Ahaṁ kho, pahomi aniñjamāno kāyena, abhāsamāno vācaṁ, ekaṁ/dve/tīṇi/cattāri/pañca/cha/satta  rattindivaṁ ekantasukhaṁ paṭisaṁvedī viharituṁ.
+=== 15 [[https://suttacentral.net/mn15/en/sujato|Anumānasutta]] ===
+Tatrāvuso, bhikkhunā attanāva attānaṁ evaṁ anuminitabbaṁ: 
++ ‘yo khvāyaṁ puggalo pāpiccho, pāpikānaṁ icchānaṁ vasaṁ gato, ayaṁ me puggalo appiyo amanāpo; ahañceva kho panassaṁ pāpiccho pāpikānaṁ icchānaṁ vasaṁ gato, ahampāssaṁ paresaṁ appiyo amanāpo’ti. Evaṁ jānantenāvuso, bhikkhunā ‘na pāpiccho bhavissāmi, na pāpikānaṁ icchānaṁ vasaṁ gato’ti cittaṁ uppādetabbaṁ.
+....
+Tatrāvuso, bhikkhunā attanāva attānaṁ evaṁ paccavekkhitabbaṁ:
++ ‘kiṁ nu khomhi pāpiccho, pāpikānaṁ icchānaṁ vasaṁ gato’ti? 
+Sace, āvuso, bhikkhu paccavekkhamāno evaṁ jānāti: ‘pāpiccho khomhi, pāpikānaṁ icchānaṁ vasaṁ gato’ti, tenāvuso, bhikkhunā tesaṁyeva pāpakānaṁ akusalānaṁ dhammānaṁ pahānāya vāyamitabbaṁ. 
+Sace panāvuso, bhikkhu paccavekkhamāno evaṁ jānāti: ‘na khomhi pāpiccho, na pāpikānaṁ icchānaṁ vasaṁ gato’ti, tenāvuso, bhikkhunā teneva pītipāmojjena vihātabbaṁ ahorattānusikkhinā kusalesu dhammesu.
+....
+Evameva kho, sace bhikkhu paccavekkhamāno sabbepime pāpake akusale dhamme appahīne attani samanupassati, tenāvuso, bhikkhunā sabbesaṁyeva imesaṁ pāpakānaṁ akusalānaṁ dhammānaṁ pahānāya vāyamitabbaṁ.
+Sace panāvuso, bhikkhu paccavekkhamāno sabbepime pāpake akusale dhamme pahīne attani samanupassati, tenāvuso, bhikkhunā teneva pītipāmojjena vihātabbaṁ, ahorattānusikkhinā kusalesu dhammesū”ti.
+=== 16 [[https://suttacentral.net/mn16/en/sujato|Ceto-khila-sutta]] ===
+Yassa kassaci, bhikkhuno pañca cetokhilā appahīnā, pañca cetasovinibandhā asamucchinnā, so vatimasmiṁ dhammavinaye vuddhiṁ virūḷhiṁ vepullaṁ āpajjissatīti—netaṁ ṭhānaṁ vijjati.
+Katamāssa pañca cetokhilā appahīnā honti?
++ Idha, bhikkhu satthari kaṅkhati vicikicchati nādhimuccati na sampasīdati. Yo so, bhikkhu satthari kaṅkhati vicikicchati nādhimuccati na sampasīdati tassa cittaṁ na namati ātappāya anuyogāya sātaccāya padhānāya. Yassa cittaṁ na namati ātappāya anuyogāya sātaccāya padhānāya, evamassāyaṁ paṭhamo cetokhilo appahīno hoti.
++ Puna caparaṁ, bhikkhu dhamme kaṅkhati vicikicchati nādhimuccati na sampasīdati...evamassāyaṁ dutiyo cetokhilo appahīno hoti.
++ Puna caparaṁ, bhikkhu saṅghe kaṅkhati vicikicchati nādhimuccati na sampasīdati …evamassāyaṁ tatiyo cetokhilo appahīno hoti.
++ Puna caparaṁ, bhikkhu sikkhāya kaṅkhati vicikicchati nādhimuccati na sampasīdati...evamassāyaṁ catuttho cetokhilo appahīno hoti.
++ Puna caparaṁ, bhikkhu sabrahmacārīsu kupito hoti anattamano āhatacitto khilajāto. Yo so, bhikkhu sabrahmacārīsu kupito hoti anattamano āhatacitto khilajāto, tassa cittaṁ na namati ātappāya anuyogāya sātaccāya padhānāya. Yassa cittaṁ na namati ātappāya anuyogāya sātaccāya padhānāya, evamassāyaṁ pañcamo cetokhilo appahīno hoti.
+Imāssa pañca cetokhilā appahīnā honti.
+Katamāssa pañca cetasovinibandhā asamucchinnā honti?
++ Idha, bhikkhu kāme avītarāgo hoti avigatacchando avigatapemo avigatapipāso avigatapariḷāho avigatataṇho. Yo so, bhikkhu kāme avītarāgo hoti avigatacchando avigatapemo avigatapipāso avigatapariḷāho avigatataṇho, tassa cittaṁ na namati ātappāya anuyogāya sātaccāya padhānāya. Yassa cittaṁ na namati ātappāya anuyogāya sātaccāya padhānāya, evamassāyaṁ paṭhamo cetasovinibandho asamucchinno hoti.
++ Puna caparaṁ, bhikkhu kāye avītarāgo hoti …evamassāyaṁ dutiyo cetasovinibandho asamucchinno hoti.
++ Puna caparaṁ, bhikkhu rūpe avītarāgo hoti …evamassāyaṁ tatiyo cetasovinibandho asamucchinno hoti.
++ Puna caparaṁ, bhikkhu yāvadatthaṁ udarāvadehakaṁ bhuñjitvā seyyasukhaṁ passasukhaṁ middhasukhaṁ anuyutto viharati. Yo so, bhikkhu yāvadatthaṁ udarāvadehakaṁ bhuñjitvā seyyasukhaṁ passasukhaṁ middhasukhaṁ anuyutto viharati, tassa cittaṁ na namati ātappāya anuyogāya sātaccāya padhānāya. Yassa cittaṁ na namati ātappāya anuyogāya sātaccāya padhānāya, evamassāyaṁ catuttho cetasovinibandho asamucchinno hoti.
++ Puna caparaṁ, bhikkhu aññataraṁ devanikāyaṁ paṇidhāya brahmacariyaṁ carati: ‘imināhaṁ sīlena vā vatena vā tapena vā brahmacariyena vā devo vā bhavissāmi devaññataro vā’ti. Yo so, bhikkhu aññataraṁ devanikāyaṁ paṇidhāya brahmacariyaṁ carati: ‘imināhaṁ sīlena vā vatena vā tapena vā brahmacariyena vā devo vā bhavissāmi devaññataro vā’ti, tassa cittaṁ na namati ātappāya anuyogāya sātaccāya padhānāya. Yassa cittaṁ na namati ātappāya anuyogāya sātaccāya padhānāya, evamassāyaṁ pañcamo cetasovinibandho asamucchinno hoti.
+Imāssa pañca cetasovinibandhā asamucchinnā honti.
+Yassa kassaci, bhikkhuno pañca cetokhilā pahīnā, pañca cetasovinibandhā susamucchinnā, so vatimasmiṁ dhammavinaye vuddhiṁ virūḷhiṁ vepullaṁ āpajjissatīti—ṭhānametaṁ vijjati.
+So chanda-samādhi-padhāna-saṅkhāra-samannā-gataṁ iddhipādaṁ bhāveti,
+vīriya-samādhi-padhāna-saṅkhāra-samannā-gataṁ iddhipādaṁ bhāveti,
+citta-samādhi-padhāna-saṅkhāra-samannāgataṁ iddhipādaṁ bhāveti,
+vīmaṁsā-samādhi-padhāna-saṅkhāra-samannā-gataṁ iddhipādaṁ bhāveti,
+ussoḷhīyeva pañcamī.
+Sa kho so, evaṁ ussoḷhi-pannarasaṅga-samannāgato bhikkhu bhabbo abhinibbidāya, bhabbo sambodhāya, bhabbo anuttarassa yogakkhemassa adhigamāya.
+=== 17 [[https://suttacentral.net/mn17/en/sujato|Vanapatthasutta]] Priority of the practice is higher than neccessities. ===
+=== 18 [[https://suttacentral.net/mn18/en/sujato|Madhupiṇḍikasutta]] DN 21 - Sn 4:14 - MN 18 : papañca ===
+Yatonidānaṁ, purisaṁ papañcasaññāsaṅkhā samudācaranti. Ettha ce natthi abhinanditabbaṁ abhivaditabbaṁ ajjhositabbaṁ. Esevanto rāgānusayānaṁ, esevanto paṭighānusayānaṁ, esevanto diṭṭhānusayānaṁ, esevanto vicikicchānusayānaṁ, esevanto mānānusayānaṁ, esevanto bhavarāgānusayānaṁ, esevanto avijjānusayānaṁ, esevanto daṇḍādānasatthādānakalahaviggahavivādatuvaṁtuvaṁpesuññamusāvādānaṁ. Etthete pāpakā akusalā dhammā aparisesā nirujjhantī”ti.
+=== 19 [[https://suttacentral.net/mn19/en/sujato|Dvedhāvitakkasutta]] ===
+sato etadahosi: ‘yannūnāhaṁ dvidhā katvā dvidhā katvā vitakke vihareyyan’ti. So kho ahaṁ, yo cāyaṁ kāmavitakko yo ca byāpādavitakko yo ca vihiṁsāvitakko—imaṁ ekaṁ bhāgamakāsiṁ; yo cāyaṁ nekkhammavitakko yo ca abyāpādavitakko yo ca avihiṁsāvitakko—imaṁ dutiyaṁ bhāgamakāsiṁ.
++ Tassa mayhaṁ, evaṁ appamattassa ātāpino pahitattassa viharato uppajjati kāmavitakko/byāpādavitakko/vihiṁsāvitakko. So evaṁ pajānāmi: ‘uppanno kho me ayaṁ kāmavitakko/byāpādavitakko/vihiṁsāvitakko. So ca kho attabyābādhāyapi saṁvattati, parabyābādhāyapi saṁvattati, ubhayabyābādhāyapi saṁvattati, paññānirodhiko vighātapakkhiko anibbānasaṁvattaniko’. > paṭisañcikkhato abbhatthaṁ gacchati; So kho ahaṁ, uppannuppannaṁ kāmavitakkaṁ pajahameva vinodameva byantameva naṁ akāsiṁ.
+Yaññadeva, bhikkhu bahulamanuvitakketi anuvicāreti, tathā tathā nati hoti cetaso. Kāmavitakkañce, bhikkhu bahulamanuvitakketi anuvicāreti, pahāsi nekkhammavitakkaṁ, kāmavitakkaṁ bahulamakāsi, tassa taṁ kāmavitakkāya cittaṁ namati...Byāpādavitakkañce…pe…vihiṁsāvitakkañce...pe...
++ Evameva kho ahaṁ, addasaṁ akusalānaṁ dhammānaṁ ādīnavaṁ okāraṁ saṅkilesaṁ, kusalānaṁ dhammānaṁ nekkhamme ānisaṁsaṁ vodānapakkhaṁ. 
++ Tassa mayhaṁ, evaṁ appamattassa ātāpino pahitattassa viharato uppajjati nekkhammavitakko/abyāpādavitakko/avihiṁsāvitakko. So evaṁ pajānāmi: ‘uppanno kho me ayaṁ nekkhammavitakko/abyāpādavitakko/avihiṁsāvitakko. So ca kho nevattabyābādhāya saṁvattati, na parabyābādhāya saṁvattati, na ubhayabyābādhāya saṁvattati, paññāvuddhiko avighātapakkhiko nibbānasaṁvattaniko’. Rattiñcepi naṁ-Divasañcepi naṁ-Rattindivañcepi naṁ, anuvitakkeyyaṁ anuvicāreyyaṁ, neva tatonidānaṁ bhayaṁ samanupassāmi. Api ca kho me aticiraṁ anuvitakkayato anuvicārayato kāyo kilameyya. Kāye kilante cittaṁ ūhaññeyya. Ūhate citte ārā cittaṁ samādhimhāti. So kho ahaṁ, ajjhattameva cittaṁ saṇṭhapemi sannisādemi ekodiṁ karomi samādahāmi. Taṁ kissa hetu? Mā me cittaṁ ūhaññī’ti.
+Yaññadeva, bhikkhu bahulamanuvitakketi anuvicāreti, tathā tathā nati hoti cetaso. Nekkhammavitakkañce, bhikkhu bahulamanuvitakketi anuvicāreti, pahāsi kāmavitakkaṁ, nekkhammavitakkaṁ bahulamakāsi, tassaṁ taṁ nekkhammavitakkāya cittaṁ namati. Abyāpādavitakkañce...pe... avihiṁsāvitakkañce...pe..
+Āraddhaṁ kho pana me, bhikkhave, vīriyaṁ ahosi asallīnaṁ, upaṭṭhitā sati asammuṭṭhā, passaddho kāyo asāraddho, samāhitaṁ cittaṁ ekaggaṁ.
+....
+=== 20 [[https://suttacentral.net/mn20/en/sujato|Vitakkasaṇṭhānasutta]] ===
+Adhicittamanuyuttena, bhikkhunā pañca nimittāni kālena kālaṁ manasi kātabbāni.
+Idha bhikkhuno yaṁ nimittaṁ āgamma yaṁ nimittaṁ manasikaroto uppajjanti pāpakā akusalā vitakkā chandūpasaṁhitāpi dosūpasaṁhitāpi mohūpasaṁhitāpi:
+1. bhikkhunā tamhā nimittā aññaṁ nimittaṁ manasi kātabbaṁ kusalūpasaṁhitaṁ. Seyyathāpi, dakkho palagaṇḍo vā palagaṇḍantevāsī vā sukhumāya āṇiyā oḷārikaṁ āṇiṁ abhinihaneyya abhinīhareyya abhinivatteyya;
+2. bhikkhunā tesaṁ vitakkānaṁ ādīnavo upaparikkhitabbo: ‘itipime vitakkā akusalā, itipime vitakkā sāvajjā, itipime vitakkā dukkhavipākā’ti. Seyyathāpi, itthī vā puriso vā daharo yuvā maṇḍanakajātiko ahikuṇapena vā kukkurakuṇapena vā manussakuṇapena vā kaṇṭhe āsattena aṭṭiyeyya harāyeyya jiguccheyya;
+3. bhikkhunā tesaṁ vitakkānaṁ asatiamanasikāro āpajjitabbo. Seyyathāpi, cakkhumā puriso āpāthagatānaṁ rūpānaṁ adassanakāmo assa; so nimīleyya vā aññena vā apalokeyya;
+4. bhikkhunā tesaṁ vitakkānaṁ vitakkasaṅkhārasaṇṭhānaṁ manasikātabbaṁ. Seyyathāpi, puriso sīghaṁ gaccheyya. Tassa evamassa: ‘kiṁ nu kho ahaṁ sīghaṁ gacchāmi? Yannūnāhaṁ saṇikaṁ gaccheyyan’ti. So saṇikaṁ gaccheyya...Evañhi so, puriso oḷārikaṁ oḷārikaṁ iriyāpathaṁ abhinivajjetvā sukhumaṁ sukhumaṁ iriyāpathaṁ kappeyya.
+5. bhikkhunā dantebhidantamādhāya jivhāya tāluṁ āhacca cetasā cittaṁ abhiniggaṇhitabbaṁ abhinippīḷetabbaṁ abhisantāpetabbaṁ. Seyyathāpi, balavā puriso dubbalataraṁ purisaṁ sīse vā gale vā khandhe vā gahetvā abhiniggaṇheyya abhinippīḷeyya abhisantāpeyya;
+Tassa...ye pāpakā akusalā vitakkā chandūpasaṁhitāpi dosūpasaṁhitāpi mohūpasaṁhitāpi te pahīyanti te abbhatthaṁ gacchanti. Tesaṁ pahānā ajjhattameva cittaṁ santiṭṭhati sannisīdati ekodi hoti samādhiyati. Ayaṁ vuccati, bhikkhu vasī vitakkapariyāyapathesu. Yaṁ vitakkaṁ ākaṅkhissati taṁ vitakkaṁ vitakkessati, yaṁ vitakkaṁ nākaṅkhissati na taṁ vitakkaṁ vitakkessati.

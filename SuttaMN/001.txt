@@ -1,0 +1,125 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2024-07-27T16:45:23+07:00
+
+[[https://suttacentral.net/mn1/en/sujato|Mūlapariyāyasutta]]
+=== Settings: Visualize ===
+Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā ukkaṭṭhāyaṁ viharati subhagavane sālarājamūle.
+Ukkaṭṭhā: primary center of Kosalan Brahmanism, brahmadeya of leading brahmin Pokkharasāti. In country Kosalan, near Icchānaṅgala, not far from Sāvatthī to the east.
++ People involved: 
+	. Teacher: Buddha: dispel the monks misconception of immortal self. Use style: formal lecture.
+	. Listerner: Monk previously being Brahma. How do they feel from moment to moment?
+	. Yourself as audience:
+=== Diagram ===
++ Thirst/craving (Taṇhā) > Grasping (Upādāna) : abhinandati > maññati
++ 1 triangle: Loka: Kama-Rupa-Arupa + 1 triangle: Sila-Samadhi-Panna > Hexagon
++ 1 dot in hexagon: symbol bound by 3 worlds: assutavā puthujjano
++ 1 circle in hexagon: represent sekkha, not out of bound, but with strength & potential (by the 3 training) to break out.
++ Dot outside hexagon, at point: 4 dot for Arahat + 2 dot for Buddha.
+--------------------
+=== Pali Phrase 1 ===
++ assutavā puthujjano ariyānaṁ adassāvī ariyadhammassa akovido ariyadhamme avinīto, sappurisānaṁ adassāvī sappurisadhammassa akovido sappurisadhamme avinīto.
+=== Kama Loka: Material World ===
++ Pathaviṁ pathavito sañjānāti; pathaviṁ pathavito saññatvā pathaviṁ maññati, pathaviyā maññati, pathavito maññati, pathaviṁ meti maññati, pathaviṁ abhinandati. Taṁ kissa hetu? ‘Apariññātaṁ tassā’ti vadāmi.
+  Āpaṁ āpato sañjānāti; āpaṁ āpato saññatvā āpaṁ maññati, āpasmiṁ maññati, āpato maññati, āpaṁ meti maññati, āpaṁ abhinandati...
+  Tejaṁ tejato sañjānāti; tejaṁ tejato saññatvā tejaṁ maññati, tejasmiṁ maññati, tejato maññati, tejaṁ meti maññati, tejaṁ abhinandati...
+  Vāyaṁ vāyato sañjānāti; vāyaṁ vāyato saññatvā vāyaṁ maññati, vāyasmiṁ maññati, vāyato maññati, vāyaṁ meti maññati, vāyaṁ abhinandati...
+=== Kama Loka: Immaterial World ===
+  Bhūte bhūtato sañjānāti; bhūte bhūtato saññatvā bhūte maññati, bhūtesu maññati, bhūtato maññati, bhūte meti maññati, bhūte abhinandati.
+  Deve devato sañjānāti; deve devato saññatvā deve maññati, devesu maññati, devato maññati, deve meti maññati, deve abhinandati.
+  Pajāpatiṁ pajāpatito sañjānāti; pajāpatiṁ pajāpatito saññatvā pajāpatiṁ maññati, pajāpatismiṁ maññati, pajāpatito maññati, pajāpatiṁ meti maññati, pajāpatiṁ abhinandati.
+=== Rupa Loka ===
+  Brahmaṁ brahmato sañjānāti; brahmaṁ brahmato saññatvā brahmaṁ maññati, brahmasmiṁ maññati, brahmato maññati, brahmaṁ meti maññati, brahmaṁ abhinandati.
+  Ābhassare ābhassarato sañjānāti; ābhassare ābhassarato saññatvā ābhassare maññati, ābhassaresu maññati, ābhassarato maññati, ābhassare meti maññati, ābhassare abhinandati.
+  Subhakiṇhe subhakiṇhato sañjānāti; subhakiṇhe subhakiṇhato saññatvā subhakiṇhe maññati, subhakiṇhesu maññati, subhakiṇhato maññati, subhakiṇhe meti maññati, subhakiṇhe abhinandati.
+  Vehapphale vehapphalato sañjānāti; vehapphale vehapphalato saññatvā vehapphale maññati, vehapphalesu maññati, vehapphalato maññati, vehapphale meti maññati, vehapphale abhinandati.
+  Abhibhuṁ abhibhuto sañjānāti; abhibhuṁ abhibhuto saññatvā abhibhuṁ maññati, abhibhusmiṁ maññati, abhibhuto maññati, abhibhuṁ meti maññati, abhibhuṁ abhinandati.
+=== Arupa Loka ===
+  Ākāsānañcāyatanaṁ ākāsānañcāyatanato sañjānāti; ākāsānañcāyatanaṁ ākāsānañcāyatanato saññatvā ākāsānañcāyatanaṁ maññati, ākāsānañcāyatanasmiṁ maññati, ākāsānañcāyatanato maññati, ākāsānañcāyatanaṁ meti maññati, ākāsānañcāyatanaṁ abhinandati.
+  Viññāṇañcāyatanaṁ viññāṇañcāyatanato sañjānāti; viññāṇañcāyatanaṁ viññāṇañcāyatanato saññatvā viññāṇañcāyatanaṁ maññati, viññāṇañcāyatanasmiṁ maññati, viññāṇañcāyatanato maññati, viññāṇañcāyatanaṁ meti maññati, viññāṇañcāyatanaṁ abhinandati.
+  Ākiñcaññāyatanaṁ ākiñcaññāyatanato sañjānāti; ākiñcaññāyatanaṁ ākiñcaññāyatanato saññatvā ākiñcaññāyatanaṁ maññati, ākiñcaññāyatanasmiṁ maññati, ākiñcaññāyatanato maññati, ākiñcaññāyatanaṁ meti maññati, ākiñcaññāyatanaṁ abhinandati.
+  Nevasaññānāsaññāyatanaṁ nevasaññānāsaññāyatanato sañjānāti; nevasaññānāsaññāyatanaṁ nevasaññānāsaññāyatanato saññatvā nevasaññānāsaññāyatanaṁ maññati, nevasaññānāsaññāyatanasmiṁ maññati, nevasaññānāsaññāyatanato maññati, nevasaññānāsaññāyatanaṁ meti maññati, nevasaññānāsaññāyatanaṁ abhinandati.
+=== Sila-Panna: 4 ways of know spiritual truths by Brahma framework. ===
+  Diṭṭhaṁ diṭṭhato sañjānāti; diṭṭhaṁ diṭṭhato saññatvā diṭṭhaṁ maññati, diṭṭhasmiṁ maññati, diṭṭhato maññati, diṭṭhaṁ meti maññati, diṭṭhaṁ abhinandati.
+  Sutaṁ sutato sañjānāti; sutaṁ sutato saññatvā sutaṁ maññati, sutasmiṁ maññati, sutato maññati, sutaṁ meti maññati, sutaṁ abhinandati.
+  Mutaṁ mutato sañjānāti; mutaṁ mutato saññatvā mutaṁ maññati, mutasmiṁ maññati, mutato maññati, mutaṁ meti maññati, mutaṁ abhinandati.
+  Viññātaṁ viññātato sañjānāti; viññātaṁ viññātato saññatvā viññātaṁ maññati, viññātasmiṁ maññati, viññātato maññati, viññātaṁ meti maññati, viññātaṁ abhinandati.
+=== Samadhi ===
+  Ekattaṁ ekattato sañjānāti; ekattaṁ ekattato saññatvā ekattaṁ maññati, ekattasmiṁ maññati, ekattato maññati, ekattaṁ meti maññati, ekattaṁ abhinandati.
+  Nānattaṁ nānattato sañjānāti; nānattaṁ nānattato saññatvā nānattaṁ maññati, nānattasmiṁ maññati, nānattato maññati, nānattaṁ meti maññati, nānattaṁ abhinandati.
+=== Sanna ===
+  Sabbaṁ sabbato sañjānāti; sabbaṁ sabbato saññatvā sabbaṁ maññati, sabbasmiṁ maññati, sabbato maññati, sabbaṁ meti maññati, sabbaṁ abhinandati.
+  Nibbānaṁ nibbānato sañjānāti; nibbānaṁ nibbānato saññatvā nibbānaṁ maññati, nibbānasmiṁ maññati, nibbānato maññati, nibbānaṁ meti maññati, nibbānaṁ abhinandati.
+
+=== Pali Phrase 3 ===
+Yopi so, bhikkhave, bhikkhu sekkho appattamānaso anuttaraṁ yogakkhemaṁ patthayamāno viharati, sopi pathaviṁ pathavito abhijānāti; pathaviṁ pathavito abhiññāya pathaviṁ mā maññi, pathaviyā mā maññi, pathavito mā maññi, pathaviṁ meti mā maññi, pathaviṁ mābhinandi. Taṁ kissa hetu? ‘Pariññeyyaṁ tassā’ti vadāmi.
+...
+Yopi so, bhikkhave, bhikkhu arahaṁ khīṇāsavo vusitavā katakaraṇīyo ohitabhāro anuppattasadattho parikkhīṇabhavasaṁyojano sammadaññāvimutto, sopi pathaviṁ pathavito abhijānāti; pathaviṁ pathavito abhiññāya pathaviṁ na maññati, pathaviyā na maññati, pathavito na maññati, pathaviṁ meti na maññati, pathaviṁ nābhinandati. Taṁ kissa hetu? ‘Pariññātaṁ tassā’ti vadāmi.
+...
+Yopi so, bhikkhave, bhikkhu arahaṁ khīṇāsavo vusitavā katakaraṇīyo ohitabhāro anuppattasadattho parikkhīṇabhavasaṁyojano sammadaññāvimutto, sopi pathaviṁ pathavito abhijānāti; pathaviṁ pathavito abhiññāya pathaviṁ na maññati, pathaviyā na maññati, pathavito na maññati, pathaviṁ meti na maññati, pathaviṁ nābhinandati. Taṁ kissa hetu? Khayā rāgassa, vītarāgattā.
+....
+Yopi so, bhikkhave, bhikkhu arahaṁ khīṇāsavo vusitavā katakaraṇīyo ohitabhāro anuppattasadattho parikkhīṇabhavasaṁyojano sammadaññāvimutto, sopi pathaviṁ pathavito abhijānāti; pathaviṁ pathavito abhiññāya pathaviṁ na maññati, pathaviyā na maññati, pathavito na maññati, pathaviṁ meti na maññati, pathaviṁ nābhinandati. Taṁ kissa hetu? Khayā dosassa, vītadosattā.
+...
+Yopi so, bhikkhave, bhikkhu arahaṁ khīṇāsavo vusitavā katakaraṇīyo ohitabhāro anuppattasadattho parikkhīṇabhavasaṁyojano sammadaññāvimutto, sopi pathaviṁ pathavito abhijānāti; pathaviṁ pathavito abhiññāya pathaviṁ na maññati, pathaviyā na maññati, pathavito na maññati, pathaviṁ meti na maññati, pathaviṁ nābhinandati. Taṁ kissa hetu? Khayā mohassa, vītamohattā.
+...
+Tathāgatopi, bhikkhave, arahaṁ sammāsambuddho pathaviṁ pathavito abhijānāti; pathaviṁ pathavito abhiññāya pathaviṁ na maññati, pathaviyā na maññati, pathavito na maññati, pathaviṁ meti na maññati, pathaviṁ nābhinandati. Taṁ kissa hetu? ‘Pariññātantaṁ tathāgatassā’ti vadāmi.
+...
+Tathāgatopi, bhikkhave, arahaṁ sammāsambuddho pathaviṁ pathavito abhijānāti; pathaviṁ pathavito abhiññāya pathaviṁ na maññati, pathaviyā na maññati, pathavito na maññati, pathaviṁ meti na maññati, pathaviṁ nābhinandati. Taṁ kissa hetu? ‘Nandī dukkhassa mūlan’ti—iti viditvā ‘bhavā jāti bhūtassa jarāmaraṇan’ti. Tasmātiha, bhikkhave, ‘tathāgato sabbaso taṇhānaṁ khayā virāgā nirodhā cāgā paṭinissaggā anuttaraṁ sammāsambodhiṁ abhisambuddho’ti vadāmi.
+--------------------
+=== Pali ===
+ariya: [m.] noble one 
+āpa：[m.； nt.] water
+bhūta :  [m.； nt.] ghost: invisible being but not deva; gharuda, asura, hungry ghost....
+deva：[m.] a deity
+teja：[m．； nt．] fire
+vāya，[m．nt．] air
+	aṁ: Acc.sing.
+	e: Loc.sing.
+	ato: Abl.sing. seperate from/ from
+	ato: Abl.plur.
+	asmiṁ: Loc.sing. from/ in
+	esu: Loc.plur. from/ in
+dhamma：[m.] doctrine
+puthujjana: [m.] common man; [puthu: far and wide + jana: person]
+	o: Nom.sing.
+	aṃ: Acc.sing.
+	assa: Gen.sing.
+	e: Acc.Plur.
+yogakkhema：[m．] (spiritual) safety; security; sanctuary
+
+paṭhavī，（f．） the earth.
+	iṁ: Acc.sing.
+	ito: Abl.sing. seperate from/ from
+	iyā: Loc.sing. from/ in
+
+maññati，（man + ya） think of, in term of mine
+meti me + iti
+nand rejoice > nandati：[nand + a] rejoices； finds delight in．
+	
+parijānāti [pari+jānāti] comprehends
+	pariññāta: pp．of parijānāti: comprehended
+	apariññāta [na+pariññāta]
+Sañjānāti，[saṁ+jānāti] 1．to recognize，perceive，know
+	saññatvā: active perfect participle: having perceived.
+
+adassāvī: adj. [na+dassāvī:dassa:see] no regard (for)
+akovida: adj. [na+kovida: well-versed] not master/proficient in 
+assutavā: adj. unlearned; lit. having not heard quality [na + √su + ta + vant]
+avinīta：[adj．] [na+vinīta: pp．of vineti] untrained; 
+	vineti: to instruct, to lead, to train.
+	
+anuppattasadattho: adj.who has achieved the highest goal; [anuppatta + sadattha]
+appattamānaso: adj. not fulfilled one's wish (of); not reached the goal (of);
+katakaraṇīyo: adj. who has done the job; [kata + karaṇīya]
+khīṇāsava: adj.who has destroyed the effluents; [khīṇa + āsava]
+ohitabhāro: adj. who has put down the burden; [ohita + bhāra]
+parikkhīṇabhavasaṁyojano: adj. 
+	parikkhīṇa：[pp．of parikhīyati] exhausted．
+	saṁyojana，（nt．） [fr．saṁyuñjati] bond，fetter 
+patthayamāno: prp. wishing (for); aspiring (for) [pa + √atth + *aya + māna]
+sammadaññāvimutto: adj. who is liberated by perfect understanding; [sammadaññā + vimutta]
+vusitavā: adj. fulfilled; completed; lit. having lived quality [√vas + ita + vant]
+--------------------
++ Is this an motif that repeat elsewhere? Important keyword
++ Illustrate dhamma in diagram? Put it in context of 4 saccha?
++ Could there any image illustrate this scene?

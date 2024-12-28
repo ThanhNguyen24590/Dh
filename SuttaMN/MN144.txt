@@ -1,0 +1,65 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2022-11-25T10:42:45+07:00
+
+#### Visualize the settings
++ Places: Vulture’s Peak Mountain + Time: late afternoon
++ Event -People involved: 
+#### Context of Dhamma + Visualize people talking.
++ Initiator: Sāriputta	 + Intend: visit sick person
++ Listerner: Sāriputta, Mahācunda, Channa 
++ Not Presented: Buddha 
+	+ Note: if high level practitioners, then there could be underlying premise that was not mentioned. 
++ Presentation: question-answer.
+#### Dhamma Summary:
++ etaṁ mama, esohamasmi, eso me attā’ti samanupassasī : This is mine, I am this, this is my self
++ To the settled there is change, to the not settled there is no change. When there is no change, there is delight. When there is delight, there is no inclination. When there is no inclination, there is no coming and going. When there is no coming and going, there is no disappearing and appearing.When there is no disappearing and appearing, there is no here or there, or in between. That is the end of unpleasantness.
+(Nissitassa calitaṁ, anissitassa calitaṁ natthi. Calite asati passaddhi, passaddhiyā sati nati na hoti. Natiyā asati āgatigati na hoti. Āgatigatiyā asati cutūpapāto na hoti. Cutūpapāte asati nevidha na huraṁ na ubhayamantarena. Esevanto dukkhassā)
++ To the settled there is change, to the not settled there is no change (Nissitassa calitaṁ, anissitassa calitaṁ natthi). When the bhikkhu develops his mind, there are various stages in which the mind makes settlements. When such a settlement is made, there is change, when no such settlement is made, there is no change. The Blessed One's Teaching is that the bhikkhu should not be settled anywhere. It is the Teaching of the mind's extinction.
++ When there is no change, there is delight (calite asati passaddhi). A change is a change in feelings, as a result of a contact at one or the other of the doors of mental contact. When there is no such change, there is delight. Delight is a special feature necessary for the development of the mind, so that it may not deviate from the correct path.
++ When there is delight there is no inclination (passaddhiyā sati, nati na hoti). Inclination is to be bent to this and that. The delighted one enjoys the path, and does not deviate from it. He becomes so sure of the path, that a teacher is not necessary for him any more.
++ When there is no inclination, there is no coming and going (natiyā asati āgatigati na hoti). The coming and going is a persistent feature of the mind. Always coming to its place of interest. The mind's nature of persistently returning to a point is the factor, which paves someone's rebirth in some place.
++ When there is no coming and going, there is no disappearing and appearing (āgatigatiyā asati cutūpapāto na hoti). When the mind's nature of coming and going is not evident, the disappearing and appearing does not happen.
+#### Dhamma Review
++ Question: ?
++ Dhamma: Focus on: Panna. Connect in 37 bodhi pakkhiya:
+	+ Cattāro satipaṭṭhānā: cittānupassanā.
+	+ Cattāro iddhipādā: citta vīmaṁsa.
+	+ Pañca indriya/bala: viriya sati samādhi paññā.
+	+ Satta sambojjhaṅgā: sati, dhamma vicaya, viriya, pīti, passaddhi, samādhi, upekkhā.
+	+ Ariya aṭṭhaṅgika magga : sammā diṭṭhi-saṅkappa-vācā-kammanta-ājīva-vāyāma-sati-samādhi : Sila-Samadhi-Panna.
+#### Pali terms
+#### Quote
+#### Story Summary
++ Sāriputta, Mahācunda, Channa stayed at Vulture’s Peak Mountain. Channa is seriously sick and in pain. Sāriputta, Mahācunda visit Channa, ask how he feel, what he need and the progress of his not self practice, to which he reply he is in pain, no need for help and wish to suicide, but his work is done.
++ Sāriputta teach Channa about cittānupassanā (?), then both of them left. Not long after they left, Channa slit his wrists.
++ Then Sāriputta ask the Buddha about Channa destination, to which he reply Channa is Arahat.
+#### Connect
++ Listerners' Feel: All participants are Arahat. Channa in pain. Sāriputta doubt about Channa arahatship.
++ Teacher's Feel: Sāriputta high level teaching is a mean to stop Channa's suicide?
++ Connection: Sāriputta
+#### Feel
++ Feel: How do you feel from moment to moment?
++ Like it: inspiring ? Awe and Shock?
+#### Reflect
++ What if not practice:
++ When supposed to practice 
++ When could practice:
++ Easy/ simpify mode:
++ Hard/ full mode:
++ Cons of this practice
++ Pros of this practice
++ Practice in Daily life or need in special occation like Upasattha or in retreat?
++ Simplify -shorten version of this practice? Will it lessen the benefit? 
++ How the Sutta read in normal daily talk? Translation to Vietnamese?
++ Visualize story in mind.
+#### End
++ Ls to audio
++ Read out loud (Not ignore rep)
++ Chant ?
+
+#### Ref
+https://obo.genaud.net/dhamma-vinaya/mnl/mn/mn.144.upal.mnl.htm
+https://suttacentral.net/mn144/en/sujato?layout=linebyline&reference=none&notes=asterisk&highlight=false&script=latin
++ [Majjhima Nikaya (MN 144 & 145: part 1, 2015.12.19) Bhikkhu Bodhi](https://www.youtube.com/watch?v=_gXoXEquDLI)
++ [Majjhima Nikaya (MN 144 & 145: part 2, 2015.12.19) Bhikkhu Bodhi](https://www.youtube.com/watch?v=vNTnDiX_r8Y)

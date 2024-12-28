@@ -1,0 +1,152 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2022-11-25T10:43:37+07:00
+
+[snp 1.8 : Mettasutta](https://suttacentral.net/snp1.8/pli/ms)
+Karaṇīyamatthakusalena, Yanta santaṁ padaṁ abhisamecca; Sakko ujū ca suhujū ca, Sūvaco cassa mudu anatimānī.
+Santussako ca subharo ca, Appakicco ca sallahukavutti; Santindriyo ca nipako ca, Appagabbho kulesvananugiddho.
+Na ca khuddamācare kiñci, Yena viññū pare upavadeyyuṁ; Sukhino va khemino hontu, Sabbasattā bhavantu sukhitattā.
+Ye keci pāṇabhūtatthi, Tasā vā thāvarā vanavasesā;Dīghā vā ye va mahantā, Majjhimā rassakā aṇukathūlā.
+Diṭṭhā vā ye va adiṭṭhā, Ye va dūre vasanti avidūre; Bhūtā va sambhavesī va, Sabbasattā bhavantu sukhitattā.
+Na paro paraṁ nikubbetha, Nātimaññetha katthaci na kañci; Byārosanā paṭighasañña, Nāññamaññassa dukkhamiccheyya.
+Mātā yathā niyaṁ puttam, Āyusā ekaputtamanurakkhe; Evampi sabbabhūtesu, Mānasaṁ bhāvaye aparimāṇaṁ.
+Mettañca sabbalokasmi, Mānasaṁ bhāvaye aparimāṇaṁ; Uddhaṁ adho ca tiriyañca, Asambādhaṁ averamasapattaṁ.
+Tiṭṭhaṁ caraṁ nisinno va, Sayāno yāvatāssa vitamiddho; Etaṁ satiṁ adhiṭṭheyya, Brahmametaṁ vihāramidhamāhu.
+Diṭṭhiñca anupaggamma, Sīlavā dassanena sampanno; Kāmesu vinaya gedhaṁ, Na hi jātuggabbhaseyya punaretī.
+[snp 3.2: PadhanaSutta](https://suttacentral.net/snp3.2/pli/ms)
+“Taṁ maṁ padhānapahitattaṁ, nadiṁ nerañjaraṁ pati; Viparakkamma jhāyantaṁ, yogakkhemassa pattiyā.
+Namucī karuṇaṁ vācaṁ, bhāsamāno upāgami; ‘Kiso tvamasi dubbaṇṇo, santike maraṇaṁ tava.
+Sahassabhāgo maraṇassa, ekaṁso tava jīvitaṁ; Jīva bho jīvitaṁ seyyo, jīvaṁ puññāni kāhasi.
+Carato ca te brahmacariyaṁ, Aggihuttañca jūhato;Pahūtaṁ cīyate puññaṁ, Kiṁ padhānena kāhasi.
+Duggo maggo padhānāya, dukkaro durabhisambhavo’”; Imā gāthā bhaṇaṁ māro, aṭṭhā buddhassa santike.
+Taṁ tathāvādinaṁ māraṁ, bhagavā etadabravi; “Pamattabandhu pāpima, yenatthena idhāgato.
+Aṇumattopi puññena, Attho mayhaṁ na vijjati; Yesañca attho puññena, Te māro vattumarahati.
+Atthi saddhā tathā viriyaṁ, paññā ca mama vijjati; Evaṁ maṁ pahitattampi, kiṁ jīvamanupucchasi.
+Nadīnamapi sotāni, ayaṁ vāto visosaye; Kiñca me pahitattassa, lohitaṁ nupasussaye.
+Lohite sussamānamhi, Pittaṁ semhañca sussati; Maṁsesu khīyamānesu, Bhiyyo cittaṁ pasīdati; Bhiyyo sati ca paññā ca, Samādhi mama tiṭṭhati.
+Tassa mevaṁ viharato, Pattassuttamavedanaṁ; Kāmesu nāpekkhate cittaṁ, Passa sattassa suddhataṁ.
+Kāmā te paṭhamā senā, Dutiyā arati vuccati; Tatiyā khuppipāsā te, Catutthī taṇhā pavuccati.
+Pañcamaṁ thinamiddhaṁ te, Chaṭṭhā bhīrū pavuccati; Sattamī vicikicchā te, Makkho thambho te aṭṭhamo.
+Lābho siloko sakkāro, Micchāladdho ca yo yaso; Yo cattānaṁ samukkaṁse, Pare ca avajānati.
+Esā namuci te senā, Kaṇhassābhippahārinī; Na naṁ asūro jināti, Jetvā ca labhate sukhaṁ.
+Esa muñjaṁ parihare, Dhiratthu mama jīvitaṁ; Saṅgāme me mataṁ seyyo, Yañce jīve parājito.
+Pagāḷhettha na dissanti, Eke samaṇabrāhmaṇā; Tañca maggaṁ na jānanti, Yena gacchanti subbatā.
+Samantā dhajiniṁ disvā, Yuttaṁ māraṁ savāhanaṁ; Yuddhāya paccuggacchāmi, Mā maṁ ṭhānā acāvayi.
+Yaṁ te taṁ nappasahati, Senaṁ loko sadevako; Taṁ te paññāya bhecchāmi, Āmaṁ pattaṁva asmanā.
+Vasīkaritvā saṅkappaṁ, Satiñca sūpatiṭṭhitaṁ; Raṭṭhā raṭṭhaṁ vicarissaṁ, Sāvake vinayaṁ puthū.
+Te appamattā pahitattā, Mama sāsanakārakā; Akāmassa te gamissanti, Yattha gantvā na socare”.
+“Satta vassāni bhagavantaṁ, Anubandhiṁ padāpadaṁ; Otāraṁ nādhigacchissaṁ, Sambuddhassa satīmato.
+Medavaṇṇaṁva pāsāṇaṁ, Vāyaso anupariyagā; Apettha muduṁ vindema, Api assādanā siyā.
+Aladdhā tattha assādaṁ, Vāyasetto apakkami; Kākova selamāsajja, Nibbijjāpema gotamaṁ”.
+Tassa sokaparetassa, Vīṇā kacchā abhassatha; Tato so dummano yakkho, Tatthevantaradhāyathāti.
+[snp 4.2 Guhaṭṭhakasutta](https://suttacentral.net/snp4.2/pli/ms)
+Satto guhāyaṁ bahunābhichanno, Tiṭṭhaṁ naro mohanasmiṁ pagāḷho; Dūre vivekā hi tathāvidho so, Kāmā hi loke na hi suppahāyā.
+Icchānidānā bhavasātabaddhā, Te duppamuñcā na hi aññamokkhā; Pacchā pure vāpi apekkhamānā, Ime va kāme purime va jappaṁ.
+Kāmesu giddhā pasutā pamūḷhā, Avadāniyā te visame niviṭṭhā; Dukkhūpanītā paridevayanti, Kiṁsū bhavissāma ito cutāse.
+Tasmā hi sikkhetha idheva jantu, Yaṁ kiñci jaññā visamanti loke; Na tassa hetū visamaṁ careyya, Appañhidaṁ jīvitamāhu dhīrā.
+Passāmi loke pariphandamānaṁ, Pajaṁ imaṁ taṇhagataṁ bhavesu; Hīnā narā maccumukhe lapanti, Avītataṇhāse bhavābhavesu.
+Mamāyite passatha phandamāne, Maccheva appodake khīṇasote; Etampi disvā amamo careyya, Bhavesu āsattimakubbamāno.
+Ubhosu antesu vineyya chandaṁ, Phassaṁ pariññāya anānugiddho; Yadattagarahī tadakubbamāno, Na lippatī diṭṭhasutesu dhīro.
+Saññaṁ pariññā vitareyya oghaṁ, Pariggahesu muni nopalitto; Abbūḷhasallo caramappamatto, Nāsīsatī lokamimaṁ parañcāti.
+[Link](https://suttacentral.net/snp4.15/en/sujato)
+
+“Attadaṇḍā bhayaṁ jātaṁ,
+janaṁ passatha medhagaṁ;
+Saṁvegaṁ kittayissāmi,
+yathā saṁvijitaṁ mayā.
+
+Phandamānaṁ pajaṁ disvā,
+macche appodake yathā;
+Aññamaññehi byāruddhe,
+disvā maṁ bhayamāvisi.
+
+Samantamasāro loko,
+disā sabbā sameritā;
+Icchaṁ bhavanamattano,
+nāddasāsiṁ anositaṁ.
+
+Osāne tveva byāruddhe,
+Disvā me aratī ahu;
+Athettha sallamaddakkhiṁ,
+Duddasaṁ hadayanissitaṁ. 
+
+Yena sallena otiṇṇo,
+disā sabbā vidhāvati;
+Tameva sallamabbuyha,
+na dhāvati na sīdati.
+
+Tattha sikkhānugīyanti, 
+yāni loke gadhitāni;
+Na tesu pasuto siyā,
+nibbijjha sabbaso kāme;
+Sikkhe nibbānamattano.
+
+Sacco siyā appagabbho,
+amāyo rittapesuṇo;
+Akkodhano lobhapāpaṁ,
+vevicchaṁ vitare muni.
+
+Niddaṁ tandiṁ sahe thīnaṁ,
+pamādena na saṁvase;
+Atimāne na tiṭṭheyya,
+nibbānamanaso naro.
+
+Mosavajje na nīyetha,
+rūpe snehaṁ na kubbaye;
+Mānañca parijāneyya,
+sāhasā virato care.
+
+Purāṇaṁ nābhinandeyya,
+Nave khantiṁ na kubbaye;
+Hiyyamāne na soceyya,
+Ākāsaṁ na sito siyā.
+
+Gedhaṁ brūmi mahoghoti,
+Ājavaṁ brūmi jappanaṁ;
+Ārammaṇaṁ pakappanaṁ,
+Kāmapaṅko duraccayo.
+
+Saccā avokkamma muni,
+Thale tiṭṭhati brāhmaṇo;
+Sabbaṁ so paṭinissajja,
+Sa ve santoti vuccati.
+
+Sa ve vidvā sa vedagū,
+Ñatvā dhammaṁ anissito;
+Sammā so loke iriyāno,
+Na pihetīdha kassaci.
+
+Yodha kāme accatari,
+Saṅgaṁ loke duraccayaṁ;
+Na so socati nājjheti,
+Chinnasoto abandhano.
+
+Yaṁ pubbe taṁ visosehi,
+Pacchā te māhu kiñcanaṁ;
+Majjhe ce no gahessasi,
+Upasanto carissasi.
+
+Sabbaso nāmarūpasmiṁ,
+Yassa natthi mamāyitaṁ;
+Asatā ca na socati,
+Sa ve loke na jīyati.
+
+Yassa natthi idaṁ meti,
+Paresaṁ vāpi kiñcanaṁ;
+Mamattaṁ so asaṁvindaṁ,
+Natthi meti na socati.
+
+Aniṭṭhurī ananugiddho,
+Anejo sabbadhī samo;
+Tamānisaṁsaṁ pabrūmi,
+Pucchito avikampinaṁ.
+
+Anejassa vijānato,
+Natthi kāci nisaṅkhati;
+Virato so viyārabbhā,
+Khemaṁ passati sabbadhi.
+
+Na samesu na omesu,
+Na ussesu vadate muni;
+Santo so vītamaccharo,
+Nādeti na nirassatī”ti.
