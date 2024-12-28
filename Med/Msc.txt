@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2023-12-10T13:16:32+07:00
+
+=== [[https://suttacentral.net/an10.60/en/sujato|an10.60 Girimānandasutta]] ===
+**Aniccasaññā**: bhikkhu araññagato vā rukkhamūlagato vā suññāgāragato vā iti paṭisañcikkhati:‘rūpaṁ aniccaṁ, vedanā aniccā, saññā aniccā, saṅkhārā aniccā, viññāṇaṁ aniccan’ti. Iti imesu pañcasu upādānakkhandhesu aniccānupassī viharati.
+**Anattasaññā**: bhikkhu araññagato vā rukkhamūlagato vā suññāgāragato vā iti paṭisañcikkhati: ‘cakkhu anattā, rūpā anattā, sotaṁ anattā, saddā anattā, ghānaṁ anattā, gandhā anattā, jivhā anattā, rasā anattā, kāyā anattā, phoṭṭhabbā anattā, mano anattā, dhammā anattā’ti. Iti imesu chasu ajjhattikabāhiresu āyatanesu anattānupassī viharati.
+**Pahānasaññā**: bhikkhu uppannaṁ kāmavitakkaṁ nādhivāseti, pajahati, vinodeti, byantīkaroti, anabhāvaṁ gameti. Uppannaṁ byāpādavitakkaṁ nādhivāseti, pajahati, vinodeti, byantīkaroti, anabhāvaṁ gameti. Uppannaṁ vihiṁsāvitakkaṁ nādhivāseti, pajahati, vinodeti, byantīkaroti, anabhāvaṁ gameti. Uppannuppanne pāpake akusale dhamme nādhivāseti, pajahati, vinodeti, byantīkaroti, anabhāvaṁ gameti.
+**Virāgasaññā**: bhikkhu araññagato vā rukkhamūlagato vā suññāgāragato vā iti paṭisañcikkhati: ‘etaṁ santaṁ etaṁ paṇītaṁ yadidaṁ sabbasaṅkhārasamatho sabbūpadhippaṭinissaggo taṇhākkhayo virāgo nibbānan’ti.
+**Nirodhasaññā**: bhikkhu araññagato vā rukkhamūlagato vā suññāgāragato vā iti paṭisañcikkhati:‘etaṁ santaṁ etaṁ paṇītaṁ yadidaṁ sabbasaṅkhārasamatho sabbūpadhippaṭinissaggo taṇhākkhayo nirodho nibbānan’ti.
+**Sabbaloke anabhiratasaññā:** bhikkhu ye loke upādānā cetaso adhiṭṭhānābhinivesānusayā, te pajahanto viharati anupādiyanto.
+**Sabbasaṅkhāresu anicchāsaññā:** bhikkhu sabbasaṅkhāresu aṭṭīyati harāyati jigucchati.

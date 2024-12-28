@@ -1,0 +1,39 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2023-10-10T10:25:43+07:00
+
+Note:
++ Vedana: MN4 [[https://suttacentral.net/mn4/en/sujato|Bhaya-bherava-sutta]]
++ Citta: Aparisuddhattā MN7 [[https://suttacentral.net/mn7/en/sujato|Vattha-sutta]] | MN16 [[https://suttacentral.net/mn16/en/sujato|Ceto-khila-sutta]]
+Sutta: tiparivaṭṭaṁ dvādasākāraṁ Sn56.11 [[https://suttacentral.net/sn56.11/en/sujato|Dhammacakkappavattanasutta]] **|** Aññopi pariyāyo MN9 [[https://suttacentral.net/mn9/en/sujato|Sammādiṭṭhi-sutta]]  
+Guide: [[https://www.dhammatalks.org/books/FourNobleTruths/Contents.html|Four Noble Truths]], 
++ 1st sacca: **Dukkha**
+Sutta: MN13 [[https://suttacentral.net/mn13/en/sujato|Mahādukkhakkhandhasutta]]
+Guide: [[https://en.wikipedia.org/wiki/Du%E1%B8%A5kha|wiki]],
++ 2nd sacca: **Paṭiccasamuppāda:** anuloma-paṭiloma
+Sutta: Phassa > Vedana > Tanha: MN18 [[https://suttacentral.net/mn18/en/sujato|Madhupiṇḍikasutta]]
+Guide: [[https://www.dhammatalks.org/books/ShapeOfSuffering/Contents.html|Shape of Suffering]]
++ 3rd sacca: **Nibbana**
+Guide: [[https://www.dhammatalks.org/books/MindLikeFire/Section0000.html|Mind Like Fire]]
++ 4th sacca: **Magga**
+Sutta: Sallekha MN8 [[https://suttacentral.net/mn8/en/sujato|Sallekha-sutta]]
+Guide: [[https://www.dhammatalks.org/books/Wings/Section0000.html|Wings to Awakening]], [[https://www.dhammatalks.org/books/OnThePath/Section0000.html|On the Path]], 
++ Dhamma-abbhācikkhati: 
+Sutta: MN22 [[https://suttacentral.net/mn22/en/sujato|Alagaddūpamasutta]]
+Guide: [[https://www.dhammatalks.org/books/BuddhistRomanticism/Contents.html|Buddhist Romanticism]]
+--------------------
+=== Course ===
+Sutta Central Course
+Buddhism Through Its Scriptures
+Buddhism Psychology
+Berzin - Introduce to Tibetan Mediation
+edx-Religious Literacy
+Bodhi's Sutta Course: MN
+Science of Religion
+Youtube course Anapana: Sujato, Bodhi
+=== Msc Other Lineage ===
+Research Tipitaka: Sila-AbhiDhamma, Theravada Traditions & Other Buddhist Traditions: Mahayana-Zen, Tibetan, History
++ C:\Users\pnguyen\Lib\LibTemp_ToUpload\Yoga\ Roots of Yoga
+=== Ref ===
+[[https://en.wikipedia.org/wiki/Ritual|Ritual]]
+

@@ -1,0 +1,9 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2024-02-22T00:49:26+07:00
+
+=== Pali Primer ===
++ Write new word repeat 5 lines to associate meaning.
++ Write sentence 5 times
+=== Youtube LearnPali ===
++ Print the pdf

@@ -1,0 +1,18 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2022-11-25T10:38:40+07:00
+
+Read Step
+1.Context : Summary,Intro,TOC,Author,Time.
+2.Skim.
+3.ReRead  : Key words/Sentences >> Points >> Mindmap.
+4.Remember: Summary/Mindmap >> Point >> Keys.
+5.Apply   : Action? Discussion.
+6.Research: search keywords.
+
+##### For skill book
+* Don't read as a novel. It'll bore you out of your skull. This's about practice. No story. No suspense. No thrilled. It about how to do things. No ready food for emotion.
+
+Harmony and Strife: Contemporary Perspectives, East & West
+Hajime Nakamura
+Ascetic Practices in Japanese Religion
