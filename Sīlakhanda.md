@@ -1,21 +1,18 @@
 ### Sila-Sikkha:
 #### 1. Sikkhapada:
-+ Kimatthiya [an11.1](https://suttacentral.net/an11.1/en/sujato?lang=en), Ākaṅkha [an10.71](https://suttacentral.net/an10.71/en/sujato?lang=en), [MN6](https://suttacentral.net/mn6/en/sujato), Duccarita-vipāka [an8.40](https://suttacentral.net/an8.40/en/sujato?lang=en), Piya [sn03.004](https://suttacentral.net/sn3.4/en/sujato), Attarakkhi [sn3.5](https://suttacentral.net/sn3.5/en/sujato?lang=en)
++ Kimatthiya [an11.1](https://suttacentral.net/an11.1/en/sujato?lang=en), Ākaṅkha [an10.71](https://suttacentral.net/an10.71/en/sujato?lang=en), [MN6](https://suttacentral.net/mn6/en/sujato), Paṭhamasandiṭṭhikasāmaññaphala [dn2](https://suttacentral.net/dn2/en/sujato?lang=en), Duccarita-vipāka [an8.40](https://suttacentral.net/an8.40/en/sujato?lang=en), Iṇa [an6.45](https://suttacentral.net/an6.45/en/sujato?lang=en), Piya [sn03.004](https://suttacentral.net/sn3.4/en/sujato), Attarakkhi [sn3.5](https://suttacentral.net/sn3.5/en/sujato?lang=en)
 + Idha tathāgato loke uppajjati arahaṁ [MN27](https://suttacentral.net/mn27/en/sujato). Variation: Pāṇātipātā veramaṇī sikkhā-padaṁ samādiyāmi. Pāṇātipāto kho, brāhmaṇa, orimaṁ tīraṁ, pāṇātipātā veramaṇī pārimaṁ tīraṁ. [Chant](https://www.dhammatalks.org/books/ChantingGuide/Section0065.html), [an10.169](https://suttacentral.net/an10.169/en/sujato?lang=en), [an10.99](https://suttacentral.net/an10.99/en/sujato?lang=en), Dasayimāni, bhikkhave, kathāvatthūni. [an10.69](https://suttacentral.net/an10.69/en/sujato?lang=en), [an10.70](https://suttacentral.net/an10.70/en/sujato?lang=en)
-+ Uposatha [an3.70](https://suttacentral.net/an3.70/en/sujato), Visākhā [an8.43](https://suttacentral.net/an8.43/en/sujato), Pañcimāni, bhikkhave, dānāni mahādānāni [an8.39](https://suttacentral.net/an8.39/en/sujato?lang=en)
-+ Katamañca, bhikkhave, paṭisaṅkhānabalaṁ? [an2.11-20](https://suttacentral.net/an2.11-20/en/sujato?lang=en), Sambodhi [an9.1](https://suttacentral.net/an9.1/en/sujato)
++ Uposatha [an3.70](https://suttacentral.net/an3.70/en/sujato), Visākhā [an8.43](https://suttacentral.net/an8.43/en/sujato), Pañcimāni, bhikkhave, dānāni mahādānāni [an8.39](https://suttacentral.net/an8.39/en/sujato?lang=en), Tayo khome, visākhe, uposathā. Katame tayo? [AN3.70](https://suttacentral.net/an3.70/en/sujato)
++ Katamañca, bhikkhave, paṭisaṅkhānabalaṁ? [an2.11-20](https://suttacentral.net/an2.11-20/en/sujato?lang=en), Sambodhi [an9.1](https://suttacentral.net/an9.1/en/sujato), Atītamaddhānaṁ samaṇā [MN61](https://suttacentral.net/mn61/en/sujato)
 #### 2. Content, not Stingy: Anavajjasukhaṁ
 + Parikkhāra patisankha yoniso: [Chant](https://www.dhammatalks.org/books/ChantingGuide/Section0004.html#sigil_toc_id_10), Katame ca, bhikkhave, āsavā paṭisevanā pahātabbā ye paṭisevanāya pahīnā honti? [an6.58](https://suttacentral.net/an6.58/en/sujato?lang=en)
-+ Dhammadāyādā [MN3](https://suttacentral.net/mn3/en/sujato), Assājānīyo rājāraho [AN3.98](https://suttacentral.net/an3.98/en/sujato)
-+ Cattārome, pessa, puggalā santo saṁvijjamānā lokasmiṁ [MN51](https://suttacentral.net/MN51/en/sujato?lang=en), Kathañca, aggivessana, abhāvitakāyo ca hoti abhāvitacitto ca? [MN 36](https://suttacentral.net/mn36/en/sujato)
-+ Anavajjasukhaṁ [an10.99](https://suttacentral.net/an10.99/en/sujato?lang=en)
++ Kathañca, aggivessana, abhāvitakāyo ca hoti abhāvitacitto ca? [MN 36](https://suttacentral.net/mn36/en/sujato), Ariyavaṁsā [an4.28](https://suttacentral.net/an4.28/en/sujato?lang=en), Anuruddhamahāvitakka [an8.30](https://suttacentral.net/an8.30/en/sujato?lang=en)
++ Cattārome, pessa, puggalā santo saṁvijjamānā lokasmiṁ [MN51](https://suttacentral.net/MN51/en/sujato?lang=en),
++ Dvinnāhaṁ, bhikkhave, dhammānaṁ upaññāsiṁ [an2.5](https://suttacentral.net/an2.5/en/sujato?lang=en), Anavajjasukhaṁ [an10.99](https://suttacentral.net/an10.99/en/sujato?lang=en)
 #### 3. Hiri-Ottappa: Honor
-+ Kiñca, bhikkhave, uttariṁ karaṇīyaṁ? [MN39](https://suttacentral.net/mn39/en/sujato)
-+ Hirimā hoti. [MN53](https://suttacentral.net/mn53/en/sujato)
-+ atītamaddhānaṁ samaṇā [MN61](https://suttacentral.net/mn61/en/sujato)
-+ Tayo khome, visākhe, uposathā. Katame tayo? [AN3.70](https://suttacentral.net/an3.70/en/sujato)
++ Dhammadāyādā [MN3](https://suttacentral.net/mn3/en/sujato), Assājānīyo rājāraho [AN3.98](https://suttacentral.net/an3.98/en/sujato)
++ Hirimā hoti [MN53](https://suttacentral.net/mn53/en/sujato), Kiñca, bhikkhave, uttariṁ karaṇīyaṁ? [MN39](https://suttacentral.net/mn39/en/sujato)
 + Tatrāvuso, bhikkhunā attanāva attānaṁ evaṁ anuminitabbaṁ: [MN15](https://suttacentral.net/mn15/en/sujato?lang=en)
-+ ayaṁ vuccati, bhikkhave, ariyassa vinaye daliddo assako anāḷhiko. [an6.45](https://suttacentral.net/an6.45/en/sujato?lang=en)
 ### Sila-Samadhi
 #### 1. Indriya-bhavana, Domain: Abyāsekasukhaṁ
 + ‘appeva nāmāhaṁ imesaṁ cakkhuto vā otāraṁ labheyyaṁ. [sn35.240](https://suttacentral.net/sn35.240/en/sujato?lang=en)
