@@ -21,10 +21,9 @@
 + Āditta [sn35.28](https://suttacentral.net/sn35.28/en/sujato), Puttamaṁsa [sn12.63](https://suttacentral.net/sn12.63/en/sujato?lang=en), Bāḷisiko [sn35.230](https://suttacentral.net/sn35.230/en/sujato)
 + Laṭukikopama [MN66](https://suttacentral.net/mn66/en/sujato), Mahā, upāli, attabhāvo gambhīre gādhaṁ vindati [an10.99](https://suttacentral.net/an10.99/en/sujato?lang=en)
 #### 2. Jāgariyaṁ anuyuttā bhavissāma:  
-+ Jāgariyaṁ anuyuttā bhavissāma [MN39](https://suttacentral.net/mn39/en/sujato)
++ Dvinnāhaṁ, bhikkhave, dhammānaṁ upaññāsiṁ yā ca asantuṭṭhitā kusalesu dhammesu, yā ca appaṭivānitā padhānasmiṁ. [AN2.5](https://suttacentral.net/an2.5/en/sujato), Jāgariyaṁ anuyuttā bhavissāma [MN39](https://suttacentral.net/mn39/en/sujato)
 + Seyyathāpi, bhikkhave, gāmassa vā nigamassa vā avidūre mahantaṁ sālavanaṁ. Tañcassa eḷaṇḍehi sañchannaṁ. [MN21](https://suttacentral.net/mn21/en/sujato), ‘alamidaṁ padhānāyā’ti. Seyyathāpi, rājakumāra, allaṁ kaṭṭhaṁ sasnehaṁ udake nikkhittaṁ. [MN85](https://suttacentral.net/mn85/en/sujato)
 + Anaṅgaṇa: [MN5](https://suttacentral.net/mn5/en/sujato), Kathañca, bhikkhave, saphalo upakkamo hoti, saphalaṁ padhānaṁ? [MN101](https://suttacentral.net/mn101/en/sujato), Yoniso ca manasikāraṁ: [MN2](https://suttacentral.net/mn2/en/sujato)
-+ Dvinnāhaṁ, bhikkhave, dhammānaṁ upaññāsiṁ yā ca asantuṭṭhitā kusalesu dhammesu, yā ca appaṭivānitā padhānasmiṁ. [AN2.5](https://suttacentral.net/an2.5/en/sujato)
 + Apaṇṇaka [an3.16](https://suttacentral.net/an3.16/en/sujato?lang=en)
 #### 3. Sati-sampajaññena: 4 postures
 + Satisampajaññena [MN39](https://suttacentral.net/mn39/en/sujato)
