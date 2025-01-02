@@ -7,8 +7,7 @@
 + Duccarita-vipāka [an8.40](https://suttacentral.net/an8.40/en/sujato?lang=en)
 + Pañcimāni, bhikkhave, dānāni mahādānāni [an8.39](https://suttacentral.net/an8.39/en/sujato?lang=en)
 + Sambodhi [an9.1](https://suttacentral.net/an9.1/en/sujato)
-+ Visākhā [an8.43](https://suttacentral.net/an8.43/en/sujato)
-+ Uposatha [an3.70](https://suttacentral.net/an3.70/en/sujato)
++ Uposatha [an3.70](https://suttacentral.net/an3.70/en/sujato), Visākhā [an8.43](https://suttacentral.net/an8.43/en/sujato)
 + Katamañca, bhikkhave, paṭisaṅkhānabalaṁ? [an2.11-20](https://suttacentral.net/an2.11-20/en/sujato?lang=en)
 #### 2. Content, not Stingy: Anavajjasukhaṁ
 + Parikkhāra patisankha yoniso: [Patisankha](https://www.dhammatalks.org/books/ChantingGuide/Section0004.html#sigil_toc_id_10)
