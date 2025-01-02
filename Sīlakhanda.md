@@ -1,10 +1,10 @@
 ### Sila-Sikkha:
 #### 1. Sikkhapada:
-+ Pāṇātipātā veramaṇī sikkhā-padaṁ samādiyāmi. Pāṇātipāto kho, brāhmaṇa, orimaṁ tīraṁ, pāṇātipātā veramaṇī pārimaṁ tīraṁ. [Chant](https://www.dhammatalks.org/books/ChantingGuide/Section0065.html), [an10.169](https://suttacentral.net/an10.169/en/sujato?lang=en), [an10.99](https://suttacentral.net/an10.99/en/sujato?lang=en)
-+ Taṁ dhammaṁ suṇāti gahapati. [Mn27](https://suttacentral.net/mn27/en/sujato)
-+ Duccarita-vipāka [an8.40 ](https://suttacentral.net/an8.40/en/sujato)
-+ Dasayimāni, bhikkhave, kathāvatthūni. [an10.69](https://suttacentral.net/an10.69/en/sujato?lang=en)
 + Kimatthiya [an11.1](https://suttacentral.net/an11.1/en/sujato?lang=en)
++ Idha tathāgato loke uppajjati arahaṁ [MN 27](https://suttacentral.net/mn27/en/sujato)
+  + Variation: Pāṇātipātā veramaṇī sikkhā-padaṁ samādiyāmi. Pāṇātipāto kho, brāhmaṇa, orimaṁ tīraṁ, pāṇātipātā veramaṇī pārimaṁ tīraṁ. [Chant](https://www.dhammatalks.org/books/ChantingGuide/Section0065.html), [an10.169](https://suttacentral.net/an10.169/en/sujato?lang=en), [an10.99](https://suttacentral.net/an10.99/en/sujato?lang=en)
++ Dasayimāni, bhikkhave, kathāvatthūni. [an10.69](https://suttacentral.net/an10.69/en/sujato?lang=en) 
++ Duccarita-vipāka [an8.40](https://suttacentral.net/an8.40/en/sujato?lang=en)
 + Pañcimāni, bhikkhave, dānāni mahādānāni [an8.39](https://suttacentral.net/an8.39/en/sujato?lang=en)
 + Sambodhi [an9.1](https://suttacentral.net/an9.1/en/sujato)
 + Visākhā [an8.43](https://suttacentral.net/an8.43/en/sujato)
