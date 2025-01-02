@@ -1,5 +1,5 @@
 ### Sila-Sikkha:
-#### 1. Sikkhapada: Anavajjasukhaṁ:
+#### 1. Sikkhapada:
 + Pāṇātipātā veramaṇī sikkhā-padaṁ samādiyāmi. [Chant](https://www.dhammatalks.org/books/ChantingGuide/Section0065.html)
 + Pāṇātipāto kho, brāhmaṇa, orimaṁ tīraṁ, pāṇātipātā veramaṇī pārimaṁ tīraṁ. [an10.169](https://suttacentral.net/an10.169/en/sujato?lang=en)
 + Taṁ dhammaṁ suṇāti gahapati. [Mn27](https://suttacentral.net/mn27/en/sujato)
@@ -11,7 +11,7 @@
 + Visākhā [an8.43](https://suttacentral.net/an8.43/en/sujato)
 + Uposatha [an3.70](https://suttacentral.net/an3.70/en/sujato)
 + Katamañca, bhikkhave, paṭisaṅkhānabalaṁ? [an2.11-20](https://suttacentral.net/an2.11-20/en/sujato?lang=en)
-#### 2. Content, not Stingy: 
+#### 2. Content, not Stingy: Anavajjasukhaṁ
 + Parikkhāra patisankha yoniso: [Patisankha](https://www.dhammatalks.org/books/ChantingGuide/Section0004.html#sigil_toc_id_10)
 + Ākaṅkheyya [MN6](https://suttacentral.net/mn6/en/sujato)
 + Kathañca, bhikkhave, saphalo upakkamo hoti, saphalaṁ padhānaṁ? [MN101](https://suttacentral.net/mn101/en/sujato)
@@ -19,6 +19,7 @@
 + Kathañca, bhikkhave, bhikkhu vaṇṇasampanno hoti? [AN3.98](https://suttacentral.net/an3.98/en/sujato)
 + Cattārome, pessa, puggalā santo saṁvijjamānā lokasmiṁ. [MN51](https://suttacentral.net/MN51/en/sujato?lang=en)
 + Kāyabhāvanā [MN 36](https://suttacentral.net/mn36/en/sujato)
++ Anavajjasukhaṁ [an10.99](https://suttacentral.net/an10.99/en/sujato?lang=en)
 #### 3. Hiri-Ottappa: Honor
 + Kiñca, bhikkhave, uttariṁ karaṇīyaṁ? [MN39](https://suttacentral.net/mn39/en/sujato)
 + Piya [sn03.004 Piya Sutta](https://suttacentral.net/sn3.4/en/sujato)
@@ -28,7 +29,7 @@
 + Tatrāvuso, bhikkhunā attanāva attānaṁ evaṁ anuminitabbaṁ: [MN15](https://suttacentral.net/mn15/en/sujato?lang=en)
 + ayaṁ vuccati, bhikkhave, ariyassa vinaye daliddo assako anāḷhiko. [an6.45](https://suttacentral.net/an6.45/en/sujato?lang=en)
 ### Sila-Samadhi
-#### 1. Indriya-bhavana, Domain
+#### 1. Indriya-bhavana, Domain: Abyāsekasukhaṁ
 + ‘appeva nāmāhaṁ imesaṁ cakkhuto vā otāraṁ labheyyaṁ. [sn35.240](https://suttacentral.net/sn35.240/en/sujato?lang=en)
 + Kathañcāvuso, bahiddhā viññāṇaṁ vikkhittaṁ visaṭanti vuccati? [MN 138](https://suttacentral.net/mn138/en/sujato)
 + Katame ca, bhikkhave, dhammā abhiññā sacchikātabbā? [MN 149](https://suttacentral.net/mn149/en/sujato)
@@ -39,6 +40,7 @@
 + Āditta [sn35.28](https://suttacentral.net/sn35.28/en/sujato)
 + Bāḷisiko [sn35.230](https://suttacentral.net/sn35.230/en/sujato)
 + ‘Ko pana te, lāpa, gocaro sako pettiko visayo’ti? [sn47.6](https://suttacentral.net/sn47.6/en/sujato?lang=en)
++ Abyāsekasukhaṁ [an10.99](https://suttacentral.net/an10.99/en/sujato?lang=en)
 #### 2. Jāgariyaṁ anuyuttā bhavissāma:  
 + Anaṅgaṇa: [MN5](https://suttacentral.net/mn5/en/sujato)
 + Jāgariyaṁ anuyuttā bhavissāma [MN39](https://suttacentral.net/mn39/en/sujato)
@@ -53,6 +55,7 @@
 ### Sila-Panna
 #### 1. Dealing with obstruction (cause & effect): 
 + Bhaya-bherava: [MN4](https://suttacentral.net/mn4/en/sujato)
++ So iminā ca ariyena sīlakkhandhena samannāgato [an4.198](https://suttacentral.net/an4.198/en/sujato?lang=en)
 
 ----
 #### Refer
