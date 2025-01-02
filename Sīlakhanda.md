@@ -1,15 +1,14 @@
 ### Sila-Sikkha:
 #### 1. Sikkhapada:
-+ Kimatthiya [an11.1](https://suttacentral.net/an11.1/en/sujato?lang=en)
-+ Idha tathāgato loke uppajjati arahaṁ [MN 27](https://suttacentral.net/mn27/en/sujato)
++ Kimatthiya [an11.1](https://suttacentral.net/an11.1/en/sujato?lang=en), Ākaṅkha [an10.71](https://suttacentral.net/an10.71/en/sujato?lang=en), Ākaṅkheyya [MN6](https://suttacentral.net/mn6/en/sujato)
++ Idha tathāgato loke uppajjati arahaṁ [MN27](https://suttacentral.net/mn27/en/sujato)
   + Variation: Pāṇātipātā veramaṇī sikkhā-padaṁ samādiyāmi. Pāṇātipāto kho, brāhmaṇa, orimaṁ tīraṁ, pāṇātipātā veramaṇī pārimaṁ tīraṁ. [Chant](https://www.dhammatalks.org/books/ChantingGuide/Section0065.html), [an10.169](https://suttacentral.net/an10.169/en/sujato?lang=en), [an10.99](https://suttacentral.net/an10.99/en/sujato?lang=en)
-  + Dasayimāni, bhikkhave, kathāvatthūni. [an10.69](https://suttacentral.net/an10.69/en/sujato?lang=en) 
+  + Dasayimāni, bhikkhave, kathāvatthūni. [an10.69](https://suttacentral.net/an10.69/en/sujato?lang=en), [an10.70](https://suttacentral.net/an10.70/en/sujato?lang=en)
   + Duccarita-vipāka [an8.40](https://suttacentral.net/an8.40/en/sujato?lang=en)
 + Uposatha [an3.70](https://suttacentral.net/an3.70/en/sujato), Visākhā [an8.43](https://suttacentral.net/an8.43/en/sujato), Pañcimāni, bhikkhave, dānāni mahādānāni [an8.39](https://suttacentral.net/an8.39/en/sujato?lang=en)
 + Katamañca, bhikkhave, paṭisaṅkhānabalaṁ? [an2.11-20](https://suttacentral.net/an2.11-20/en/sujato?lang=en), Sambodhi [an9.1](https://suttacentral.net/an9.1/en/sujato)
 #### 2. Content, not Stingy: Anavajjasukhaṁ
 + Parikkhāra patisankha yoniso: [Patisankha](https://www.dhammatalks.org/books/ChantingGuide/Section0004.html#sigil_toc_id_10)
-+ Ākaṅkheyya [MN6](https://suttacentral.net/mn6/en/sujato)
 + Kathañca, bhikkhave, saphalo upakkamo hoti, saphalaṁ padhānaṁ? [MN101](https://suttacentral.net/mn101/en/sujato)
 + Atthi me tumhesu anukampā: ‘kinti me sāvakā dhammadāyādā bhaveyyuṁ, no āmisadāyādā’ti.[MN3](https://suttacentral.net/mn3/en/sujato)
 + Kathañca, bhikkhave, bhikkhu vaṇṇasampanno hoti? [AN3.98](https://suttacentral.net/an3.98/en/sujato)
