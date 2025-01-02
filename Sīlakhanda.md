@@ -4,18 +4,18 @@
 + Idha tathāgato loke uppajjati arahaṁ [MN27](https://suttacentral.net/mn27/en/sujato). Variation: Pāṇātipātā veramaṇī sikkhā-padaṁ samādiyāmi. Pāṇātipāto kho, brāhmaṇa, orimaṁ tīraṁ, pāṇātipātā veramaṇī pārimaṁ tīraṁ. [Chant](https://www.dhammatalks.org/books/ChantingGuide/Section0065.html), [an10.169](https://suttacentral.net/an10.169/en/sujato?lang=en), [an10.99](https://suttacentral.net/an10.99/en/sujato?lang=en), Dasayimāni, bhikkhave, kathāvatthūni. [an10.69](https://suttacentral.net/an10.69/en/sujato?lang=en), [an10.70](https://suttacentral.net/an10.70/en/sujato?lang=en)
 + Uposatha [an3.70](https://suttacentral.net/an3.70/en/sujato), Visākhā [an8.43](https://suttacentral.net/an8.43/en/sujato), Pañcimāni, bhikkhave, dānāni mahādānāni [an8.39](https://suttacentral.net/an8.39/en/sujato?lang=en), Tayo khome, visākhe, uposathā. Katame tayo? [AN3.70](https://suttacentral.net/an3.70/en/sujato)
 + Katamañca, bhikkhave, paṭisaṅkhānabalaṁ? [an2.11-20](https://suttacentral.net/an2.11-20/en/sujato?lang=en), Sambodhi [an9.1](https://suttacentral.net/an9.1/en/sujato), Atītamaddhānaṁ samaṇā [MN61](https://suttacentral.net/mn61/en/sujato)
-#### 2. Santuṭṭhi - macchariya: Anavajjasukhaṁ
+#### 2. Santuṭṭhi - macchariya:
 + Parikkhāra patisankha yoniso: [Chant](https://www.dhammatalks.org/books/ChantingGuide/Section0004.html#sigil_toc_id_10), Katame ca, bhikkhave, āsavā paṭisevanā pahātabbā ye paṭisevanāya pahīnā honti? [an6.58](https://suttacentral.net/an6.58/en/sujato?lang=en)
 + Kathañca, aggivessana, abhāvitakāyo ca hoti abhāvitacitto ca? [MN 36](https://suttacentral.net/mn36/en/sujato), Ariyavaṁsā [an4.28](https://suttacentral.net/an4.28/en/sujato?lang=en), Anuruddhamahāvitakka [an8.30](https://suttacentral.net/an8.30/en/sujato?lang=en)
 + Cattārome, pessa, puggalā santo saṁvijjamānā lokasmiṁ [MN51](https://suttacentral.net/MN51/en/sujato?lang=en), Pañcannaṁ macchariyānaṁ [an5.256](https://suttacentral.net/an5.256/en/sujato?lang=en)
-+ Dvinnāhaṁ, bhikkhave, dhammānaṁ upaññāsiṁ [an2.5](https://suttacentral.net/an2.5/en/sujato?lang=en), Anavajjasukhaṁ [an10.99](https://suttacentral.net/an10.99/en/sujato?lang=en)
-#### 3. Hiri-Ottappa:
++ Dvinnāhaṁ, bhikkhave, dhammānaṁ upaññāsiṁ [an2.5](https://suttacentral.net/an2.5/en/sujato?lang=en)
+#### 3. Hiri-Ottappa: Anavajjasukhaṁ [an4.62](https://suttacentral.net/an4.62/en/sujato?lang=en)
 + Kathañca, mahānāma, ariyasāvako sattahi saddhammehi samannāgato hoti? [MN53](https://suttacentral.net/mn53/en/sujato), Katame ca, bhikkhave, dhammā samaṇakaraṇā ca brāhmaṇakaraṇā ca? [MN39](https://suttacentral.net/mn39/en/sujato), Tatrāvuso, bhikkhunā attanāva attānaṁ evaṁ anuminitabbaṁ: [MN15](https://suttacentral.net/mn15/en/sujato?lang=en)
 + Dhammadāyādā [MN3](https://suttacentral.net/mn3/en/sujato), Assājānīyo rājāraho [AN3.98](https://suttacentral.net/an3.98/en/sujato)
 + Evametassa pāpassa kammassa samatikkamo hoti [sn42.8](https://suttacentral.net/sn42.8/en/sujato?lang=en)
 + Vitthatadhana [an7.6](https://suttacentral.net/an7.6/en/sujato?lang=en), Dveme, bhikkhave, sukkā dhammā lokaṁ pālenti. [iti42](https://suttacentral.net/iti42/en/sujato?lang=en), [an2.9](https://suttacentral.net/an2.9/en/sujato?lang=en)
 ### Sila-Samadhi
-#### 1. Indriya-bhavana, gocara : Abyāsekasukhaṁ
+#### 1. Indriya-bhavana, gocara : Abyāsekasukhaṁ [dn10](https://suttacentral.net/dn10/en/sujato?lang=en)
 + Tasmātiha te, gahapati, evaṁ sikkhitabbaṁ: [MN143](https://suttacentral.net/mn143/en/sujato), Katame ca, bhikkhave, dhammā abhiññā sacchikātabbā? [MN149](https://suttacentral.net/mn149/en/sujato), Kathañcānanda, ariyassa vinaye anuttarā indriyabhāvanā hoti? [MN152](https://suttacentral.net/mn152/en/sujato), Kathañcāvuso, bahiddhā viññāṇaṁ vikkhittaṁ visaṭanti vuccati? [MN138](https://suttacentral.net/mn138/en/sujato) 
 + Sakuṇagghi [sn47.6](https://suttacentral.net/sn47.6/en/sujato?lang=en), Kummopama [sn35.240](https://suttacentral.net/sn35.240/en/sujato?lang=en)
 + Āditta [sn35.28](https://suttacentral.net/sn35.28/en/sujato), Puttamaṁsa [sn12.63](https://suttacentral.net/sn12.63/en/sujato?lang=en), Bāḷisiko [sn35.230](https://suttacentral.net/sn35.230/en/sujato)
