@@ -3,8 +3,8 @@
 + Kimatthiya [an11.1](https://suttacentral.net/an11.1/en/sujato?lang=en), Ākaṅkha [an10.71](https://suttacentral.net/an10.71/en/sujato?lang=en), Ākaṅkheyya [MN6](https://suttacentral.net/mn6/en/sujato)
 + Idha tathāgato loke uppajjati arahaṁ [MN27](https://suttacentral.net/mn27/en/sujato)
   + Variation: Pāṇātipātā veramaṇī sikkhā-padaṁ samādiyāmi. Pāṇātipāto kho, brāhmaṇa, orimaṁ tīraṁ, pāṇātipātā veramaṇī pārimaṁ tīraṁ. [Chant](https://www.dhammatalks.org/books/ChantingGuide/Section0065.html), [an10.169](https://suttacentral.net/an10.169/en/sujato?lang=en), [an10.99](https://suttacentral.net/an10.99/en/sujato?lang=en)
-  + Dasayimāni, bhikkhave, kathāvatthūni. [an10.69](https://suttacentral.net/an10.69/en/sujato?lang=en), [an10.70](https://suttacentral.net/an10.70/en/sujato?lang=en)
-  + Duccarita-vipāka [an8.40](https://suttacentral.net/an8.40/en/sujato?lang=en)
+  + Dasayimāni, bhikkhave, kathāvatthūni. [an10.69](https://suttacentral.net/an10.69/en/sujato?lang=en), Attarakkhi [an10.70](https://suttacentral.net/an10.70/en/sujato?lang=en)
+  + Duccarita-vipāka [an8.40](https://suttacentral.net/an8.40/en/sujato?lang=en), Piya [sn03.004](https://suttacentral.net/sn3.4/en/sujato), [sn3.5](https://suttacentral.net/sn3.5/en/sujato?lang=en)
 + Uposatha [an3.70](https://suttacentral.net/an3.70/en/sujato), Visākhā [an8.43](https://suttacentral.net/an8.43/en/sujato), Pañcimāni, bhikkhave, dānāni mahādānāni [an8.39](https://suttacentral.net/an8.39/en/sujato?lang=en)
 + Katamañca, bhikkhave, paṭisaṅkhānabalaṁ? [an2.11-20](https://suttacentral.net/an2.11-20/en/sujato?lang=en), Sambodhi [an9.1](https://suttacentral.net/an9.1/en/sujato)
 #### 2. Content, not Stingy: Anavajjasukhaṁ
@@ -17,7 +17,6 @@
 + Anavajjasukhaṁ [an10.99](https://suttacentral.net/an10.99/en/sujato?lang=en)
 #### 3. Hiri-Ottappa: Honor
 + Kiñca, bhikkhave, uttariṁ karaṇīyaṁ? [MN39](https://suttacentral.net/mn39/en/sujato)
-+ Piya [sn03.004 Piya Sutta](https://suttacentral.net/sn3.4/en/sujato)
 + Hirimā hoti. [MN53](https://suttacentral.net/mn53/en/sujato)
 + atītamaddhānaṁ samaṇā [MN61](https://suttacentral.net/mn61/en/sujato)
 + Tayo khome, visākhe, uposathā. Katame tayo? [AN3.70](https://suttacentral.net/an3.70/en/sujato)
