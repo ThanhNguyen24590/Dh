@@ -5,7 +5,7 @@
 + Uposatha [an3.70](https://suttacentral.net/an3.70/en/sujato), Visākhā [an8.43](https://suttacentral.net/an8.43/en/sujato), Pañcimāni, bhikkhave, dānāni mahādānāni [an8.39](https://suttacentral.net/an8.39/en/sujato?lang=en)
 + Katamañca, bhikkhave, paṭisaṅkhānabalaṁ? [an2.11-20](https://suttacentral.net/an2.11-20/en/sujato?lang=en), Sambodhi [an9.1](https://suttacentral.net/an9.1/en/sujato)
 #### 2. Content, not Stingy: Anavajjasukhaṁ
-+ Parikkhāra patisankha yoniso: [Patisankha](https://www.dhammatalks.org/books/ChantingGuide/Section0004.html#sigil_toc_id_10)
++ Parikkhāra patisankha yoniso: [Chant](https://www.dhammatalks.org/books/ChantingGuide/Section0004.html#sigil_toc_id_10), Katame ca, bhikkhave, āsavā paṭisevanā pahātabbā ye paṭisevanāya pahīnā honti? [an6.58](https://suttacentral.net/an6.58/en/sujato?lang=en)
 + Kathañca, bhikkhave, saphalo upakkamo hoti, saphalaṁ padhānaṁ? [MN101](https://suttacentral.net/mn101/en/sujato)
 + Atthi me tumhesu anukampā: ‘kinti me sāvakā dhammadāyādā bhaveyyuṁ, no āmisadāyādā’ti.[MN3](https://suttacentral.net/mn3/en/sujato)
 + Kathañca, bhikkhave, bhikkhu vaṇṇasampanno hoti? [AN3.98](https://suttacentral.net/an3.98/en/sujato)
