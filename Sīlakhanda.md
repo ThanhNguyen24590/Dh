@@ -17,9 +17,9 @@
 ### Sila-Samadhi
 #### 1. Indriya-bhavana, gocara : Abyāsekasukhaṁ
 + Tasmātiha te, gahapati, evaṁ sikkhitabbaṁ: [MN143](https://suttacentral.net/mn143/en/sujato), Katame ca, bhikkhave, dhammā abhiññā sacchikātabbā? [MN149](https://suttacentral.net/mn149/en/sujato), Kathañcānanda, ariyassa vinaye anuttarā indriyabhāvanā hoti? [MN152](https://suttacentral.net/mn152/en/sujato), Kathañcāvuso, bahiddhā viññāṇaṁ vikkhittaṁ visaṭanti vuccati? [MN138](https://suttacentral.net/mn138/en/sujato) 
-+ ‘Ko pana te, lāpa, gocaro sako pettiko visayo’ti? [sn47.6](https://suttacentral.net/sn47.6/en/sujato?lang=en)
++ Sakuṇagghi [sn47.6](https://suttacentral.net/sn47.6/en/sujato?lang=en), Kummopama [sn35.240](https://suttacentral.net/sn35.240/en/sujato?lang=en)
 + Āditta [sn35.28](https://suttacentral.net/sn35.28/en/sujato), Puttamaṁsa [sn12.63](https://suttacentral.net/sn12.63/en/sujato?lang=en), Bāḷisiko [sn35.230](https://suttacentral.net/sn35.230/en/sujato)
-+ Laṭukikopama [MN66](https://suttacentral.net/mn66/en/sujato), Mahā, upāli, attabhāvo gambhīre gādhaṁ vindati [an10.99](https://suttacentral.net/an10.99/en/sujato?lang=en), Kummopama [sn35.240](https://suttacentral.net/sn35.240/en/sujato?lang=en)
++ Laṭukikopama [MN66](https://suttacentral.net/mn66/en/sujato), Mahā, upāli, attabhāvo gambhīre gādhaṁ vindati [an10.99](https://suttacentral.net/an10.99/en/sujato?lang=en)
 #### 2. Jāgariyaṁ anuyuttā bhavissāma:  
 + Anaṅgaṇa: [MN5](https://suttacentral.net/mn5/en/sujato)
 + Kathañca, bhikkhave, saphalo upakkamo hoti, saphalaṁ padhānaṁ? [MN101](https://suttacentral.net/mn101/en/sujato)
