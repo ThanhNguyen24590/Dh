@@ -7,7 +7,7 @@
 #### 2. Santuṭṭhi - macchariya:
 + Parikkhāra patisankha yoniso: [Chant](https://www.dhammatalks.org/books/ChantingGuide/Section0004.html#sigil_toc_id_10), Katame ca, bhikkhave, āsavā paṭisevanā pahātabbā ye paṭisevanāya pahīnā honti? [an6.58](https://suttacentral.net/an6.58/en/sujato?lang=en)
 + Kathañca, aggivessana, abhāvitakāyo ca hoti abhāvitacitto ca? [MN 36](https://suttacentral.net/mn36/en/sujato), Ariyavaṁsā [an4.28](https://suttacentral.net/an4.28/en/sujato?lang=en), Anuruddhamahāvitakka [an8.30](https://suttacentral.net/an8.30/en/sujato?lang=en)
-+ Cattārome, pessa, puggalā santo saṁvijjamānā lokasmiṁ [MN51](https://suttacentral.net/MN51/en/sujato?lang=en), Pañcannaṁ macchariyānaṁ [an5.256](https://suttacentral.net/an5.256/en/sujato?lang=en)
++ Pañcannaṁ macchariyānaṁ [an5.256](https://suttacentral.net/an5.256/en/sujato?lang=en)
 + Dvinnāhaṁ, bhikkhave, dhammānaṁ upaññāsiṁ [an2.5](https://suttacentral.net/an2.5/en/sujato?lang=en)
 #### 3. Hiri-Ottappa: Anavajjasukhaṁ [an4.62](https://suttacentral.net/an4.62/en/sujato?lang=en)
 + Kathañca, mahānāma, ariyasāvako sattahi saddhammehi samannāgato hoti? [MN53](https://suttacentral.net/mn53/en/sujato), Katame ca, bhikkhave, dhammā samaṇakaraṇā ca brāhmaṇakaraṇā ca? [MN39](https://suttacentral.net/mn39/en/sujato), Tatrāvuso, bhikkhunā attanāva attānaṁ evaṁ anuminitabbaṁ: [MN15](https://suttacentral.net/mn15/en/sujato?lang=en)
@@ -26,13 +26,14 @@
 + Anaṅgaṇa: [MN5](https://suttacentral.net/mn5/en/sujato), Kathañca, bhikkhave, saphalo upakkamo hoti, saphalaṁ padhānaṁ? [MN101](https://suttacentral.net/mn101/en/sujato), Yoniso ca manasikāraṁ: [MN2](https://suttacentral.net/mn2/en/sujato)
 + Apaṇṇaka [an3.16](https://suttacentral.net/an3.16/en/sujato?lang=en)
 #### 3. Sati-sampajaññena: 4 postures
-+ Satisampajaññena [MN39](https://suttacentral.net/mn39/en/sujato)
++ Satisampajaññena [MN39](https://suttacentral.net/mn39/en/sujato), Nanda [an8.9](https://suttacentral.net/an8.9/en/sujato?lang=en)
 + Dvedhā Vitakka: [MN19](https://suttacentral.net/mn19/en/sujato)
 + Vitakkasaṇṭhāna: [MN20](https://suttacentral.net/mn20/en/sujato)
++ Anupubbasikkhā [mn107](https://suttacentral.net/mn107/en/sujato?lang=en), Idha, bhikkhave, bhikkhu aññaṁ byākaroti: [mn112](https://suttacentral.net/mn112/en/sujato?lang=en)
 ### Sila-Panna
-#### 1. Dealing with obstruction (cause & effect): 
+#### Dealing with obstruction (cause & effect): 
 + Bhaya-bherava: [MN4](https://suttacentral.net/mn4/en/sujato)
-+ So iminā ca ariyena sīlakkhandhena samannāgato [an4.198](https://suttacentral.net/an4.198/en/sujato?lang=en)
++ Cattārome, pessa, puggalā santo saṁvijjamānā lokasmiṁ [MN51](https://suttacentral.net/MN51/en/sujato?lang=en), So iminā ca ariyena sīlakkhandhena samannāgato [an4.198](https://suttacentral.net/an4.198/en/sujato?lang=en)
 
 ----
 #### Refer
