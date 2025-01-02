@@ -1,0 +1,70 @@
+### Sila-Sikkha:
+#### 1. Sikkhapada: Anavajjasukhaṁ:
++ [Chant](https://www.dhammatalks.org/books/ChantingGuide/Section0065.html) 
++ [Mn27](https://suttacentral.net/mn27/en/sujato): Taṁ dhammaṁ suṇāti gahapati
++ Dasayimāni, bhikkhave, kathāvatthūni. [an10.69](https://suttacentral.net/an10.69/en/sujato?lang=en)
++ Kimatthiya [an11.1](https://suttacentral.net/an11.1/en/sujato?lang=en)
++ Pañcimāni, bhikkhave, dānāni mahādānāni [an8.39](https://suttacentral.net/an8.39/en/sujato?lang=en)
+#### 2. Content, not Stingy: 
++ Parikkhāra patisankha yoniso: [Patisankha](https://www.dhammatalks.org/books/ChantingGuide/Section0004.html#sigil_toc_id_10)
++ Kathañca, bhikkhave, saphalo upakkamo hoti, saphalaṁ padhānaṁ? [MN101](https://suttacentral.net/mn101/en/sujato)
++ Atthi me tumhesu anukampā: ‘kinti me sāvakā dhammadāyādā bhaveyyuṁ, no āmisadāyādā’ti.[MN3](https://suttacentral.net/mn3/en/sujato)
++ Kathañca, bhikkhave, bhikkhu vaṇṇasampanno hoti? [AN3.98](https://suttacentral.net/an3.98/en/sujato)
++ Cattārome, pessa, puggalā santo saṁvijjamānā lokasmiṁ. [MN51](https://suttacentral.net/MN51/en/sujato?lang=en)
+#### 3. Hiri-Ottappa: Honor
++ Kiñca, bhikkhave, uttariṁ karaṇīyaṁ? [MN39](https://suttacentral.net/mn39/en/sujato)
++ Hirimā hoti. [MN53](https://suttacentral.net/mn53/en/sujato)
++ atītamaddhānaṁ samaṇā [MN61](https://suttacentral.net/mn61/en/sujato)
++ Tayo khome, visākhe, uposathā. Katame tayo? [AN3.70](https://suttacentral.net/an3.70/en/sujato)
++ Tatrāvuso, bhikkhunā attanāva attānaṁ evaṁ anuminitabbaṁ: [MN15](https://suttacentral.net/mn15/en/sujato?lang=en)
++ ayaṁ vuccati, bhikkhave, ariyassa vinaye daliddo assako anāḷhiko. [an6.45](https://suttacentral.net/an6.45/en/sujato?lang=en)
+### Sila-Samadhi
+#### 1. Indriya-bhavana, Domain
++ ‘appeva nāmāhaṁ imesaṁ cakkhuto vā otāraṁ labheyyaṁ. [sn35.240](https://suttacentral.net/sn35.240/en/sujato?lang=en)
++ Kathañcānanda, ariyassa vinaye anuttarā indriyabhāvanā hoti? [MN152](https://suttacentral.net/mn152/en/sujato)
++ "Na me, bhante sāriputta, khamanīyaṁ na yāpanīyaṁ." -Tasmātiha te, gahapati, evaṁ sikkhitabbaṁ: [MN143](https://suttacentral.net/mn143/en/sujato)
++ Indriyavemattatā hi me, udāyi, imasmiṁ puggale viditā. Ime kho, udāyi, cattāro puggalā santo saṁvijjamānā lokasmiṁ. [MN66](https://suttacentral.net/mn66/en/sujato)
++ Puttamaṁsa [sn12.63](https://suttacentral.net/sn12.63/en/sujato?lang=en)
++ ‘Ko pana te, lāpa, gocaro sako pettiko visayo’ti? [sn47.6](https://suttacentral.net/sn47.6/en/sujato?lang=en)
+#### 2. Jāgariyaṁ anuyuttā bhavissāma:  
++ Anaṅgaṇa: [MN5](https://suttacentral.net/mn5/en/sujato)
++ Jāgariyaṁ anuyuttā bhavissāma [MN39](https://suttacentral.net/mn39/en/sujato)
++ Yoniso ca manasikāraṁ: [MN2](https://suttacentral.net/mn2/en/sujato)
++ Dvinnāhaṁ, bhikkhave, dhammānaṁ upaññāsiṁ yā ca asantuṭṭhitā kusalesu dhammesu, yā ca appaṭivānitā padhānasmiṁ. [AN2.5](https://suttacentral.net/an2.5/en/sujato)
++ Seyyathāpi, bhikkhave, gāmassa vā nigamassa vā avidūre mahantaṁ sālavanaṁ. Tañcassa eḷaṇḍehi sañchannaṁ. [MN21](https://suttacentral.net/mn21/en/sujato)
++ ‘alamidaṁ padhānāyā’ti. Seyyathāpi, rājakumāra, allaṁ kaṭṭhaṁ sasnehaṁ udake nikkhittaṁ. [MN85](https://suttacentral.net/mn85/en/sujato)
+#### 3. Sati-sampajaññena: 4 postures
++ Satisampajaññena [MN39](https://suttacentral.net/mn39/en/sujato)
++ Dvedhā Vitakka: [MN19](https://suttacentral.net/mn19/en/sujato)
++ Vitakkasaṇṭhāna: [MN20](https://suttacentral.net/mn20/en/sujato)
+### Sila-Panna
+#### 1. Dealing with obstruction (cause & effect): 
++ Bhaya-bherava: [MN4](https://suttacentral.net/mn4/en/sujato)
+-----
+#### Sutta
+[MN 6 Ākaṅkheyyasutta](https://suttacentral.net/mn6/en/sujato)
+[MN 36](https://suttacentral.net/mn36/en/sujato)
+
+
+[MN 101 Uddesa-vibhaṅga Sutta](https://suttacentral.net/mn101/en/sujato)
+[MN 138 Uddesa-vibhaṅga Sutta](https://suttacentral.net/mn138/en/sujato)
+[MN 149 Mahā saḷāyatanika Sutta](https://suttacentral.net/mn149/en/sujato)
+
+[an2.018 Ekamsena Sutta](https://www.accesstoinsight.org/tipitaka/an/an02/an02.018.than.html)
+[an3.98 Tatiyaājānīyasutta](https://suttacentral.net/an3.98/en/sujato)
+[an3.70 Uposathasutta](https://suttacentral.net/an3.70/en/sujato)
+[an6.45 Iṇa Sutta](https://www.dhammatalks.org/suttas/AN/AN6_45.html)
+[an8.39 Abhisandasutta](https://suttacentral.net/an8.39/en/sujato)
+[an8.40 Duccarita-vipāka-sutta](https://suttacentral.net/an8.40/en/sujato)
+[an8.43 Visākhāsutta](https://suttacentral.net/an8.43/en/sujato)
+[an9.1 Sambodhisutta](https://suttacentral.net/an9.1/en/sujato)
+[an10.69 Paṭhama-kathāvatthu-sutta](https://suttacentral.net/an10.69/en/sujato)
+			
+[sn03.004 Piya Sutta](https://suttacentral.net/sn3.4/en/sujato)
+[sn12.63 Puttamaṃsasutta](https://suttacentral.net/sn12.63/en/sujato)
+[sn35.28 Ādittasutta ](https://suttacentral.net/sn35.28/en/sujato)
+[sn35.230 Bāḷisikopamasutta](https://suttacentral.net/sn35.230/en/sujato)
+
+----
+#### Refer
+[5 precepts](https://en.wikipedia.org/wiki/Five_precepts)
