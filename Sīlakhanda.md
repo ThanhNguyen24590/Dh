@@ -6,11 +6,8 @@
 + Katamañca, bhikkhave, paṭisaṅkhānabalaṁ? [an2.11-20](https://suttacentral.net/an2.11-20/en/sujato?lang=en), Sambodhi [an9.1](https://suttacentral.net/an9.1/en/sujato)
 #### 2. Content, not Stingy: Anavajjasukhaṁ
 + Parikkhāra patisankha yoniso: [Chant](https://www.dhammatalks.org/books/ChantingGuide/Section0004.html#sigil_toc_id_10), Katame ca, bhikkhave, āsavā paṭisevanā pahātabbā ye paṭisevanāya pahīnā honti? [an6.58](https://suttacentral.net/an6.58/en/sujato?lang=en)
-+ Kathañca, bhikkhave, saphalo upakkamo hoti, saphalaṁ padhānaṁ? [MN101](https://suttacentral.net/mn101/en/sujato)
-+ Atthi me tumhesu anukampā: ‘kinti me sāvakā dhammadāyādā bhaveyyuṁ, no āmisadāyādā’ti.[MN3](https://suttacentral.net/mn3/en/sujato)
-+ Kathañca, bhikkhave, bhikkhu vaṇṇasampanno hoti? [AN3.98](https://suttacentral.net/an3.98/en/sujato)
-+ Cattārome, pessa, puggalā santo saṁvijjamānā lokasmiṁ. [MN51](https://suttacentral.net/MN51/en/sujato?lang=en)
-+ Kāyabhāvanā [MN 36](https://suttacentral.net/mn36/en/sujato)
++ Dhammadāyādā [MN3](https://suttacentral.net/mn3/en/sujato), Assājānīyo rājāraho [AN3.98](https://suttacentral.net/an3.98/en/sujato)
++ Cattārome, pessa, puggalā santo saṁvijjamānā lokasmiṁ [MN51](https://suttacentral.net/MN51/en/sujato?lang=en), Kathañca, aggivessana, abhāvitakāyo ca hoti abhāvitacitto ca? [MN 36](https://suttacentral.net/mn36/en/sujato)
 + Anavajjasukhaṁ [an10.99](https://suttacentral.net/an10.99/en/sujato?lang=en)
 #### 3. Hiri-Ottappa: Honor
 + Kiñca, bhikkhave, uttariṁ karaṇīyaṁ? [MN39](https://suttacentral.net/mn39/en/sujato)
@@ -34,6 +31,7 @@
 + Abyāsekasukhaṁ [an10.99](https://suttacentral.net/an10.99/en/sujato?lang=en)
 #### 2. Jāgariyaṁ anuyuttā bhavissāma:  
 + Anaṅgaṇa: [MN5](https://suttacentral.net/mn5/en/sujato)
++ Kathañca, bhikkhave, saphalo upakkamo hoti, saphalaṁ padhānaṁ? [MN101](https://suttacentral.net/mn101/en/sujato)
 + Jāgariyaṁ anuyuttā bhavissāma [MN39](https://suttacentral.net/mn39/en/sujato)
 + Yoniso ca manasikāraṁ: [MN2](https://suttacentral.net/mn2/en/sujato)
 + Dvinnāhaṁ, bhikkhave, dhammānaṁ upaññāsiṁ yā ca asantuṭṭhitā kusalesu dhammesu, yā ca appaṭivānitā padhānasmiṁ. [AN2.5](https://suttacentral.net/an2.5/en/sujato)
