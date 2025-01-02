@@ -1,7 +1,6 @@
 ### Sila-Sikkha:
 #### 1. Sikkhapada:
-+ Pāṇātipātā veramaṇī sikkhā-padaṁ samādiyāmi. [Chant](https://www.dhammatalks.org/books/ChantingGuide/Section0065.html)
-+ Pāṇātipāto kho, brāhmaṇa, orimaṁ tīraṁ, pāṇātipātā veramaṇī pārimaṁ tīraṁ. [an10.169](https://suttacentral.net/an10.169/en/sujato?lang=en)
++ Pāṇātipātā veramaṇī sikkhā-padaṁ samādiyāmi. [Chant](https://www.dhammatalks.org/books/ChantingGuide/Section0065.html). Pāṇātipāto kho, brāhmaṇa, orimaṁ tīraṁ, pāṇātipātā veramaṇī pārimaṁ tīraṁ. [an10.169](https://suttacentral.net/an10.169/en/sujato?lang=en)
 + Taṁ dhammaṁ suṇāti gahapati. [Mn27](https://suttacentral.net/mn27/en/sujato)
 + Duccarita-vipāka [an8.40 ](https://suttacentral.net/an8.40/en/sujato)
 + Dasayimāni, bhikkhave, kathāvatthūni. [an10.69](https://suttacentral.net/an10.69/en/sujato?lang=en)
