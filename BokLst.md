@@ -1,25 +1,31 @@
-Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.6
-Creation-Date: 2023-10-10T10:25:55+07:00
-
-**Bok-Rsr**
- [WingsOfAwakening](https://www.dhammatalks.org/books/Wings/Section0000.html)
-Visuddhimagga, Wings Of Awakening, Buddhist Romanticism....
-- Dhamma Study: Culadasa - The Mind Illuminated -> Refine Step & Concepts
-- mctb2 https://www.mctb.org/mctb2/table-of-contents/
-- https://www.integrateddaniel.info/book
-- [Thanissaro: Dhammayut Order](https://www.dhammatalks.org/Archive/Writings/CrossIndexed/Uncollected/MiscEssays/The%20Traditions%20of%20the%20Noble%20Ones.pdf)
-- Ajahn Lee : Autobiography + Teaching
-- https://en.wikipedia.org/wiki/Infinity_and_the_Mind
+#### Sutta Rsr
++ Bikkhu Bodhi : In the Buddha words
+#### Thanissaro:
++ [ ] [With Each & Every Breath, A Guide To Meditation](https://www.dhammatalks.org/books/WithEachAndEveryBreath/Section0001.html)
++ [ ] [Four Noble Truths](https://www.dhammatalks.org/books/FourNobleTruths/Section0001.html)
++ [WingsOfAwakening](https://www.dhammatalks.org/books/Wings/Section0000.html)
++ Buddhist Romanticism
++ Mind like fire unbound
 + [GoodHeart](https://www.dhammatalks.org/books/GoodHeart/Contents.html)
 + [Buddhist Simile](https://www.accesstoinsight.org/index-similes.html)
++ The paradox of becoming
+#### Forest Tradition:
++ Ajahn Lee : Autobiography + Teaching
++ Ajahn Maha Bua: Ajahn Lee
+#### WSBA  
++ Ajahn Brahm: The Jhanas
++ Sujanto : History of Mindfulness
+#### Bikkhu Bodhi
+#### Theology
++ Visuddhimagga
++ mctb2 https://www.mctb.org/mctb2/table-of-contents/
++ https://www.integrateddaniel.info/book
++ https://en.wikipedia.org/wiki/Infinity_and_the_Mind
 + https://sati.org/sati-journal/
 + Osamu Tezuka Buddha
 + Thich Nhat Hanh -Duong xua may trang
 + https://read.84000.co/translation/toh340.html
-# Theology
 * What the Buddha Thought
-* Bikkhu Bodhi : In the Buddha words
 * Buddhists: Understanding Buddhism Through the Lives of Practitioners (Lived Religions): Todd Lewis
 * Rupert Gethin : The Foundation of Buddhism 
 * Living Buddhist Masters
@@ -33,19 +39,12 @@ Visuddhimagga, Wings Of Awakening, Buddhist Romanticism....
 * Thanh tịnh đạo
 * Thích Nhất Hạnh: Awakening of the Heart: Essential Buddhist Sutras and Commentaries
 * John Joseph Holder: Early Buddhist Discourses
-* Thanissaro: Mind like fire unbound
-* Thanissaro: Buddhism Romanticism
 * William Edelglass, Jay L. Garfield : Buddhist Philosophy: Essential Readings
 
-# Practice
+### Practice
 * Culadasa : The mind illuminated
 * Daniel M. Ingram: Mastering The Core Teaching of The Buddha: https://www.mctb.org/mctb2/table-of-contents/
-* Ajahn Brahm: The Jhanas
-* Thanissaro: The wings of awakening
-* Thanissaro: The paradox of becoming
-* Thanissaro: With each & every breath
 * Theravada Meditation: The Buddhist Transformation of Yoga (1980)
-* Sujanto : History of Mindfulness
 * Pa Auk : Know and see
 * Henepola Gunaratana : The Jhanas in Theravada Buddhist Meditation | A Critical Analysis of the Jhanas
 * Johannes Bronkhorst : The Two Traditions Of Meditation In Ancient India
@@ -56,7 +55,7 @@ Visuddhimagga, Wings Of Awakening, Buddhist Romanticism....
 * Radiant Mind: Essential Buddhist Teachings and Texts 
 * Shaila Catherine: Focused and Fearless: A Meditator's Guide to States of Deep Joy, Calm, and Clarity
 * Tilmann Vetter : The Ideas and Meditative Practices of Early Buddhism
-# Study
+### Study
 * Padmasiri De Silva : An introduction to Buddhist psychology
 * Padmasiri De Silva : Buddhist and Freudian psychology
 * Robert Wright : Why Buddhism Is True
@@ -79,9 +78,7 @@ Visuddhimagga, Wings Of Awakening, Buddhist Romanticism....
 * Y. Krishan, Kalpana K. Tadikonda : the buddha image its origin and development
 * Tiruppattur R. Venkatachala Murti : The Central Philosophy of Buddhism: A Study of the Mādhyamika System
 * Thich Thien Chau : The Literature of the Pudgala Vans
-# History
-* Ajahn Lee : autobiography
-* Ajahn Maha Bua: Ajahn Lee
+### History
 * The Lovelorn Ghost and the Magical Monk: Practicing Buddhism in Modern Thailand
 * A thousand lives away: buddhism in contemporary burma
 * Uma Chakravarti: the social dimensions of early buddhism | Everyday Lives, Everyday Histories
@@ -102,7 +99,7 @@ Visuddhimagga, Wings Of Awakening, Buddhist Romanticism....
 * P. V. Bapat : 2500 years of buddhism
 * Thomas Rhys Davids : History of Indian Buddhism
 
-# Zen
+### Zen
 * Masao Abe : Zen and Western Thought
 * Mirror of zen
 * Rethinking Transcendence and the Role of Language in Zen Experience 
@@ -116,7 +113,7 @@ Christian K. Wedemeyer : Making Sense of Tantric Buddhism
 
 The Sound of Two Hands Clapping: The Education of a Tibetan Buddhist Monk 
 Mahayana Buddhism: The Doctrinal Foundations (The Library of Religious Beliefs and Practices) 
-# Research
+### Research
 Ñāṇavīra Thera
 Richard Gombrich
 Ken McLeod
