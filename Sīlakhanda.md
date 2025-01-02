@@ -9,10 +9,11 @@
 + Kathañca, aggivessana, abhāvitakāyo ca hoti abhāvitacitto ca? [MN 36](https://suttacentral.net/mn36/en/sujato), Ariyavaṁsā [an4.28](https://suttacentral.net/an4.28/en/sujato?lang=en), Anuruddhamahāvitakka [an8.30](https://suttacentral.net/an8.30/en/sujato?lang=en)
 + Cattārome, pessa, puggalā santo saṁvijjamānā lokasmiṁ [MN51](https://suttacentral.net/MN51/en/sujato?lang=en),
 + Dvinnāhaṁ, bhikkhave, dhammānaṁ upaññāsiṁ [an2.5](https://suttacentral.net/an2.5/en/sujato?lang=en), Anavajjasukhaṁ [an10.99](https://suttacentral.net/an10.99/en/sujato?lang=en)
-#### 3. Hiri-Ottappa: Honor
+#### 3. Hiri-Ottappa:
 + Dhammadāyādā [MN3](https://suttacentral.net/mn3/en/sujato), Assājānīyo rājāraho [AN3.98](https://suttacentral.net/an3.98/en/sujato)
 + Hirimā hoti [MN53](https://suttacentral.net/mn53/en/sujato), Kiñca, bhikkhave, uttariṁ karaṇīyaṁ? [MN39](https://suttacentral.net/mn39/en/sujato)
 + Tatrāvuso, bhikkhunā attanāva attānaṁ evaṁ anuminitabbaṁ: [MN15](https://suttacentral.net/mn15/en/sujato?lang=en)
++ Evametassa pāpassa kammassa samatikkamo hoti [sn42.8](https://suttacentral.net/sn42.8/en/sujato?lang=en)
 ### Sila-Samadhi
 #### 1. Indriya-bhavana, Domain: Abyāsekasukhaṁ
 + ‘appeva nāmāhaṁ imesaṁ cakkhuto vā otāraṁ labheyyaṁ. [sn35.240](https://suttacentral.net/sn35.240/en/sujato?lang=en)
