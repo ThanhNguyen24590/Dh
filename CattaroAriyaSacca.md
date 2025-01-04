@@ -1,8 +1,15 @@
-Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.6
-Creation-Date: 2022-11-25T10:27:19+07:00
+##### Idaṁ dukkhaṁ ariyasaccaṁ: 
+jātipi dukkhā, jarāpi dukkhā, byādhipi dukkho, maraṇampi dukkhaṁ, 
+appiyehi sampayogo dukkho, piyehi vippayogo dukkho, yampicchaṁ na labhati tampi dukkhaṁ
+saṅkhittena pañcupādānakkhandhā dukkhā.
+##### Idaṁ dukkhasamudayaṁ ariyasaccaṁ: 
+yāyaṁ taṇhā ponobbhavikā nandirāgasahagatā tatratatrābhinandin: kāmataṇhā, bhavataṇhā, vibhavataṇhā.
+##### Idaṁ dukkhanirodhaṁ ariyasaccaṁ: 
+yo tassāyeva taṇhāya asesavirāganirodho cāgo paṭinissaggo mutti anālayo.
+##### Idaṁ dukkhanirodhagāminī paṭipadā ariyasaccaṁ: 
+ayameva ariyo aṭṭhaṅgiko maggo.
 
-=== Rupa ===
+### 1st Expand
 **Kaya**:
 + Work to make a living: Day job, other people bad day,...
 + Work to maintain body healthy: The bad state of hunger, thirst, pain.
@@ -45,3 +52,6 @@ Yasmiṁ samaye (whenever) kāma-rāga-pariyuṭṭhitena (pervaded) cetasā vih
 [Snp 4.2 Guhaṭṭhakasutta](https://suttacentral.net/snp4.2/en/sujato)
 [Sn35.82 Lokapañhāsutta](https://suttacentral.net/sn35.82/en/sujato) 
 Sn35.85 Suññatalokasutta](https://suttacentral.net/sn35.85/en/sujato
+----
+##### Ariya
+https://www.dhammatalks.org/books/FourNobleTruths/Section0003.html
