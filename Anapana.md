@@ -55,9 +55,10 @@ Mk mental body. Distill/settle in 1 point to make Subtle Body > Draw out subtle 
 
 ---
 #### Vedana
-1. Bhikkhu [Dukkhaṁ] vā vedanaṁ vedayamāno ‘[dukkhaṁ] vedanaṁ vedayāmī’ti pajānāti. 
+1. Identify general vibe of emotion or lack there of (apathy, dullness..). **Viz**: comfort places: house, cave, library, garden.. **Act**: comfort act: grab book, do rosary, rocking back and forth, kneeling & whisper.
+2. Identify what the emotions is in the mixture, unfreeze them & do not ask the cause or critize. Check your reaction, **do not avoid** or confront uncomfortable feelings. Try to name them individualy, but not hardpress. Just let it be. **Viz**: iceberg float up & melting.
+3.  Bhikkhu [Dukkhaṁ] vā vedanaṁ vedayamāno ‘[dukkhaṁ] vedanaṁ vedayāmī’ti pajānāti. 
 Viz the ocean (as whole emotional being) with iceberg as frozen emotion: 
-+ Sunlight zone: what ya feel now?
 + Twilight zone: [Sāmisaṁ | Nirāmisaṁ] vā [ dukkhaṁ ] vedanaṁ vedayamāno ‘[Sāmisaṁ | Nirāmisaṁ] [dukkhaṁ] vedanaṁ vedayāmī’ti pajānāti.
 + Midnight zone: the pattern of emotion: creation & anihilation of emotion thru time.
 + Abyssal zone : World-tire? 
