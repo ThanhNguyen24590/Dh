@@ -1,23 +1,28 @@
-Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.6
-Creation-Date: 2022-11-25T10:25:08+07:00
-
-=== Anap: comfy: Exp chose variery, rythm, texture & smoothing the process. ===
+#### Anap: comfy: Exp chose variery, rythm, texture & smoothing the process.
 1. **Satova** assasati satova passasati: set anap base for all steps/exp. Later step only elaborate anap. 
 
-2. **Dīghaṁ** vā assasanto ‘dīghaṁ assasāmī’ti pajānāti, dīghaṁ vā passasanto ‘dīghaṁ passasāmī’ti pajānāti: 
- .Pathavii: 1. Intentional/Manual/Deep/Heavy anap (as slow lift), aware active action of lungs, diaphram & belly. 2. Break Anap into chunk: Start, Middle, End, Silence-Space between, Start, End. Like mining.
- .Tejo: 1. Feel urge/hunger to Anap, the rawness/freshness, Fullness & Fill Anap with energy/potential. 2. Mk Anap hot & Smelting/Smoothing out & remove the ragged edge > Mk Anap continual. Like metal in the forge.
+2. **Dīghaṁ** vā assasanto ‘dīghaṁ assasāmī’ti **pajānāti**, dīghaṁ vā passasanto ‘dīghaṁ passasāmī’ti pajānāti: 
++ Pathavii: **Energy**: Intentional/Manual make deep/heavy anap (as slow lift). **Viz**: start up machine: heart-muscle-.., city wake up. Could associate with sound of heavy breathing with Viz sound. **Act**: pose/flex/tense your muscle: closing fist, feet, neck, shoulder.
++ Pathavii: Qi-Biofeedback-**Form** correction: observe **active** action of lungs, diaphram, belly & general posture when anap. **Viz**: fog cleared up & light begin to show big obj like moutain/ skyscraper/ city,..**Act**: Relax
++ Pathavii: **Lapidary**: Carve Anap into chunk: Start, Middle, End, Silence-Space between, Start, End. **Viz**: mining, gem-bone engraving with fractal,..**Act**: Relax but still hold strong potential like in taichi practice.
++ Tejo: **Resent** of condition: Fill Anap with energy/potential. **Viz**: Vocalno & Lava burn all. **Act**: Throat exc.
++ Tejo: **Fullness** & Wamrth vs urge/hunger of Anap, the rawness, freshness, deliciousness of Anap.
++ Tejo: Smelting/Smoothing out & remove the ragged edge of Anap > Mk Anap **continual**. **Viz**: metal in the forge, earth outer core, blood like lava in vessel-moving continuously...
  
-3. **Rassaṁ** vā assasanto ‘rassaṁ assasāmī’ti pajānāti, rassaṁ vā passasanto ‘rassaṁ passasāmī’ti pajānāti. 
- .Apo: Connect into Rythm & Continuity of Anap. Unify Anap into: Silence-Aware, soft but strong like silk thread (taichi). Like Ocean wave.
- .Vajo: Relax anap, change from manual to observational, be free. Change Anap to Light, Stilling, Aware. Like bird flying/gliding.
+3. **Rassaṁ** vā assasanto ‘rassaṁ assasāmī’ti **pajānāti**, rassaṁ vā passasanto ‘rassaṁ passasāmī’ti pajānāti. 
++ Apo: **Soften** & Slow down Anap, mk it the nursery rythm. **Viz**: rain settle dust, flow into river.
++ Apo: **Connect**/Tap into Rythm & Continuity of Anap.**Viz**: river to ocean, lake & Ocean wave.
++ Apo: **Unify** Anap into: Silence-Aware, soft but strong like silk thread (taichi). **Viz**: All ocean & theirs currents.
++ Vajo: **Free** & relax intention, change from manual to observational. **Viz**: wind in the sky,
++ Vajo: Wait for Anap to settle down, **Stilling**, Aware. **Viz**: bird flying/gliding.
++ Vajo: Invite **Light & Joy**, protective, but not possessive. **Viz**: wind chimes, animals come to water-source.
 
 4. Seyyathāpi, bhikkhave, dakkho bhamakāro vā bhamakārantevāsī vā dīghaṁ vā añchanto ‘dīghaṁ añchāmī’ti **pajānāti**, rassaṁ vā añchanto ‘rassaṁ añchāmī’ti pajānāti; evameva kho, bhikkhave, bhikkhu dīghaṁ vā assasanto ‘dīghaṁ assasāmī’ti pajānāti, dīghaṁ vā passasanto ‘dīghaṁ passasāmī’ti pajānāti, rassaṁ vā assasanto ‘rassaṁ assasāmī’ti pajānāti, rassaṁ vā passasanto ‘rassaṁ passasāmī’ti pajānāti;
- .Set up Anap repertoire: In long-out short, in short-out long,..  
- .Viz: rain settle dust, cold; snowing house, tree; forest, ocean, lake,..
++ Add more type to Anap repertoire : In long-out short, in short-out long,..
++ Use anap type **appropriate** with what need. Could change in any moment or in moving attention to other places, body space or mind spaces.
 
-=== Kaya: unify ===
+---
+#### Kaya: unify
 1. yathā yathā vā panassa kāyo paṇihito hoti tathā tathā naṁ pajānāti: Aware posture.
 2. Identify sensation in 4 parts: Head, body, hand, leg> Clarify the present of the part.
 3. **'sabba-kāya-paṭisaṃvedī assasissāmī'ti sikkhati, 'sabba-kāya-paṭisaṃvedī passasissāmī'ti sikkhati**: Present of whole body
@@ -34,7 +39,8 @@ Mk mental body. Distill/settle in 1 point to make Subtle Body > Draw out subtle 
 7. Samudayadhammānupassī vā kāyasmiṁ viharati, vayadhammānupassī vā kāyasmiṁ viharati, samudayavayadhammānupassī vā kāyasmiṁ viharati.
 8. ‘Atthi kāyo’ti vā panassa sati paccupaṭṭhitā hoti yāvadeva ñāṇamattāya paṭissatimattāya anissito ca viharati, na ca kiñci loke upādiyati.
 ‘netaṁ mama, nesohamasmi, na meso attā’ti samanupassati
-=== Vedana ===
+---
+#### Vedana
 1. Bhikkhu [Dukkhaṁ] vā vedanaṁ vedayamāno ‘[dukkhaṁ] vedanaṁ vedayāmī’ti pajānāti. 
 Viz the ocean (as whole emotional being) with iceberg as frozen emotion: 
 + Sunlight zone: what ya feel now?
@@ -53,12 +59,14 @@ https://www.accesstoinsight.org/tipitaka/an/an05/an05.028.than.html
 7. Samudayadhammānupassī vā vedanāsu viharati, vayadhammānupassī vā vedanāsu viharati, samudayavayadhammānupassī vā vedanāsu viharati.
 8. ‘Atthi vedanā’ti vā panassa sati paccupaṭṭhitā hoti yāvadeva ñāṇamattāya paṭissatimattāya anissito ca viharati, na ca kiñci loke upādiyati.
 ‘netaṁ mama, nesohamasmi, na meso attā’ti samanupassati
-=== Cittasaṅkhāra ===
+---
+#### Cittasaṅkhāra
 1.**'citta-saṅkhāra-paṭisaṃvedī assasissāmī'ti sikkhati, 'cittasaṅkhārapaṭisaṃvedī passasissāmī'ti sikkhati**
 Notice space between thoughts/sensation. Thoughts like ants, contain mutiple little ants, follow their pheromone trace- death spiral.
 2. **'passambhayaṃ cittasaṅkhāraṃ assasissāmī'ti sikkhati, 'passambhayaṃ cittasaṅkhāraṃ passasissāmī'ti sikkhati**
 Widen space between sensation.
-=== Citta ===
+---
+#### Citta
 1. saṅkhittaṁ (constricted)? amahaggataṁ (unexpansive)? vikkhittaṁ (scattered) ? nīvaraṇa?
 2. **'cittapaṭisaṃvedī assasissāmī'ti sikkhati, cittapaṭisaṃvedī passasissāmī'ti sikkhati;**
 what's this being/exp/awareness? foggy-lack sleep? motivated? annoyed? Bored? Anxious? Like a garden, beware of bad seed.
@@ -69,29 +77,32 @@ what's this being/exp/awareness? foggy-lack sleep? motivated? annoyed? Bored? An
 7. Samudayadhammānupassī vā cittasmiṁ viharati, vayadhammānupassī vā cittasmiṁ viharati, samudayavayadhammānupassī vā cittasmiṁ viharati.
 8. ‘Atthi cittan’ti vā panassa sati paccupaṭṭhitā hoti yāvadeva ñāṇamattāya paṭissatimattāya anissito ca viharati, na ca kiñci loke upādiyati.
 ‘netaṁ mama, nesohamasmi, na meso attā’ti samanupassati
-=== Dhamma ===
+---
+#### Dhamma
 1. '**aniccānupassī** assasissāmī'ti **sikkhati**, aniccānupassī passasissāmī'ti sikkhati;
 2. '**virāgānupassī** assasissāmī'ti **sikkhati**, virāgānupassī passasissāmī'ti sikkhati;
 3. '**nirodhānupassī** assasissāmī'ti **sikkhati**, nirodhānupassī passasissāmī'ti sikkhati;
 4. '**paṭinissaggānupassī** assasissāmī'ti **sikkhati**, paṭinissaggānupassī passasissāmī'ti sikkhati;
---------------------
-=== Dhammānupassanā-nīvaraṇa-pabba ===
+---
+#### Dhammānupassanā-nīvaraṇa-pabba
 Santaṁ vā ajjhattaṁ kāmacchandaṁ ‘atthi me ajjhattaṁ kāmacchando’ti pajānāti, asantaṁ vā ajjhattaṁ kāmacchandaṁ ‘natthi me ajjhattaṁ kāmacchando’ti pajānāti, yathā ca anuppannassa kāmacchandassa uppādo hoti tañca pajānāti, yathā ca uppannassa kāmacchandassa pahānaṁ hoti tañca pajānāti, yathā ca pahīnassa kāmacchandassa āyatiṁ anuppādo hoti tañca pajānāti.
 Santaṁ vā ajjhattaṁ byāpādaṁ..byāpādo..byāpādassa..
 Santaṁ vā ajjhattaṁ thinamiddhaṁ..thinamiddhan..thinamiddhassa..
 Santaṁ vā ajjhattaṁ uddhaccakukkuccaṁ..uddhaccakukkuccan..uddhaccakukkuccassa..
 Santaṁ vā ajjhattaṁ vicikicchaṁ..vicikicchā..vicikicchāya..
 Iti ajjhattaṁ vā dhammesu dhammānupassī viharati, bahiddhā vā dhammesu dhammānupassī viharati, ajjhattabahiddhā vā dhammesu dhammānupassī viharati. Samudayadhammānupassī vā dhammesu viharati, vayadhammānupassī vā dhammesu viharati, samudayavayadhammānupassī vā dhammesu viharati. ‘Atthi dhammā’ti vā panassa sati paccupaṭṭhitā hoti yāvadeva ñāṇamattāya paṭissatimattāya, anissito ca viharati, na ca kiñci loke upādiyati.
---------------------
-=== Dhammānupassanā-khandha-pabba ===
+
+---
+### Dhammānupassanā-khandha-pabba
 ‘iti rūpaṁ, iti rūpassa samudayo, iti rūpassa atthaṅgamo;
 iti vedanā, iti vedanāya samudayo, iti vedanāya atthaṅgamo;
 iti saññā, iti saññāya samudayo, iti saññāya atthaṅgamo;
 iti saṅkhārā, iti saṅkhārānaṁ samudayo, iti saṅkhārānaṁ atthaṅgamo,
 iti viññāṇaṁ, iti viññāṇassa samudayo, iti viññāṇassa atthaṅgamo’ti,
 iti ajjhattaṁ vā dhammesu dhammānupassī viharati, bahiddhā vā dhammesu dhammānupassī viharati, ajjhattabahiddhā vā dhammesu dhammānupassī viharati. Samudayadhammānupassī vā dhammesu viharati, vayadhammānupassī vā dhammesu viharati, samudayavayadhammānupassī vā dhammesu viharati. ‘Atthi dhammā’ti vā panassa sati paccupaṭṭhitā hoti yāvadeva ñāṇamattāya paṭissatimattāya, anissito ca viharati, na ca kiñci loke upādiyati.
---------------------
-=== Dhammānupassanā-āyatana-pabba ===
+
+---
+#### Dhammānupassanā-āyatana-pabba
 Cakkhuñca pajānāti, rūpe ca pajānāti, yañca tadubhayaṁ paṭicca uppajjati saṁyojanaṁ tañca pajānāti, yathā ca anuppannassa saṁyojanassa uppādo hoti tañca pajānāti, yathā ca uppannassa saṁyojanassa pahānaṁ hoti tañca pajānāti, yathā ca pahīnassa saṁyojanassa āyatiṁ anuppādo hoti tañca pajānāti.
 Sotañca pajānāti, sadde ca pajānāti,..
 Ghānañca pajānāti, gandhe ca pajānāti,..
@@ -99,8 +110,9 @@ Jivhañca pajānāti, rase ca pajānāti,..
 Kāyañca pajānāti, phoṭṭhabbe ca pajānāti,...
 Manañca pajānāti, dhamme ca pajānāti,..
 Iti ajjhattaṁ vā dhammesu dhammānupassī viharati, bahiddhā vā dhammesu dhammānupassī viharati, ajjhattabahiddhā vā dhammesu dhammānupassī viharati. Samudayadhammānupassī vā dhammesu viharati, vayadhammānupassī vā dhammesu viharati, samudayavayadhammānupassī vā dhammesu viharati. ‘Atthi dhammā’ti vā panassa sati paccupaṭṭhitā hoti yāvadeva ñāṇamattāya paṭissatimattāya, anissito ca viharati, na ca kiñci loke upādiyati.
---------------------
-=== Dhammānupassanā-bojjhaṅga-pabba ===
+
+---
+#### Dhammānupassanā-bojjhaṅga-pabba
 Santaṁ vā ajjhattaṁ satisambojjhaṅgaṁ ‘atthi me ajjhattaṁ satisambojjhaṅgo’ti pajānāti, asantaṁ vā ajjhattaṁ satisambojjhaṅgaṁ ‘natthi me ajjhattaṁ satisambojjhaṅgo’ti pajānāti, yathā ca anuppannassa satisambojjhaṅgassa uppādo hoti tañca pajānāti, yathā ca uppannassa satisambojjhaṅgassa bhāvanāya pāripūrī hoti tañca pajānāti.
 Santaṁ vā ajjhattaṁ dhammavicayasambojjhaṅgaṁ..dhammavicayasambojjhaṅgo..dhammavicayasambojjhaṅgassa..
 Santaṁ vā ajjhattaṁ vīriyasambojjhaṅgaṁ..vīriyasambojjhaṅgo..vīriyasambojjhaṅgassa..
@@ -109,17 +121,19 @@ Santaṁ vā ajjhattaṁ passaddhisambojjhaṅgaṁ..passaddhisambojjhaṅgo..pa
 Santaṁ vā ajjhattaṁ samādhisambojjhaṅgaṁ..samādhisambojjhaṅgo..samādhisambojjhaṅgassa..
 Santaṁ vā ajjhattaṁ upekkhāsambojjhaṅgaṁ..upekkhāsambojjhaṅgo..upekkhāsambojjhaṅgassa..
 Iti ajjhattaṁ vā dhammesu dhammānupassī viharati, bahiddhā vā dhammesu dhammānupassī viharati, ajjhattabahiddhā vā dhammesu dhammānupassī viharati. Samudayadhammānupassī vā dhammesu viharati, vayadhammānupassī vā dhammesu viharati, samudayavayadhammānupassī vā dhammesu viharati. ‘Atthi dhammā’ti vā panassa sati paccupaṭṭhitā hoti yāvadeva ñāṇamattāya paṭissatimattāya, anissito ca viharati, na ca kiñci loke upādiyati.
---------------------
-=== Dhammānupassanā-sacca-pabba ===
+
+---
+#### Dhammānupassanā-sacca-pabba
 ....
 Iti ajjhattaṁ vā dhammesu dhammānupassī viharati, bahiddhā vā dhammesu dhammānupassī viharati, ajjhattabahiddhā vā dhammesu dhammānupassī viharati. Samudayadhammānupassī vā dhammesu viharati, vayadhammānupassī vā dhammesu viharati, samudayavayadhammānupassī vā dhammesu viharati. ‘Atthi dhammā’ti vā panassa sati paccupaṭṭhitā hoti yāvadeva ñāṇamattāya paṭissatimattāya anissito ca viharati, na ca kiñci loke upādiyati.
---------------------
-=== Msc ===
+
+---
+##### Msc
 + ānāpānassatisamādhi bhāvito bahulīkato santo ceva paṇīto ca asecanako ca sukho ca vihāro uppannuppanne ca pāpake akusale dhamme ṭhānaso antaradhāpeti vūpasameti. Seyyathāpi, gimhānaṁ pacchime māse ūhataṁ rajojallaṁ, tamenaṁ mahāakālamegho ṭhānaso antaradhāpeti vūpasameti; (Sn 54.9)
 + When mindfulness of in-&-out breathing is developed & pursued in this way, even one’s final in-breaths & out-breaths are known as they cease, not unknown. (MN 62)
 + aho vatāhaṁ tadantaraṁ jīveyyaṁ yadantaraṁ assasitvā vā passasāmi(as long as the duration between breath in after breath out), passasitvā vā assasāmi(or between breath out after breath in), bhagavato sāsanaṁ manasi kareyyaṁ, bahu vata me kataṁ assā. (AN 6.19)
 
---------------------
+---
 **Sutta:**
 [AN 6.19 Paṭhamamaraṇassatisutta](https://suttacentral.net/an6.19/en/sujato)
 
