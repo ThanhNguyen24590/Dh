@@ -1,7 +1,7 @@
 #### Anap: comfy: Exp chose variery, rythm, texture & smoothing the process.
-1. **Satova** assasati satova passasati: set anap base for all steps/exp. Later step only elaborate anap. 
+**1**. **Satova** assasati satova passasati: set anap base for all steps/exp. Later step only elaborate anap. 
 
-2. **Dīghaṁ** vā assasanto ‘dīghaṁ assasāmī’ti **pajānāti**, dīghaṁ vā passasanto ‘dīghaṁ passasāmī’ti pajānāti: 
+**2**. **Dīghaṁ** vā assasanto ‘dīghaṁ assasāmī’ti **pajānāti**, dīghaṁ vā passasanto ‘dīghaṁ passasāmī’ti pajānāti: 
 + Pathavii: **Energy**: Intentional/Manual make deep/heavy anap (as slow lift). **Viz**: start up machine: heart-muscle-.., city wake up. Could associate with sound of heavy breathing with Viz sound. **Act**: pose/flex/tense your muscle: closing fist, feet, neck, shoulder.
 + Pathavii: Qi-Biofeedback-**Form** correction: observe **active** action of lungs, diaphram, belly & general posture when anap. **Viz**: fog cleared up & light begin to show big obj like moutain/ skyscraper/ city,..**Act**: Relax
 + Pathavii: **Lapidary**: Carve Anap into chunk: Start, Middle, End, Silence-Space between, Start, End. **Viz**: mining, gem-bone engraving with fractal,..**Act**: Relax but still hold strong potential like in taichi practice.
@@ -9,7 +9,7 @@
 + Tejo: **Fullness** & Wamrth vs urge/hunger of Anap, the rawness, freshness, deliciousness of Anap.
 + Tejo: Smelting/Smoothing out & remove the ragged edge of Anap > Mk Anap **continual**. **Viz**: metal in the forge, earth outer core, blood like lava in vessel-moving continuously...
  
-3. **Rassaṁ** vā assasanto ‘rassaṁ assasāmī’ti **pajānāti**, rassaṁ vā passasanto ‘rassaṁ passasāmī’ti pajānāti. 
+**3**. **Rassaṁ** vā assasanto ‘rassaṁ assasāmī’ti **pajānāti**, rassaṁ vā passasanto ‘rassaṁ passasāmī’ti pajānāti. 
 + Apo: **Soften** & Slow down Anap, mk it the nursery rythm. **Viz**: rain settle dust, flow into river.
 + Apo: **Connect**/Tap into Rythm & Continuity of Anap.**Viz**: river to ocean, lake & Ocean wave.
 + Apo: **Unify** Anap into: Silence-Aware, soft but strong like silk thread (taichi). **Viz**: All ocean & theirs currents.
@@ -17,27 +17,32 @@
 + Vajo: Wait for Anap to settle down, **Stilling**, Aware. **Viz**: bird flying/gliding.
 + Vajo: Invite **Light & Joy**, protective, but not possessive. **Viz**: wind chimes, animals come to water-source.
 
-4. Seyyathāpi, bhikkhave, dakkho bhamakāro vā bhamakārantevāsī vā dīghaṁ vā añchanto ‘dīghaṁ añchāmī’ti **pajānāti**, rassaṁ vā añchanto ‘rassaṁ añchāmī’ti pajānāti; evameva kho, bhikkhave, bhikkhu dīghaṁ vā assasanto ‘dīghaṁ assasāmī’ti pajānāti, dīghaṁ vā passasanto ‘dīghaṁ passasāmī’ti pajānāti, rassaṁ vā assasanto ‘rassaṁ assasāmī’ti pajānāti, rassaṁ vā passasanto ‘rassaṁ passasāmī’ti pajānāti;
+**4**. Seyyathāpi, bhikkhave, dakkho bhamakāro vā bhamakārantevāsī vā dīghaṁ vā añchanto ‘dīghaṁ añchāmī’ti **pajānāti**, rassaṁ vā añchanto ‘rassaṁ añchāmī’ti pajānāti; evameva kho, bhikkhave, bhikkhu dīghaṁ vā assasanto ‘dīghaṁ assasāmī’ti pajānāti, dīghaṁ vā passasanto ‘dīghaṁ passasāmī’ti pajānāti, rassaṁ vā assasanto ‘rassaṁ assasāmī’ti pajānāti, rassaṁ vā passasanto ‘rassaṁ passasāmī’ti pajānāti;
 + Add more type to Anap repertoire : In long-out short, in short-out long,..
 + Use anap type **appropriate** with what need. Could change in any moment or in moving attention to other places, body space or mind spaces.
 
 ---
 #### Kaya: unify
-1. yathā yathā vā panassa kāyo paṇihito hoti tathā tathā naṁ pajānāti: Aware posture.
-2. Identify sensation in 4 parts: Head, body, hand, leg> Clarify the present of the part.
-3. **'sabba-kāya-paṭisaṃvedī assasissāmī'ti sikkhati, 'sabba-kāya-paṭisaṃvedī passasissāmī'ti sikkhati**: Present of whole body
-4. Make comfy by replace Obstructive sensation with Constructive sensation:
+**1**. yathā yathā vā panassa kāyo paṇihito hoti tathā tathā naṁ pajānāti: Aware & Refine posture.
+**2**. Identify sensation in 4 general directons: Head, body, hand, leg > Mk a general sense of whole body.
+**3**. Clarify details: 9 points: forehead center-eye, brain center, base throat-neck | heart-solar plexus, spine, navel, tail bone | finger tips-palm, feet
+**4**. '**sabba**-kāya-**paṭisaṃvedī** assasissāmī'ti **sikkhati**, 'sabba-kāya-paṭisaṃvedī passasissāmī'ti sikkhati: Present of whole body: Connect the point into line & Spread it out. **Viz**: blood vessel, neuron in whole body.
++ Navel > Heart > forehead
++ Forehead > Neck > Spine > Tailbone
++ Heart > finger tips
++ Heart > Navel > Feet
+**5**. Make **comfy** by replace **Obstructive** sensation with Constructive sensation:
 + Pathavii: Tensed vs relax with Str (like taichi),Waved
 + Apo: Blockage, Disjointed vs Circulated-Connected
 + Tejo: Blank, apathy (deep muscle), Dull-Tired-Lack-energy vs qi-remove wastes, Hot-energy (blood-lava)
 + Vayo: Stuck vs Openness, Freedom, Connectivity, 
 + Dark vs Light
 + Space the body take vs Space
-5. **'passambhayaṃ kāya-saṅkhāraṃ assasissāmī'ti sikkhati, 'passambhayaṃ kāyasaṅkhāraṃ passasissāmī'ti sikkhati** 
+**6**. 'passambhayaṃ kāya-**saṅkhāraṃ** assasissāmī'ti **sikkhati**, 'passambhayaṃ kāyasaṅkhāraṃ passasissāmī'ti sikkhati
 Mk mental body. Distill/settle in 1 point to make Subtle Body > Draw out subtle body?
-6. Iti ajjhattaṁ vā kāye kāyānupassī viharati, bahiddhā vā kāye kāyānupassī viharati, ajjhattabahiddhā vā kāye kāyānupassī viharati.
-7. Samudayadhammānupassī vā kāyasmiṁ viharati, vayadhammānupassī vā kāyasmiṁ viharati, samudayavayadhammānupassī vā kāyasmiṁ viharati.
-8. ‘Atthi kāyo’ti vā panassa sati paccupaṭṭhitā hoti yāvadeva ñāṇamattāya paṭissatimattāya anissito ca viharati, na ca kiñci loke upādiyati.
+**7**. Iti ajjhattaṁ vā kāye kāyānupassī viharati, bahiddhā vā kāye kāyānupassī viharati, ajjhattabahiddhā vā kāye kāyānupassī viharati.
+**8**. Samudayadhammānupassī vā kāyasmiṁ viharati, vayadhammānupassī vā kāyasmiṁ viharati, samudayavayadhammānupassī vā kāyasmiṁ viharati.
+**9**. ‘Atthi kāyo’ti vā panassa sati paccupaṭṭhitā hoti yāvadeva ñāṇamattāya paṭissatimattāya anissito ca viharati, na ca kiñci loke upādiyati.
 ‘netaṁ mama, nesohamasmi, na meso attā’ti samanupassati
 ---
 #### Vedana
