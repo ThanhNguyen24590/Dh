@@ -24,13 +24,17 @@
 ---
 #### Kaya: unify
 **1**. yathā yathā vā panassa kāyo paṇihito hoti tathā tathā naṁ pajānāti: Aware & Refine posture.
+
 **2**. Identify sensation in 4 general directons: Head, body, hand, leg > Mk a general sense of whole body.
+
 **3**. Clarify details: 9 points: forehead center-eye, brain center, base throat-neck | heart-solar plexus, spine, navel, tail bone | finger tips-palm, feet
+
 **4**. '**sabba**-kāya-**paṭisaṃvedī** assasissāmī'ti **sikkhati**, 'sabba-kāya-paṭisaṃvedī passasissāmī'ti sikkhati: Present of whole body: Connect the point into line & Spread it out. **Viz**: blood vessel, neuron in whole body.
 + Navel > Heart > forehead
 + Forehead > Neck > Spine > Tailbone
 + Heart > finger tips
 + Heart > Navel > Feet
+
 **5**. Make **comfy** by replace **Obstructive** sensation with Constructive sensation:
 + Pathavii: Tensed vs relax with Str (like taichi),Waved
 + Apo: Blockage, Disjointed vs Circulated-Connected
@@ -38,12 +42,17 @@
 + Vayo: Stuck vs Openness, Freedom, Connectivity, 
 + Dark vs Light
 + Space the body take vs Space
+
 **6**. 'passambhayaṃ kāya-**saṅkhāraṃ** assasissāmī'ti **sikkhati**, 'passambhayaṃ kāyasaṅkhāraṃ passasissāmī'ti sikkhati
 Mk mental body. Distill/settle in 1 point to make Subtle Body > Draw out subtle body?
+
 **7**. Iti ajjhattaṁ vā kāye kāyānupassī viharati, bahiddhā vā kāye kāyānupassī viharati, ajjhattabahiddhā vā kāye kāyānupassī viharati.
+
 **8**. Samudayadhammānupassī vā kāyasmiṁ viharati, vayadhammānupassī vā kāyasmiṁ viharati, samudayavayadhammānupassī vā kāyasmiṁ viharati.
+
 **9**. ‘Atthi kāyo’ti vā panassa sati paccupaṭṭhitā hoti yāvadeva ñāṇamattāya paṭissatimattāya anissito ca viharati, na ca kiñci loke upādiyati.
 ‘netaṁ mama, nesohamasmi, na meso attā’ti samanupassati
+
 ---
 #### Vedana
 1. Bhikkhu [Dukkhaṁ] vā vedanaṁ vedayamāno ‘[dukkhaṁ] vedanaṁ vedayāmī’ti pajānāti. 
