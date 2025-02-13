@@ -23,9 +23,9 @@
 
 ---
 #### Kaya: unify
-**1**. yathā yathā vā panassa kāyo paṇihito hoti tathā tathā naṁ pajānāti: Aware & Refine posture.
+**1**. yathā yathā vā panassa kāyo paṇihito hoti tathā tathā naṁ pajānāti: Anap to Aware & Refine posture.
 
-**2**. Identify sensation in 4 general directons: Head, body, hand, leg > Mk a general sense of whole body.
+**2**. Identify Anap sensation in 4 general directons: Head, body, hand, leg > Mk a general sense of whole body.
 
 **3**. Clarify details: 9 points: forehead center-eye, brain center, base throat-neck | heart-solar plexus, spine, navel, tail bone | finger tips-palm, feet
 
@@ -55,18 +55,15 @@ Mk mental body. Distill/settle in 1 point to make Subtle Body > Draw out subtle 
 
 ---
 #### Vedana
-1. Identify general vibe of emotion or lack there of (apathy, dullness..). **Viz**: comfort places: house, cave, library, garden.. **Act**: comfort/stim act: grab book, do rosary, rocking back and forth, kneeling & whisper.
+1. Anap as safe space to identify general vibe of emotion or lack there of (apathy, dullness..). Try to see the whole picture, not just the dominant ones. **Viz**: comfort places: house, cave, library, garden.. **Act**: comfort/stim act: grab book, do rosary, rocking back and forth, kneeling & whisper.
 
-2. Identify what the emotions is in the mixture, unfreeze them. Try to feel the feel before name them individualy, but not hardpress to put a label on it. **Do not** avoid, confront, critical nor inquiry of uncomfortable feelings. Check your reaction, just let it be. **Viz**: iceberg float up & melting.
+2. Anap as light to identify what the emotions in the mixture, unfreeze them. Try to feel the feel before name them individualy, but not hardpress to put a label on it. **Do not** avoid, confront, critical nor inquiry of uncomfortable feelings. Check your reaction, just let it be. **Viz**: iceberg float up & melting, watering garden, coloring pictures.
 
-3.  [**Dukkhaṁ**] vā vedanaṁ vedayamāno ‘[dukkhaṁ] vedanaṁ vedayāmī’ti pajānāti. Recognize feeling of uncomfortable: Samvega
-+ The unavoidable sadness & disappointment of the world.
-+ Primal ever-hunger-more, the deep thirst, the craving that transcend life
-+ The world-tire,...
+3.  [**Dukkhaṁ**] vā vedanaṁ vedayamāno ‘[dukkhaṁ] vedanaṁ vedayāmī’ti pajānāti. Recognize feeling of uncomfortable: Samvega: The unavoidable sadness & disappointment of the world. Primal ever-hunger-more, the deep thirst, the craving that transcend life. The world-tire,... **Viz**: Listen silently to friend'stories.
 
-4. [Sāmisaṁ | Nirāmisaṁ] vā [dukkhaṁ] vedanaṁ vedayamāno ‘[Sāmisaṁ | Nirāmisaṁ] [dukkhaṁ] vedanaṁ vedayāmī’ti pajānāti. Divide into of the flesh or the spiritual. Nuture the later.
+4. [Sāmisaṁ | Nirāmisaṁ] vā [dukkhaṁ] vedanaṁ vedayamāno ‘[Sāmisaṁ | Nirāmisaṁ] [dukkhaṁ] vedanaṁ vedayāmī’ti pajānāti. Divide into of the flesh or the spiritual.
 
-5. [Sukhaṁ] vā vedanaṁ vedayamāno ‘[sukhaṁ] vedanaṁ vedayāmī’ti pajānāti. Recognize the sublime/food born from withdrawal and kusala dhamma: gladness of refuge, right direction,...
+5. [Sukhaṁ] vā vedanaṁ vedayamāno ‘[sukhaṁ] vedanaṁ vedayāmī’ti pajānāti. Recognize the sublime/food born from withdrawal and kusala dhamma: gladness of refuge, right direction, Metta...
    
 6. 'Pīti-paṭisaṃvedī assasissāmī'ti sikkhati, 'pītipaṭisaṃvedī passasissāmī'ti sikkhati. Nurture the sublime feeling, care to its specific, till it grow to euphoria (cry & goosebump) in body. **Viz**: body-qi
 
