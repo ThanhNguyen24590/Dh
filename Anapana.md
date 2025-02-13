@@ -55,13 +55,13 @@ Mk mental body. Distill/settle in 1 point to make Subtle Body > Draw out subtle 
 
 ---
 #### Vedana
-1. Anap as safe space to identify general vibe of emotion or lack there of (apathy, dullness..). Try to see the whole picture, not just the dominant ones. **Viz**: comfort places: house, cave, library, garden.. **Act**: comfort/stim act: grab book, do rosary, rocking back and forth, kneeling & whisper.
+1. Anap as safe + distanced space to identify general vibe of emotion or lack there of (apathy, dullness..). Try to see the whole picture, not just the dominant ones. **Viz**: comfort & high places: top floor see the house in city, high floor in library, top tree in garden.. **Act**: comfort/stim act: grab book, do rosary, rocking back and forth, kneeling & whisper.
 
 2. Anap as light to identify what the emotions in the mixture, unfreeze them. Try to feel the feel before name them individualy, but not hardpress to put a label on it. **Do not** avoid, confront, critical nor inquiry of uncomfortable feelings. Check your reaction, just let it be. **Viz**: iceberg float up & melting, watering garden, coloring pictures.
 
-3.  [**Dukkhaṁ**] vā vedanaṁ vedayamāno ‘[dukkhaṁ] vedanaṁ vedayāmī’ti pajānāti. Recognize feeling of uncomfortable: Samvega: The unavoidable sadness & disappointment of the world. Primal ever-hunger-more, the deep thirst, the craving that transcend life. The world-tire,... **Viz**: Listen silently to friend'stories.
+3.  [**Dukkhaṁ**] vā vedanaṁ vedayamāno ‘[dukkhaṁ] vedanaṁ vedayāmī’ti pajānāti. Get in touch of feeling by recognize feeling of uncomfortable: Samvega: The unavoidable sadness & disappointment of the world. Primal ever-hunger-more, the deep thirst, the craving that transcend life. The world-tire,... **Viz**: Touching the tree,.., Listen silently to friend'stories.
 
-4. [Sāmisaṁ | Nirāmisaṁ] vā [dukkhaṁ] vedanaṁ vedayamāno ‘[Sāmisaṁ | Nirāmisaṁ] [dukkhaṁ] vedanaṁ vedayāmī’ti pajānāti. Divide into of the flesh or the spiritual.
+4. [Sāmisaṁ | Nirāmisaṁ] vā [dukkhaṁ] vedanaṁ vedayamāno ‘[Sāmisaṁ | Nirāmisaṁ] [dukkhaṁ] vedanaṁ vedayāmī’ti pajānāti. Divide into of the flesh or the spiritual.**Viz**: Identify type of trees in garden.
 
 5. [Sukhaṁ] vā vedanaṁ vedayamāno ‘[sukhaṁ] vedanaṁ vedayāmī’ti pajānāti. Recognize the sublime/food born from withdrawal and kusala dhamma: gladness of refuge, right direction, Metta...
    
