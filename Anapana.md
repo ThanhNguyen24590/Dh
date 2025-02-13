@@ -55,31 +55,38 @@ Mk mental body. Distill/settle in 1 point to make Subtle Body > Draw out subtle 
 
 ---
 #### Vedana
-1. Identify general vibe of emotion or lack there of (apathy, dullness..). **Viz**: comfort places: house, cave, library, garden.. **Act**: comfort act: grab book, do rosary, rocking back and forth, kneeling & whisper.
-2. Identify what the emotions is in the mixture, unfreeze them & do not ask the cause or critize. Check your reaction, **do not avoid** or confront uncomfortable feelings. Try to name them individualy, but not hardpress. Just let it be. **Viz**: iceberg float up & melting.
-3.  Bhikkhu [Dukkhaṁ] vā vedanaṁ vedayamāno ‘[dukkhaṁ] vedanaṁ vedayāmī’ti pajānāti. 
-Viz the ocean (as whole emotional being) with iceberg as frozen emotion: 
-+ Twilight zone: [Sāmisaṁ | Nirāmisaṁ] vā [ dukkhaṁ ] vedanaṁ vedayamāno ‘[Sāmisaṁ | Nirāmisaṁ] [dukkhaṁ] vedanaṁ vedayāmī’ti pajānāti.
-+ Midnight zone: the pattern of emotion: creation & anihilation of emotion thru time.
-+ Abyssal zone : World-tire? 
-+ Hadal zone: Primal hunger-more, deep thirst, the craving that transcend life.
-2. Bhikkhu [Adukkhamasukhaṁ] vā vedanaṁ vedayamāno ‘[adukkhamasukhaṁ] vedanaṁ vedayāmī’ti pajānāti. similar above
-3. The exp of Vedana: Bhikkhu [sukhaṁ | Dukkhaṁ | Adukkhamasukhaṁ] vā vedanaṁ vedayamāno ‘[sukhaṁ] vedanaṁ vedayāmī’ti pajānāti. similar above
-4. **'Pīti-paṭisaṃvedī assasissāmī'ti sikkhati, 'pītipaṭisaṃvedī passasissāmī'ti sikkhati.**
-Nurture: recognize the sublime/food born from withdrawal, care to its specific, till it grow to euphoria (cry & goosebump) > Refine: to mind-gladness.
-5. **'sukha-paṭisaṃvedī assasissāmī'ti sikkhati, 'sukhapaṭisaṃvedī passasissāmī'ti sikkhati.**
+1. Identify general vibe of emotion or lack there of (apathy, dullness..). **Viz**: comfort places: house, cave, library, garden.. **Act**: comfort/stim act: grab book, do rosary, rocking back and forth, kneeling & whisper.
+
+2. Identify what the emotions is in the mixture, unfreeze them. Try to feel the feel before name them individualy, but not hardpress to put a label on it. **Do not** avoid, confront, critical nor inquiry of uncomfortable feelings. Check your reaction, just let it be. **Viz**: iceberg float up & melting.
+
+3.  [**Dukkhaṁ**] vā vedanaṁ vedayamāno ‘[dukkhaṁ] vedanaṁ vedayāmī’ti pajānāti. Recognize feeling of uncomfortable: Samvega
++ The unavoidable sadness & disappointment of the world.
++ Primal ever-hunger-more, the deep thirst, the craving that transcend life
++ The world-tire,...
+
+4. [Sāmisaṁ | Nirāmisaṁ] vā [dukkhaṁ] vedanaṁ vedayamāno ‘[Sāmisaṁ | Nirāmisaṁ] [dukkhaṁ] vedanaṁ vedayāmī’ti pajānāti. Divide into of the flesh or the spiritual. Nuture the later.
+
+5. [Sukhaṁ] vā vedanaṁ vedayamāno ‘[sukhaṁ] vedanaṁ vedayāmī’ti pajānāti. Recognize the sublime/food born from withdrawal and kusala dhamma: gladness of refuge, right direction,...
+   
+6. 'Pīti-paṭisaṃvedī assasissāmī'ti sikkhati, 'pītipaṭisaṃvedī passasissāmī'ti sikkhati. Nurture the sublime feeling, care to its specific, till it grow to euphoria (cry & goosebump) in body. **Viz**: body-qi
+
+7. 'sukha-paṭisaṃvedī assasissāmī'ti sikkhati, 'sukhapaṭisaṃvedī passasissāmī'ti sikkhati.
 Like trees make forest, water make river. permeates and pervades, suffuses and fills this very body with the rapture and pleasure born from withdrawal. There is nothing of his entire body unpervaded by rapture and pleasure born from withdrawal. 
 https://www.accesstoinsight.org/tipitaka/an/an05/an05.028.than.html
-6. Iti ajjhattaṁ vā vedanāsu vedanānupassī viharati, bahiddhā vā vedanāsu vedanānupassī viharati, ajjhattabahiddhā vā vedanāsu vedanānupassī viharati.
-7. Samudayadhammānupassī vā vedanāsu viharati, vayadhammānupassī vā vedanāsu viharati, samudayavayadhammānupassī vā vedanāsu viharati.
-8. ‘Atthi vedanā’ti vā panassa sati paccupaṭṭhitā hoti yāvadeva ñāṇamattāya paṭissatimattāya anissito ca viharati, na ca kiñci loke upādiyati.
+
+8. Iti ajjhattaṁ vā vedanāsu vedanānupassī viharati, bahiddhā vā vedanāsu vedanānupassī viharati, ajjhattabahiddhā vā vedanāsu vedanānupassī viharati.
+
+9. Samudayadhammānupassī vā vedanāsu viharati, vayadhammānupassī vā vedanāsu viharati, samudayavayadhammānupassī vā vedanāsu viharati.
+    
+10. ‘Atthi vedanā’ti vā panassa sati paccupaṭṭhitā hoti yāvadeva ñāṇamattāya paṭissatimattāya anissito ca viharati, na ca kiñci loke upādiyati.
 ‘netaṁ mama, nesohamasmi, na meso attā’ti samanupassati
 ---
 #### Cittasaṅkhāra
-1.**'citta-saṅkhāra-paṭisaṃvedī assasissāmī'ti sikkhati, 'cittasaṅkhārapaṭisaṃvedī passasissāmī'ti sikkhati**
+1.'citta-saṅkhāra-paṭisaṃvedī assasissāmī'ti sikkhati, 'cittasaṅkhārapaṭisaṃvedī passasissāmī'ti sikkhati
 Notice space between thoughts/sensation. Thoughts like ants, contain mutiple little ants, follow their pheromone trace- death spiral.
-2. **'passambhayaṃ cittasaṅkhāraṃ assasissāmī'ti sikkhati, 'passambhayaṃ cittasaṅkhāraṃ passasissāmī'ti sikkhati**
+2. 'passambhayaṃ cittasaṅkhāraṃ assasissāmī'ti sikkhati, 'passambhayaṃ cittasaṅkhāraṃ passasissāmī'ti sikkhati
 Widen space between sensation.
+
 ---
 #### Citta
 1. saṅkhittaṁ (constricted)? amahaggataṁ (unexpansive)? vikkhittaṁ (scattered) ? nīvaraṇa?
