@@ -2,21 +2,29 @@
 **1**. **Satova** assasati satova passasati: set anap base for all steps/exp. Later step only elaborate anap. 
 
 **2**. **Dīghaṁ** vā assasanto ‘dīghaṁ assasāmī’ti **pajānāti**, dīghaṁ vā passasanto ‘dīghaṁ passasāmī’ti pajānāti:
+
 Pathavii Anap:
+
 + **Aware-Intentional**: Manual mk deep/heavy anap (as slow lift). **Viz**: start up machine: heart-muscle-.., city wake up. Could associate with sound of heavy breathing with Viz sound. **Act**: pose/flex/tense your muscle: closing fist, feet, neck, shoulder.
 + **Biofeedback**-Form correction: observe **active** action of lungs, diaphram, belly & general posture when anap. **Viz**: fog cleared up & light begin to show big obj like moutain/ skyscraper/ city,..**Act**: Relax
 + **Lapidary**: Qi: Carve Anap into chunk: Start, Middle, End, Silence-Space between, Start, End. **Viz**: mining, gem-bone engraving with fractal,..**Act**: Relax but still hold strong potential like in taichi practice.
+  
 Tejo Anap:
+
 + **Resent/Distaste** of condition: Fill Anap with energy/potential. **Viz**: Vocalno & Lava burn all. **Act**: Throat exc.
 + **Fullness** & Wamrth vs urge/hunger of Anap, the rawness, freshness, deliciousness of Anap.
 + Smelting/Smoothing out & remove the ragged edge of Anap > Mk Anap **continual**. **Viz**: metal in the forge, earth outer core, blood like lava in vessel-moving continuously...
  
 **3**. **Rassaṁ** vā assasanto ‘rassaṁ assasāmī’ti **pajānāti**, rassaṁ vā passasanto ‘rassaṁ passasāmī’ti pajānāti. 
+
 Apo Anap:
+
 + **Soften** & Slow down Anap, mk it the nursery rythm. **Viz**: rain settle dust, flow into river.
 + **Connect**/Tap into Rythm & Continuity of Anap.**Viz**: river to ocean, lake & Ocean wave.
 + **Unify** Anap into: Silence-Aware, soft but strong like silk thread (taichi). **Viz**: All ocean & theirs currents.
+
 Vajo Anap:
+
 + **Free** & relax intention, change from manual to observational. **Viz**: wind in the sky,
 + Wait for Anap to settle down, **Stilling**, Aware. **Viz**: bird flying/gliding.
 + Invite **Light & Joy**, protective, but not possessive. **Viz**: wind chimes, animals come to water-source.
