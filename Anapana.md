@@ -6,14 +6,16 @@
 Pathavii Anap:
 
 + **Aware-Intentional**: Manual mk deep/heavy anap (as slow lift). **Viz**: start up machine: heart-muscle-.., city wake up. Could associate with sound of heavy breathing with Viz sound. **Act**: pose/flex/tense your muscle: closing fist, feet, neck, shoulder.
-+ **Biofeedback**-Form correction: observe **active** action of lungs, diaphram, belly & general posture when anap. **Viz**: fog cleared up & light begin to show big obj like moutain/ skyscraper/ city,..**Act**: Relax
-+ **Lapidary**: Qi: Carve Anap into chunk: Start, Middle, End, Silence-Space between, Start, End. **Viz**: mining, gem-bone engraving with fractal,..**Act**: Relax but still hold strong potential like in taichi practice.
+**-->** the heavy & strength of Anap
++ **Biofeedback**-Form correction: observe **active** action of lungs, diaphram, belly & general posture when anap. **Viz**: fog cleared up & light begin to show big obj like moutain/ skyscraper/ city,..**Act**: Relax but still hold strong potential like in taichi practice. **-->** Aliveness Anap, not dryness.
++ **Lapidary**: Qi: Carve Anap into chunk: Start, Middle, End, Silence-Space between, Start, End. **Viz**: mining, gem-bone engraving with fractal,..**-->** superior Anap to normal
   
 Tejo Anap:
 
-+ **Resent/Distaste** of condition: Fill Anap with energy/potential. **Viz**: Vocalno & Lava burn all. **Act**: Throat exc.
-+ **Fullness** & Wamrth vs urge/hunger of Anap, the rawness, freshness, deliciousness of Anap.
-+ Smelting/Smoothing out & remove the ragged edge of Anap > Mk Anap **continual**. **Viz**: metal in the forge, earth outer core, blood like lava in vessel-moving continuously...
++ **Resent/Distaste** of condition: Fill Anap with raw energy/potential. **Viz**: Vocalno & Lava burn all. **Act**: Throat exc.
+**-->** Raw/rough Energy Anap
++ **Digest** the raw energey to satisfy Anap urge/hunger.**-->** freshness, deliciousness of Anap, Fullness, Wamrth.
++ Smelting/Smoothing out & remove the ragged edge of Anap. **Viz**: metal in the forge, earth outer core, blood like lava in vessel-moving continuously...  **-->** continual Anap.
  
 **3**. **Rassaṁ** vā assasanto ‘rassaṁ assasāmī’ti **pajānāti**, rassaṁ vā passasanto ‘rassaṁ passasāmī’ti pajānāti. 
 
