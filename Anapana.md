@@ -20,13 +20,13 @@ Tejo Anap: Energy
 
 Apo Anap: Unity
 
-+ **Rythm**: Soften & Slow down Anap. **Viz**: rain settle dust, flow into river; nursery rythm **-->** Rythm
-+ **Connect**/Tap into Rythm & Continuity of Anap.**Viz**: river to ocean, lake & Ocean wave.
-+ **Unify** Anap into: Silence-Aware, soft but strong like silk thread (taichi). **Viz**: All ocean & theirs currents.
++ **Befriend, Soften** & Slow down Anap. **Viz**: silk, pet dog **-->** Comfort & companionship of Anap.
++ **Connect**/Tap into Rythm & Continuity of Anap.**Viz**: rain settle dust; river to ocean, lake & Ocean wave; nursery rythm **-->** Rythm/ Harmony
++ **Connectivity** Thread of Anap-aware between Silence, soft but strong like silk thread (taichi). **Viz**: All ocean & theirs currents; underground water.
 
 Vajo Anap: Freedom
 
-+ **Free** & relax intention, change from manual to observational. **Viz**: wind in the sky,
++ **Free** & relax intention, change from manual to observational. **Viz**: wind in the sky **-->** Lightness of being
 + Wait for Anap to settle down, **Stilling**, Aware. **Viz**: bird flying/gliding.
 + Invite **Light & Joy**, protective, but not possessive. **Viz**: wind chimes, animals come to water-source.
 
