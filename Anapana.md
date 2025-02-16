@@ -3,29 +3,28 @@
 
 **2**. **Dīghaṁ** vā assasanto ‘dīghaṁ assasāmī’ti **pajānāti**, dīghaṁ vā passasanto ‘dīghaṁ passasāmī’ti pajānāti:
 
-Pathavii Anap:
+Pathavii Anap: Subjectivity, Clarity & Stability
 
 + **Aware-Intentional**: Manual mk deep/heavy anap (as slow lift). **Viz**: start up machine: heart-muscle-.., city wake up. Could associate with sound of heavy breathing with Viz sound. **Act**: pose/flex/tense your muscle: closing fist, feet, neck, shoulder.
-**-->** the heavy & strength of Anap
-+ **Biofeedback**-Form correction: observe **active** action of lungs, diaphram, belly & general posture when anap. **Viz**: fog cleared up & light begin to show big obj like moutain/ skyscraper/ city,..**Act**: Relax but still hold strong potential like in taichi practice. **-->** Aliveness Anap, not dryness.
-+ **Lapidary**: Qi: Carve Anap into chunk: Start, Middle, End, Silence-Space between, Start, End. **Viz**: mining, gem-bone engraving with fractal,..**-->** superior Anap to normal
+**-->** the weight of intentionality in Anap-ing
++ **Biofeedback**-Form correction: observe **active** action of lungs, diaphram, belly & general posture when anap. **Viz**: fog cleared up & light begin to show big obj like moutain/ skyscraper/ city,..**Act**: Relax but still hold strong potential like in taichi practice. **-->** Sensitivity & thoroughness of Anap, not dryness/ stuck in idea.
++ **Lapidary**: Carve Anap into chunk: Start, Middle, End, Silence-Space between, Start, End. **Viz**: mining, gem-bone engraving with fractal,..**-->** superior present/beauty of this kind of Anap to normal
   
-Tejo Anap:
+Tejo Anap: Energy
 
-+ **Resent/Distaste** of condition: Fill Anap with raw energy/potential. **Viz**: Vocalno & Lava burn all. **Act**: Throat exc.
-**-->** Raw/rough Energy Anap
-+ **Digest** the raw energey to satisfy Anap urge/hunger.**-->** freshness, deliciousness of Anap, Fullness, Wamrth.
-+ Smelting/Smoothing out & remove the ragged edge of Anap. **Viz**: metal in the forge, earth outer core, blood like lava in vessel-moving continuously...  **-->** continual Anap.
++ Samvega: **Rejection/ Distaste** for sankara: Fill Anap with raw energy/potential. **Viz**: Vocalno & Lava burn all. **Act**: Throat exc. **-->** Raw/rough Energy Anap
++ Pasada: **Digest** the raw energey to satisfy Anap urge/hunger.**-->** freshness, deliciousness of Anap, Fullness, Wamrth.
++ Smelting/Smoothing out & remove the ragged edge of Anap. **Viz**: metal in the forge, earth outer core, blood like lava in vessel-moving continuously...  **-->** **continual** Anap + Link between frustration & action.
  
 **3**. **Rassaṁ** vā assasanto ‘rassaṁ assasāmī’ti **pajānāti**, rassaṁ vā passasanto ‘rassaṁ passasāmī’ti pajānāti. 
 
-Apo Anap:
+Apo Anap: Unity
 
-+ **Soften** & Slow down Anap, mk it the nursery rythm. **Viz**: rain settle dust, flow into river.
++ **Rythm**: Soften & Slow down Anap. **Viz**: rain settle dust, flow into river; nursery rythm **-->** Rythm
 + **Connect**/Tap into Rythm & Continuity of Anap.**Viz**: river to ocean, lake & Ocean wave.
 + **Unify** Anap into: Silence-Aware, soft but strong like silk thread (taichi). **Viz**: All ocean & theirs currents.
 
-Vajo Anap:
+Vajo Anap: Freedom
 
 + **Free** & relax intention, change from manual to observational. **Viz**: wind in the sky,
 + Wait for Anap to settle down, **Stilling**, Aware. **Viz**: bird flying/gliding.
