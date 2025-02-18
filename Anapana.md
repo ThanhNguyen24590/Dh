@@ -1,4 +1,7 @@
-#### Anap: comfy: Exp chose variery, rythm, texture & smoothing the process.
+[Anap itself](#Anap)
+
+#### Anap
+comfy: Exp chose variery, rythm, texture & smoothing the process.
 **1**. **Satova** assasati satova passasati: set anap base for all steps/exp. Later step only elaborate anap. 
 
 **2**. **Dīghaṁ** vā assasanto ‘dīghaṁ assasāmī’ti **pajānāti**, dīghaṁ vā passasanto ‘dīghaṁ passasāmī’ti pajānāti:
