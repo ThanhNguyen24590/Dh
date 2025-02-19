@@ -7,6 +7,7 @@ Go thru all big item fast. Then go details in later loop.
 + [Unify Kaya](#Unify-Kaya)
   + Acknowledge
   + Listen
+  + [Unify & Stilling](#unify-&-stilling)
 + [Presentize Vedanta](#Presentize-Vedanta)
   + Listen
 + Purify Sankara
