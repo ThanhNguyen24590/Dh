@@ -1,44 +1,45 @@
-[Anap itself](#Anap)
+Go thru all big item fast. Then go details in later loop.
+
++ [Build Anap repertoire](#Anap)
+  + [1. Motivating](#1.-Motivating)
+  + [2. Foundation](#2.-Foundation)
+  + [3. Extend](#3.-Extend)
++ [Unify Kaya](#Unify-Kaya)
++ [Presentize Vedanta](#Presentize-Vedanta)
++ Purify Sankara
++ Expand Citta
++ Dhamma
 
 #### Anap
+##### 1. Motivation: 
+Buddha-Saddha, Metta, Asubha, Maranam.
++ Samvega: **Rejection/ Distaste** for sankara: Fill Anap with raw energy/potential. **Viz**: Vocalno & Lava burn all. **Act**: Throat exc. **-->** Raw/rough Energy Anap
++ Pasada: **Digest** the raw energey to satisfy Anap urge/hunger.**-->** freshness, deliciousness of Anap, Fullness, Wamrth.
 comfy: Exp chose variery, rythm, texture & smoothing the process.
-**1**. **Satova** assasati satova passasati: set anap base for all steps/exp. Later step only elaborate anap. 
-
-**2**. **Dīghaṁ** vā assasanto ‘dīghaṁ assasāmī’ti **pajānāti**, dīghaṁ vā passasanto ‘dīghaṁ passasāmī’ti pajānāti:
-
-Pathavii Anap: Subjectivity, Clarity & Stability
-
+##### 2. Foundation: 
++ **Satova** assasati satova passasati: set anap base for all steps/exp. Later step only elaborate anap. 
++ **Dīghaṁ** vā assasanto ‘dīghaṁ assasāmī’ti **pajānāti**, dīghaṁ vā passasanto ‘dīghaṁ passasāmī’ti pajānāti
++ **Rassaṁ** vā assasanto ‘rassaṁ assasāmī’ti **pajānāti**, rassaṁ vā passasanto ‘rassaṁ passasāmī’ti pajānāti.
++ Mixture : In long-out short, in short-out long,..
++ Seyyathāpi, bhikkhave, dakkho bhamakāro vā bhamakārantevāsī vā dīghaṁ vā añchanto ‘dīghaṁ añchāmī’ti **pajānāti**, rassaṁ vā añchanto ‘rassaṁ añchāmī’ti pajānāti; evameva kho, bhikkhave, bhikkhu dīghaṁ vā assasanto ‘dīghaṁ assasāmī’ti pajānāti, dīghaṁ vā passasanto ‘dīghaṁ passasāmī’ti pajānāti, rassaṁ vā assasanto ‘rassaṁ assasāmī’ti pajānāti, rassaṁ vā passasanto ‘rassaṁ passasāmī’ti pajānāti; Use anap type **appropriate** with what need. Could change in any moment or in moving attention to other places, body space or mind spaces.
+##### 3. Extend
+###### Pathavii Anap: Subjectivity, Clarity & Stability
 + **Aware-Intentional**: Manual mk deep/heavy anap (as slow lift). **Viz**: start up machine: heart-muscle-.., city wake up. Could associate with sound of heavy breathing with Viz sound. **Act**: pose/flex/tense your muscle: closing fist, feet, neck, shoulder.
 **-->** the weight of intentionality in Anap-ing
 + **Biofeedback**-Form correction: observe **active** action of lungs, diaphram, belly & general posture when anap. **Viz**: fog cleared up & light begin to show big obj like moutain/ skyscraper/ city,..**Act**: Relax but still hold strong potential like in taichi practice. **-->** Sensitivity & thoroughness of Anap, not dryness/ stuck in idea.
 + **Lapidary**: Carve Anap into chunk: Start, Middle, End, Silence-Space between, Start, End. **Viz**: mining, gem-bone engraving with fractal,..**-->** superior present/beauty of this kind of Anap to normal
-  
-Tejo Anap: Energy
-
-+ Samvega: **Rejection/ Distaste** for sankara: Fill Anap with raw energy/potential. **Viz**: Vocalno & Lava burn all. **Act**: Throat exc. **-->** Raw/rough Energy Anap
-+ Pasada: **Digest** the raw energey to satisfy Anap urge/hunger.**-->** freshness, deliciousness of Anap, Fullness, Wamrth.
+###### Tejo Anap: Energy
 + Smelting/Smoothing out & remove the ragged edge of Anap. **Viz**: metal in the forge, earth outer core, blood like lava in vessel-moving continuously...  **-->** **continual** Anap + Link between frustration & action.
- 
-**3**. **Rassaṁ** vā assasanto ‘rassaṁ assasāmī’ti **pajānāti**, rassaṁ vā passasanto ‘rassaṁ passasāmī’ti pajānāti. 
-
-Apo Anap: Unity
-
+ ###### Apo Anap: Unity
 + **Befriend, Soften** & Slow down Anap. **Viz**: silk, pet dog **-->** Comfort & companionship of Anap.
 + **Connect**/Tap into Rythm & Continuity of Anap.**Viz**: rain settle dust; river to ocean, lake & Ocean wave; nursery rythm **-->** Rythm/ Harmony
 + **Connectivity** Thread of Anap-aware between Silence, soft but strong like silk thread (taichi). **Viz**: All ocean & theirs currents; underground water.
-
-Vajo Anap: Freedom
-
+###### Vajo Anap: Freedom
 + **Free** & relax intention, change from manual to observational. **Viz**: wind in the sky **-->** Lightness of being
 + Wait for Anap to settle down, **Stilling**, Aware. **Viz**: bird flying/gliding.
 + Invite **Light & Joy**, protective, but not possessive. **Viz**: wind chimes, animals come to water-source.
-
-**4**. Seyyathāpi, bhikkhave, dakkho bhamakāro vā bhamakārantevāsī vā dīghaṁ vā añchanto ‘dīghaṁ añchāmī’ti **pajānāti**, rassaṁ vā añchanto ‘rassaṁ añchāmī’ti pajānāti; evameva kho, bhikkhave, bhikkhu dīghaṁ vā assasanto ‘dīghaṁ assasāmī’ti pajānāti, dīghaṁ vā passasanto ‘dīghaṁ passasāmī’ti pajānāti, rassaṁ vā assasanto ‘rassaṁ assasāmī’ti pajānāti, rassaṁ vā passasanto ‘rassaṁ passasāmī’ti pajānāti;
-+ Add more type to Anap repertoire : In long-out short, in short-out long,..
-+ Use anap type **appropriate** with what need. Could change in any moment or in moving attention to other places, body space or mind spaces.
-
 ---
-#### Kaya: unify
+#### Unify Kaya
 **1**. yathā yathā vā panassa kāyo paṇihito hoti tathā tathā naṁ pajānāti: Anap to Aware & Refine posture.
 
 **2**. Identify Anap sensation in 4 general directons: Head, body, hand, leg > Mk a general sense of whole body.
@@ -70,7 +71,7 @@ Mk mental body. Distill/settle in 1 point to make Subtle Body > Draw out subtle 
 ‘netaṁ mama, nesohamasmi, na meso attā’ti samanupassati
 
 ---
-#### Vedana
+#### Presentize Vedanta
 1. Anap as safe + distanced space to identify general vibe of emotion or lack there of (apathy, dullness..). Try to see the whole picture, not just the dominant ones. **Viz**: comfort & high places: top floor see the house in city, high floor in library, top tree in garden.. **Act**: comfort/stim act: grab book, do rosary, rocking back and forth, kneeling & whisper.
 
 2. Anap as light to identify what the emotions in the mixture, unfreeze them. Try to feel the feel before name them individualy, but not hardpress to put a label on it. **Do not** avoid, confront, critical nor inquiry of uncomfortable feelings. Check your reaction, just let it be. **Viz**: iceberg float up & melting, watering garden, coloring pictures.
