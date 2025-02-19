@@ -1,9 +1,9 @@
 Go thru all big item fast. Then go details in later loop.
 
 + [Build Anap repertoire](#Anap)
-  + [1. Motivating](#1.Motivating)
-  + [2. Foundation](#2.Foundation)
-  + [3. Extend](#3.Extend)
+  + [1. Motivating](#Motivating)
+  + [2. Foundation](#Foundation)
+  + [3. Extend](#Extend)
 + [Unify Kaya](#Unify-Kaya)
 + [Presentize Vedanta](#Presentize-Vedanta)
 + Purify Sankara
@@ -11,18 +11,18 @@ Go thru all big item fast. Then go details in later loop.
 + Dhamma
 
 #### Anap
-##### 1.Motivating: 
+##### Motivating
 Buddha-Saddha, Metta, Asubha, Maranam.
 + Samvega: **Rejection/ Distaste** for sankara: Fill Anap with raw energy/potential. **Viz**: Vocalno & Lava burn all. **Act**: Throat exc. **-->** Raw/rough Energy Anap
 + Pasada: **Digest** the raw energey to satisfy Anap urge/hunger.**-->** freshness, deliciousness of Anap, Fullness, Wamrth.
 comfy: Exp chose variery, rythm, texture & smoothing the process.
-##### 2.Foundation 
+##### Foundation
 + **Satova** assasati satova passasati: set anap base for all steps/exp. Later step only elaborate anap. 
 + **Dīghaṁ** vā assasanto ‘dīghaṁ assasāmī’ti **pajānāti**, dīghaṁ vā passasanto ‘dīghaṁ passasāmī’ti pajānāti
 + **Rassaṁ** vā assasanto ‘rassaṁ assasāmī’ti **pajānāti**, rassaṁ vā passasanto ‘rassaṁ passasāmī’ti pajānāti.
 + Mixture : In long-out short, in short-out long,..
 + Seyyathāpi, bhikkhave, dakkho bhamakāro vā bhamakārantevāsī vā dīghaṁ vā añchanto ‘dīghaṁ añchāmī’ti **pajānāti**, rassaṁ vā añchanto ‘rassaṁ añchāmī’ti pajānāti; evameva kho, bhikkhave, bhikkhu dīghaṁ vā assasanto ‘dīghaṁ assasāmī’ti pajānāti, dīghaṁ vā passasanto ‘dīghaṁ passasāmī’ti pajānāti, rassaṁ vā assasanto ‘rassaṁ assasāmī’ti pajānāti, rassaṁ vā passasanto ‘rassaṁ passasāmī’ti pajānāti; Use anap type **appropriate** with what need. Could change in any moment or in moving attention to other places, body space or mind spaces.
-##### 3.Extend
+##### Extend
 ###### Pathavii Anap: Subjectivity, Clarity & Stability
 + **Aware-Intentional**: Manual mk deep/heavy anap (as slow lift). **Viz**: start up machine: heart-muscle-.., city wake up. Could associate with sound of heavy breathing with Viz sound. **Act**: pose/flex/tense your muscle: closing fist, feet, neck, shoulder.
 **-->** the weight of intentionality in Anap-ing
