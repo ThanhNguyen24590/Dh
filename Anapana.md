@@ -11,12 +11,12 @@ Go thru all big item fast. Then go details in later loop.
 + Dhamma
 
 #### Anap
-##### 1. Motivation: 
+##### 1. Motivating: 
 Buddha-Saddha, Metta, Asubha, Maranam.
 + Samvega: **Rejection/ Distaste** for sankara: Fill Anap with raw energy/potential. **Viz**: Vocalno & Lava burn all. **Act**: Throat exc. **-->** Raw/rough Energy Anap
 + Pasada: **Digest** the raw energey to satisfy Anap urge/hunger.**-->** freshness, deliciousness of Anap, Fullness, Wamrth.
 comfy: Exp chose variery, rythm, texture & smoothing the process.
-##### 2. Foundation: 
+##### 2. Foundation 
 + **Satova** assasati satova passasati: set anap base for all steps/exp. Later step only elaborate anap. 
 + **Dīghaṁ** vā assasanto ‘dīghaṁ assasāmī’ti **pajānāti**, dīghaṁ vā passasanto ‘dīghaṁ passasāmī’ti pajānāti
 + **Rassaṁ** vā assasanto ‘rassaṁ assasāmī’ti **pajānāti**, rassaṁ vā passasanto ‘rassaṁ passasāmī’ti pajānāti.
