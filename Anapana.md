@@ -7,7 +7,7 @@ Go thru all big item fast. Then go details in later loop.
 + [Unify Kaya](#Unify-Kaya)
   + Acknowledge
   + Listen
-  + [Unify & Stilling](#unify-&-stilling)
+  + [Unify & Stilling](#unify-stilling)
 + [Presentize Vedanta](#Presentize-Vedanta)
   + Listen
 + Purify Sankara
@@ -66,7 +66,7 @@ comfy: Exp chose variery, rythm, texture & smoothing the process.
   + Vayo: Stuck vs Openness, Freedom, Connectivity, 
   + Dark vs Light
   + Space the body take vs Space
-##### Unify & Stilling
+##### Unify Stilling
 + 'passambhayaṃ kāya-**saṅkhāraṃ** assasissāmī'ti **sikkhati**, 'passambhayaṃ kāyasaṅkhāraṃ passasissāmī'ti sikkhati
 Mk mental body. Distill/settle in 1 point to make Subtle Body > Draw out subtle body?
 + Samudayadhammānupassī vā kāyasmiṁ viharati, vayadhammānupassī vā kāyasmiṁ viharati, samudayavayadhammānupassī vā kāyasmiṁ viharati.
