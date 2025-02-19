@@ -5,7 +5,10 @@ Go thru all big item fast. Then go details in later loop.
   + [2. Foundation](#Foundation)
   + [3. Extend](#Extend)
 + [Unify Kaya](#Unify-Kaya)
+  + Acknowledge
+  + Listen
 + [Presentize Vedanta](#Presentize-Vedanta)
+  + Listen
 + Purify Sankara
 + Expand Citta
 + Dhamma
@@ -29,6 +32,7 @@ comfy: Exp chose variery, rythm, texture & smoothing the process.
 + **Biofeedback**-Form correction: observe **active** action of lungs, diaphram, belly & general posture when anap. **Viz**: fog cleared up & light begin to show big obj like moutain/ skyscraper/ city,..**Act**: Relax but still hold strong potential like in taichi practice. **-->** Sensitivity & thoroughness of Anap, not dryness/ stuck in idea.
 + **Lapidary**: Carve Anap into chunk: Start, Middle, End, Silence-Space between, Start, End. **Viz**: mining, gem-bone engraving with fractal,..**-->** superior present/beauty of this kind of Anap to normal
 ###### Tejo Anap: Energy
++ Warmth
 + Smelting/Smoothing out & remove the ragged edge of Anap. **Viz**: metal in the forge, earth outer core, blood like lava in vessel-moving continuously...  **-->** **continual** Anap + Link between frustration & action.
  ###### Apo Anap: Unity
 + **Befriend, Soften** & Slow down Anap. **Viz**: silk, pet dog **-->** Comfort & companionship of Anap.
@@ -40,35 +44,35 @@ comfy: Exp chose variery, rythm, texture & smoothing the process.
 + Invite **Light & Joy**, protective, but not possessive. **Viz**: wind chimes, animals come to water-source.
 ---
 #### Unify Kaya
-**1**. yathā yathā vā panassa kāyo paṇihito hoti tathā tathā naṁ pajānāti: Anap to Aware & Refine posture.
-
-**2**. Identify Anap sensation in 4 general directons: Head, body, hand, leg > Mk a general sense of whole body.
-
-**3**. Clarify details: 9 points: forehead center-eye, brain center, base throat-neck | heart-solar plexus, spine, navel, tail bone | finger tips-palm, feet
-
-**4**. '**sabba**-kāya-**paṭisaṃvedī** assasissāmī'ti **sikkhati**, 'sabba-kāya-paṭisaṃvedī passasissāmī'ti sikkhati: Present of whole body: Connect the point into line & Spread it out. **Viz**: blood vessel, neuron in whole body.
-+ Navel > Heart > forehead
-+ Forehead > Neck > Spine > Tailbone
-+ Heart > finger tips
-+ Heart > Navel > Feet
-
-**5**. Make **comfy** by replace **Obstructive** sensation with Constructive sensation:
-+ Pathavii: Tensed vs relax with Str (like taichi),Waved
-+ Apo: Blockage, Disjointed vs Circulated-Connected
-+ Tejo: Blank, apathy (deep muscle), Dull-Tired-Lack-energy vs qi-remove wastes, Hot-energy (blood-lava)
-+ Vayo: Stuck vs Openness, Freedom, Connectivity, 
-+ Dark vs Light
-+ Space the body take vs Space
-
-**6**. 'passambhayaṃ kāya-**saṅkhāraṃ** assasissāmī'ti **sikkhati**, 'passambhayaṃ kāyasaṅkhāraṃ passasissāmī'ti sikkhati
+##### Acknowledge
++ Space & the surroundings
++ Yathā yathā vā panassa kāyo paṇihito hoti tathā tathā naṁ pajānāti: Anap to Aware & Refine posture.
+##### Listen
++ Identify Anap sensation in 4 general directons: Head, body, hand, leg > Mk a general sense of whole body.
++ '**sabba**-kāya-**paṭisaṃvedī** assasissāmī'ti **sikkhati**, 'sabba-kāya-paṭisaṃvedī passasissāmī'ti sikkhati: Present of whole body with Metta
+##### Clarify
++ Clarify details: 9 points: forehead center-eye, brain center, base throat-neck | heart-solar plexus, spine, navel, tail bone | finger tips-palm, feet
++ Connect the point into line & Spread it out. **Viz**: blood vessel, neuron in whole body.
+  + Navel > Heart > forehead
+  + Forehead > Neck > Spine > Tailbone
+  + Heart > finger tips
+  + Heart > Navel > Feet
+##### Comfortize
++ Make **comfy** by replace **Obstructive** sensation with Constructive sensation:
+  + Pathavii: Tensed vs relax with Str (like taichi),Waved
+  + Apo: Blockage, Disjointed vs Circulated-Connected
+  + Tejo: Blank, apathy (deep muscle), Dull-Tired-Lack-energy vs qi-remove wastes, Hot-energy (blood-lava)
+  + Vayo: Stuck vs Openness, Freedom, Connectivity, 
+  + Dark vs Light
+  + Space the body take vs Space
+##### Unify & Stilling
++ 'passambhayaṃ kāya-**saṅkhāraṃ** assasissāmī'ti **sikkhati**, 'passambhayaṃ kāyasaṅkhāraṃ passasissāmī'ti sikkhati
 Mk mental body. Distill/settle in 1 point to make Subtle Body > Draw out subtle body?
-
-**7**. Iti ajjhattaṁ vā kāye kāyānupassī viharati, bahiddhā vā kāye kāyānupassī viharati, ajjhattabahiddhā vā kāye kāyānupassī viharati.
-
-**8**. Samudayadhammānupassī vā kāyasmiṁ viharati, vayadhammānupassī vā kāyasmiṁ viharati, samudayavayadhammānupassī vā kāyasmiṁ viharati.
-
-**9**. ‘Atthi kāyo’ti vā panassa sati paccupaṭṭhitā hoti yāvadeva ñāṇamattāya paṭissatimattāya anissito ca viharati, na ca kiñci loke upādiyati.
-‘netaṁ mama, nesohamasmi, na meso attā’ti samanupassati
++ Samudayadhammānupassī vā kāyasmiṁ viharati, vayadhammānupassī vā kāyasmiṁ viharati, samudayavayadhammānupassī vā kāyasmiṁ viharati.
++ ‘netaṁ mama, nesohamasmi, na meso attā’ti samanupassati
++ ‘Atthi kāyo’ti vā panassa sati paccupaṭṭhitā hoti yāvadeva ñāṇamattāya paṭissatimattāya anissito ca viharati, na ca kiñci loke upādiyati.
+##### Extended
+Iti ajjhattaṁ vā kāye kāyānupassī viharati, bahiddhā vā kāye kāyānupassī viharati, ajjhattabahiddhā vā kāye kāyānupassī viharati.
 
 ---
 #### Presentize Vedanta
