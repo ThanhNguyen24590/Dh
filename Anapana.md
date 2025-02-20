@@ -4,14 +4,14 @@ Go thru all big item fast. Then go details in later loop.
   + [Sati Acknowledge](#Anap-Sati-Acknowledge)
   + [Listen-Question](#Anap-Listen-Question)
   + [Motivating](#Anap-Motivating)
-  + [Inspiring][#Anap-Inspiring]
+  + [Inspiring](#Anap-Inspiring)
   + [Foundation](#Anap-Foundation)
   + [Extend](#Anap-Extend)
 + [Unify Kaya](#Unify-Kaya)
   + [Sati Acknowledge](#Kaya-Sati-Acknowledge)
   + [Listen-Question](#Kaya-Listen-Question)
   + [Motivating](#Kaya-Motivating)
-  + [Inspiring][#Kaya-Inspiring]
+  + [Inspiring](#Kaya-Inspiring)
   + [Unify](#Unify)
   + [Stilling](#unify-stilling)
   + [Extend](#Kaya-Extend)
