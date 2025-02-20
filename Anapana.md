@@ -31,6 +31,7 @@ Go thru all big item fast. Then go details in later loop.
 ##### Anap-Motivating
 + Asubha, Maranam.
 + Samvega: **Rejection/ Distaste** for sankara: Fill Anap with raw energy/potential. **Viz**: Vocalno & Lava burn all. **Act**: Throat exc. **-->** Raw/rough Energy Anap
++ Joy from seclusion
 ##### Anap-Inspiring
 Buddha-Saddha, Metta
 + Pasada: **Digest** the raw energey to satisfy Anap urge/hunger.**-->** freshness, deliciousness of Anap, Fullness, Wamrth.
@@ -60,18 +61,20 @@ comfy: Exp chose variery, rythm, texture & smoothing the process.
 ---
 #### Unify Kaya
 ##### Kaya-Sati-Acknowledge
-+ Space & the surroundings
-+ Yathā yathā vā panassa kāyo paṇihito hoti tathā tathā naṁ pajānāti: Anap to Aware & Refine posture.
++ Body exist, its interaction with mind & its foundation for normal consciousness/being.
++ Yathā yathā vā panassa kāyo paṇihito hoti tathā tathā naṁ pajānāti: Anap to Aware & Chose suitable posture.  --> Nt: Body-Exc?
++ Identify Anap sensation in 4 general directons: Head, body, hand, leg > Mk a general sense of whole body.
++ The space it take > Its presence
 ##### Kaya-Listen-Question
-+ Do the body feel fine? Stiff, Warm,....?
++ Do the body have negative effect? Stiff, Warm, tired, stuck into habit?....?
 + What the body want vs mind want.
-+ Are tired & stuck into habit?
 ##### Kaya-Motivating
 + Anap Asubha
 + Clarify details: 9 points: forehead center-eye, brain center, base throat-neck | heart-solar plexus, spine, navel, tail bone | finger tips-palm, feet --> What kind of Anap each places need?
 ##### Kaya-Inspiring
 + Anap experience with Metta.
-+ Anap Joy with movement. --> Nt: Body
++ Anap Joy with movement.
++ Joy from seclusion
 + Qi: Connect the point into line & Spread it out. **Viz**: blood vessel, neuron in whole body.
   + Navel > Heart > forehead
   + Forehead > Neck > Spine > Tailbone
@@ -85,7 +88,7 @@ comfy: Exp chose variery, rythm, texture & smoothing the process.
   + Vayo: Stuck -> Openness, Freedom, Connectivity, 
   + Dark -> Light
   + Space the body take -> Space
-+ Identify Anap sensation in 4 general directons: Head, body, hand, leg > Mk a general sense of whole body.
+
 + '**sabba**-kāya-**paṭisaṃvedī** assasissāmī'ti **sikkhati**, 'sabba-kāya-paṭisaṃvedī passasissāmī'ti sikkhati: Present of whole body
 ##### Stilling
 + 'passambhayaṃ kāya-**saṅkhāraṃ** assasissāmī'ti **sikkhati**, 'passambhayaṃ kāyasaṅkhāraṃ passasissāmī'ti sikkhati
