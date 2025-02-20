@@ -1,13 +1,20 @@
 Go thru all big item fast. Then go details in later loop.
 
 + [Build Anap repertoire](#Anap)
-  + [1. Motivating](#Motivating)
-  + [2. Foundation](#Foundation)
-  + [3. Extend](#Extend)
+  + [Sati Acknowledge](#Anap-Sati-Acknowledge)
+  + [Listen-Question](#Anap-Listen-Question)
+  + [Motivating](#Anap-Motivating)
+  + [Inspiring][#Anap-Inspiring]
+  + [Foundation](#Anap-Foundation)
+  + [Extend](#Anap-Extend)
 + [Unify Kaya](#Unify-Kaya)
-  + Acknowledge
-  + Listen
-  + [Unify & Stilling](#unify-stilling)
+  + [Sati Acknowledge](#Kaya-Sati-Acknowledge)
+  + [Listen-Question](#Kaya-Listen-Question)
+  + [Motivating](#Kaya-Motivating)
+  + [Inspiring][#Kaya-Inspiring]
+  + [Unify](#Unify)
+  + [Stilling](#unify-stilling)
+  + [Extend](#Kaya-Extend)
 + [Presentize Vedanta](#Presentize-Vedanta)
   + Listen
 + Purify Sankara
@@ -15,18 +22,25 @@ Go thru all big item fast. Then go details in later loop.
 + Dhamma
 
 #### Anap
-##### Motivating
-Buddha-Saddha, Metta, Asubha, Maranam.
+##### Anap-Sati-Acknowledge
++ **Satova** assasati satova passasati: set anap base for all steps/exp. Later step only elaborate anap.
++ This exist.
+##### Anap-Listen-Question
++ Is Anap have negative effect: stale, obstructed, dry,...?
++ What is needed? How can it improved?
+##### Anap-Motivating
++ Asubha, Maranam.
 + Samvega: **Rejection/ Distaste** for sankara: Fill Anap with raw energy/potential. **Viz**: Vocalno & Lava burn all. **Act**: Throat exc. **-->** Raw/rough Energy Anap
+##### Anap-Inspiring
+Buddha-Saddha, Metta
 + Pasada: **Digest** the raw energey to satisfy Anap urge/hunger.**-->** freshness, deliciousness of Anap, Fullness, Wamrth.
 comfy: Exp chose variery, rythm, texture & smoothing the process.
-##### Foundation
-+ **Satova** assasati satova passasati: set anap base for all steps/exp. Later step only elaborate anap. 
+##### Anap-Foundation
 + **Dīghaṁ** vā assasanto ‘dīghaṁ assasāmī’ti **pajānāti**, dīghaṁ vā passasanto ‘dīghaṁ passasāmī’ti pajānāti
 + **Rassaṁ** vā assasanto ‘rassaṁ assasāmī’ti **pajānāti**, rassaṁ vā passasanto ‘rassaṁ passasāmī’ti pajānāti.
 + Mixture : In long-out short, in short-out long,..
 + Seyyathāpi, bhikkhave, dakkho bhamakāro vā bhamakārantevāsī vā dīghaṁ vā añchanto ‘dīghaṁ añchāmī’ti **pajānāti**, rassaṁ vā añchanto ‘rassaṁ añchāmī’ti pajānāti; evameva kho, bhikkhave, bhikkhu dīghaṁ vā assasanto ‘dīghaṁ assasāmī’ti pajānāti, dīghaṁ vā passasanto ‘dīghaṁ passasāmī’ti pajānāti, rassaṁ vā assasanto ‘rassaṁ assasāmī’ti pajānāti, rassaṁ vā passasanto ‘rassaṁ passasāmī’ti pajānāti; Use anap type **appropriate** with what need. Could change in any moment or in moving attention to other places, body space or mind spaces.
-##### Extend
+##### Anap-Extend
 ###### Pathavii Anap: Subjectivity, Clarity & Stability
 + **Aware-Intentional**: Manual mk deep/heavy anap (as slow lift). **Viz**: start up machine: heart-muscle-.., city wake up. Could associate with sound of heavy breathing with Viz sound. **Act**: pose/flex/tense your muscle: closing fist, feet, neck, shoulder.
 **-->** the weight of intentionality in Anap-ing
@@ -45,34 +59,41 @@ comfy: Exp chose variery, rythm, texture & smoothing the process.
 + Invite **Light & Joy**, protective, but not possessive. **Viz**: wind chimes, animals come to water-source.
 ---
 #### Unify Kaya
-##### Acknowledge
+##### Kaya-Sati-Acknowledge
 + Space & the surroundings
 + Yathā yathā vā panassa kāyo paṇihito hoti tathā tathā naṁ pajānāti: Anap to Aware & Refine posture.
-##### Listen
-+ Identify Anap sensation in 4 general directons: Head, body, hand, leg > Mk a general sense of whole body.
-+ '**sabba**-kāya-**paṭisaṃvedī** assasissāmī'ti **sikkhati**, 'sabba-kāya-paṭisaṃvedī passasissāmī'ti sikkhati: Present of whole body with Metta
-##### Clarify
-+ Clarify details: 9 points: forehead center-eye, brain center, base throat-neck | heart-solar plexus, spine, navel, tail bone | finger tips-palm, feet
-+ Connect the point into line & Spread it out. **Viz**: blood vessel, neuron in whole body.
+##### Kaya-Listen-Question
++ Do the body feel fine? Stiff, Warm,....?
++ What the body want vs mind want.
++ Are tired & stuck into habit?
+##### Kaya-Motivating
++ Anap Asubha
++ Clarify details: 9 points: forehead center-eye, brain center, base throat-neck | heart-solar plexus, spine, navel, tail bone | finger tips-palm, feet --> What kind of Anap each places need?
+##### Kaya-Inspiring
++ Anap experience with Metta.
++ Anap Joy with movement. --> Nt: Body
++ Qi: Connect the point into line & Spread it out. **Viz**: blood vessel, neuron in whole body.
   + Navel > Heart > forehead
   + Forehead > Neck > Spine > Tailbone
   + Heart > finger tips
   + Heart > Navel > Feet
-##### Comfortize
+##### Unify
 + Make **comfy** by replace **Obstructive** sensation with Constructive sensation:
-  + Pathavii: Tensed vs relax with Str (like taichi),Waved
-  + Apo: Blockage, Disjointed vs Circulated-Connected
-  + Tejo: Blank, apathy (deep muscle), Dull-Tired-Lack-energy vs qi-remove wastes, Hot-energy (blood-lava)
-  + Vayo: Stuck vs Openness, Freedom, Connectivity, 
-  + Dark vs Light
-  + Space the body take vs Space
-##### Unify Stilling
+  + Pathavii: Tensed -> relax with Str (like taichi),Waved
+  + Apo: Blockage, Disjointed -> Circulated-Connected
+  + Tejo: Blank, apathy (deep muscle), Dull-Tired-Lack-energy -> qi-remove wastes, Hot-energy (blood-lava)
+  + Vayo: Stuck -> Openness, Freedom, Connectivity, 
+  + Dark -> Light
+  + Space the body take -> Space
++ Identify Anap sensation in 4 general directons: Head, body, hand, leg > Mk a general sense of whole body.
++ '**sabba**-kāya-**paṭisaṃvedī** assasissāmī'ti **sikkhati**, 'sabba-kāya-paṭisaṃvedī passasissāmī'ti sikkhati: Present of whole body
+##### Stilling
 + 'passambhayaṃ kāya-**saṅkhāraṃ** assasissāmī'ti **sikkhati**, 'passambhayaṃ kāyasaṅkhāraṃ passasissāmī'ti sikkhati
 Mk mental body. Distill/settle in 1 point to make Subtle Body > Draw out subtle body?
 + Samudayadhammānupassī vā kāyasmiṁ viharati, vayadhammānupassī vā kāyasmiṁ viharati, samudayavayadhammānupassī vā kāyasmiṁ viharati.
 + ‘netaṁ mama, nesohamasmi, na meso attā’ti samanupassati
 + ‘Atthi kāyo’ti vā panassa sati paccupaṭṭhitā hoti yāvadeva ñāṇamattāya paṭissatimattāya anissito ca viharati, na ca kiñci loke upādiyati.
-##### Extended
+##### Kaya-Extend
 Iti ajjhattaṁ vā kāye kāyānupassī viharati, bahiddhā vā kāye kāyānupassī viharati, ajjhattabahiddhā vā kāye kāyānupassī viharati.
 
 ---
