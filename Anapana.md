@@ -34,7 +34,8 @@ Go thru all big item fast. Then go details in later loop.
 + **Intentional**: Manual mk deep/heavy anap (as slow lift). **Viz**: start up machine: heart-muscle-.., city wake up. Could associate with sound of heavy breathing with Viz sound. **-->** the weight of intentionality, subjectivity.
 + **Continual** Smelting/Smoothing out & remove the ragged edge of Anap. **Viz**: metal in the forge, earth outer core, blood like lava in vessel-moving continuously...  **-->** frustration output into Anap's Flow.
 + **Unify** Knead Silence (between In/Out), Past-Future-Present, by thread of soft but strong like silk thread (taichi). **Viz**: Oceans, theirs currents & underground water..
-+ Attune **Rythm** & Continuity of Anap. **Viz**: rain settle dust; river to ocean, lake & Ocean wave; nursery rythm **-->** Rythm/ Harmony
++ Attune **Rythm** & Continuity of Anap. **Viz**: rain settle dust; river to ocean, lake & Ocean wave; nursery rythm **-->** Rythm/ Harmony.
+
 **Rassaṁ** vā assasanto ‘rassaṁ assasāmī’ti **pajānāti**, rassaṁ vā passasanto ‘rassaṁ passasāmī’ti pajānāti. Focus on introspective.
 + **Befriend, Soften** & Slow down Anap. **Viz**: pet dog **-->** Comfort & companionship of Anap.
 + **Free** & relax intention, change from manual to observational.Wait for Anap to settle down, **Stilling**, Aware.  **Viz**: wind in the sky, bird gliding. **-->** Lightness of being.
@@ -65,10 +66,13 @@ Seyyathāpi, bhikkhave, dakkho bhamakāro vā bhamakārantevāsī vā dīghaṁ 
 Ephemeral: rain droplet, mist on blade of grass, mayfly...
 + What you can controlled & what's perchance. Your form.
 + The degradation: Aging, Sickness,... & The end: Maranam
+
 Physicality: Asubha, Karuna
 + Harmony & purposeless Mechanical. "There Will Come Soft Rains".
+
 Focal point
 + Chakras: 9 points: forehead center-eye, brain center, base throat-neck | heart-solar plexus, spine, navel, tail bone | finger tips-palm, feet --> What kind of Anap each places need?
+
 Qi channel, Nadi: Connect the point into line & Spread it out. **Viz**: blood vessel, neuron in whole body.
 + Navel > Heart > forehead | Forehead > Neck > Spine > Tailbone
 + Heart > finger tips | Heart > Navel > Feet
