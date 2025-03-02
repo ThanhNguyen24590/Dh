@@ -21,7 +21,7 @@ Go thru all big item fast. Then go details in later loop. 1st loop is each item 
 
 **Rassaṁ** vā assasanto ‘rassaṁ assasāmī’ti **pajānāti**, rassaṁ vā passasanto ‘rassaṁ passasāmī’ti pajānāti. Focus on introspective.
 + **Befriend, Soften** & Slow down Anap. **Viz**: pet dog **-->** Comfort & companionship of Anap.
-+ **Free** & relax intention, change from manual to observational.Wait for Anap to settle down, **Stilling**, Aware.  **Viz**: wind in the sky, bird gliding. **-->** Lightness of being.
++ **Stilling**: Free & relax intention, change from manual to observational, let Anap settle down.  **Viz**: wind in the sky, bird gliding. **-->** Lightness of being.
 + Invite **Light & Joy** from seclusion, burden lifted., protective, but not possessive. **Viz**: wind chimes, animals come to water-source.
 + Find the Warmth/ **raw energy** /potential of Anap that satisfy urge/hunger. **Viz**: Lava vein. **-->** freshness, deliciousness of Anap, Fullness.
 ##### Diversify
