@@ -1,153 +1,130 @@
 Go thru all big item fast. Then go details in later loop.
 
-+ [Build Anap repertoire](#Anap)
-  + [Sati Acknowledge](#Anap-Sati-Acknowledge)
-  + [Listen-Question](#Anap-Listen-Question)
-  + [Motivating](#Anap-Motivating)
-  + [Inspiring](#Anap-Inspiring)
-  + [Foundation](#Anap-Foundation)
-  + [Extend](#Anap-Extend)
-+ [Unify Kaya](#Unify-Kaya)
-  + [Sati Acknowledge](#Kaya-Sati-Acknowledge)
-  + [Listen-Question](#Kaya-Listen-Question)
-  + [Motivating](#Kaya-Motivating)
-  + [Inspiring](#Kaya-Inspiring)
-  + [Unify](#Unify)
-  + [Stilling](#unify-stilling)
-  + [Extend](#Kaya-Extend)
-+ [Presentize Vedanta](#Presentize-Vedanta)
-  + Listen
-+ Purify Sankara
-+ Expand Citta
-+ Dhamma
++ [Anap](#Anap)
+  + [Sati](#Sati-Anap)
+  + [Extend](#Extend)
+  + [Diversify](#Diversify)
+  + [Inspiring Theme](#Anap-Inspiring-Theme)
++ [Kaya](#Kaya)
+  + [Sati](#Kaya-Sati)
+  + [Make Kaya Comfy](#Make-Kaya-Comfy)
+  + [Kaya-Theme](#Kaya-Theme)
+  + [Stilling](#Stilling-Kaya)
++ [Vedanta](#Vedanta)
+  + [Theme](#Vedanta-Theme)
+  + [Categorize](#Categorize-Vedanta)
+  + [Nuture-Stilling](#Nuture-Stilling)
+  + [Extend](#Extend-Vedana)
++ [Cittasaṅkhāra](#Cittasaṅkhāra)
++ [Citta](#Citta)
+  + [Sati](#Sati-Citta)
+  + [Gladden](#Gladden)
+  + [Stilling](#Stilling-Citta)
+  + [Extend](#Extend-Citta)
++ [Dhamma](#Dhamma)
 
 #### Anap
-##### Anap-Sati-Acknowledge
-+ **Satova** assasati satova passasati: set anap base for all steps/exp. Later step only elaborate anap.
-+ This exist.
-##### Anap-Listen-Question
-+ Is Anap have negative effect: stale, obstructed, dry,...?
-+ What is needed? How can it improved?
-##### Anap-Motivating
+##### Sati Anap
++ **Satova** assasati satova passasati: This exist: Confirmation: set anap base for all steps/exp. Later step only elaborate anap.
++ Make body comfortable: Form correction: Observe/Listern to negative affect of Anap to whole body (stale, obstructed, dry,..). Exc to feel : pose/flex/tense your muscle: closing fist, feet, neck, shoulder. Change places.
++ Make Anap comfortable: observe **active** action of lungs, diaphram, belly & general posture of anap seg. **Viz**: fog cleared up & light begin to show big obj like moutain/ skyscraper/ city,..**Act**: Relax but still hold strong potential like in taichi practice. **-->** Sensitivity & thoroughness of Anap, not dryness/ stuck in idea, box breath, throat Exc..
++ **Lapidary**: Carve Anap into seg: Start, Middle, End, Silence-Space between, Start, End. **Viz**: mining, gem-bone engraving with fractal,..**-->** superior present/beauty. **-->** Clarity & Stability
+##### Extend
+**Dīghaṁ** vā assasanto ‘dīghaṁ assasāmī’ti **pajānāti**, dīghaṁ vā passasanto ‘dīghaṁ passasāmī’ti pajānāti. Focus on active.
++ **Intentional**: Manual mk deep/heavy anap (as slow lift). **Viz**: start up machine: heart-muscle-.., city wake up. Could associate with sound of heavy breathing with Viz sound. **-->** the weight of intentionality, subjectivity.
++ **Continual** Smelting/Smoothing out & remove the ragged edge of Anap. **Viz**: metal in the forge, earth outer core, blood like lava in vessel-moving continuously...  **-->** frustration output into Anap's Flow.
++ **Unify** Knead Silence (between In/Out), Past-Future-Present, by thread of soft but strong like silk thread (taichi). **Viz**: Oceans, theirs currents & underground water..
++ Attune **Rythm** & Continuity of Anap. **Viz**: rain settle dust; river to ocean, lake & Ocean wave; nursery rythm **-->** Rythm/ Harmony
+**Rassaṁ** vā assasanto ‘rassaṁ assasāmī’ti **pajānāti**, rassaṁ vā passasanto ‘rassaṁ passasāmī’ti pajānāti. Focus on introspective.
++ **Befriend, Soften** & Slow down Anap. **Viz**: pet dog **-->** Comfort & companionship of Anap.
++ **Free** & relax intention, change from manual to observational.Wait for Anap to settle down, **Stilling**, Aware.  **Viz**: wind in the sky, bird gliding. **-->** Lightness of being.
++ Invite **Light & Joy** from seclusion, burden lifted., protective, but not possessive. **Viz**: wind chimes, animals come to water-source.
++ Find the Warmth/ **raw energy** /potential of Anap that satisfy urge/hunger. **Viz**: Lava vein. **-->** freshness, deliciousness of Anap, Fullness.
+##### Diversify
+Seyyathāpi, bhikkhave, dakkho bhamakāro vā bhamakārantevāsī vā dīghaṁ vā añchanto ‘dīghaṁ añchāmī’ti **pajānāti**, rassaṁ vā añchanto ‘rassaṁ añchāmī’ti pajānāti; evameva kho, bhikkhave, bhikkhu dīghaṁ vā assasanto ‘dīghaṁ assasāmī’ti pajānāti, dīghaṁ vā passasanto ‘dīghaṁ passasāmī’ti pajānāti, rassaṁ vā assasanto ‘rassaṁ assasāmī’ti pajānāti, rassaṁ vā passasanto ‘rassaṁ passasāmī’ti pajānāti; 
++ Mixture : In long-out short, in short-out long..
++ Experience & chose variery, rythm, texture that most satisfied to the current seg.
++ Use anap type **appropriate** with what need. Could change in any moment or in moving attention to other places, body space or mind spaces.
+##### Anap-Inspiring Theme
 + Asubha, Maranam.
-+ Samvega: **Rejection/ Distaste** for sankara: Fill Anap with raw energy/potential. **Viz**: Vocalno & Lava burn all. **Act**: Throat exc. **-->** Raw/rough Energy Anap
-+ Joy from seclusion
-##### Anap-Inspiring
-Buddha-Saddha, Metta
-+ Pasada: **Digest** the raw energey to satisfy Anap urge/hunger.**-->** freshness, deliciousness of Anap, Fullness, Wamrth.
-comfy: Exp chose variery, rythm, texture & smoothing the process.
-##### Anap-Foundation
-+ **Dīghaṁ** vā assasanto ‘dīghaṁ assasāmī’ti **pajānāti**, dīghaṁ vā passasanto ‘dīghaṁ passasāmī’ti pajānāti
-+ **Rassaṁ** vā assasanto ‘rassaṁ assasāmī’ti **pajānāti**, rassaṁ vā passasanto ‘rassaṁ passasāmī’ti pajānāti.
-+ Mixture : In long-out short, in short-out long,..
-+ Seyyathāpi, bhikkhave, dakkho bhamakāro vā bhamakārantevāsī vā dīghaṁ vā añchanto ‘dīghaṁ añchāmī’ti **pajānāti**, rassaṁ vā añchanto ‘rassaṁ añchāmī’ti pajānāti; evameva kho, bhikkhave, bhikkhu dīghaṁ vā assasanto ‘dīghaṁ assasāmī’ti pajānāti, dīghaṁ vā passasanto ‘dīghaṁ passasāmī’ti pajānāti, rassaṁ vā assasanto ‘rassaṁ assasāmī’ti pajānāti, rassaṁ vā passasanto ‘rassaṁ passasāmī’ti pajānāti; Use anap type **appropriate** with what need. Could change in any moment or in moving attention to other places, body space or mind spaces.
-##### Anap-Extend
-###### Pathavii Anap: Subjectivity, Clarity & Stability
-+ **Aware-Intentional**: Manual mk deep/heavy anap (as slow lift). **Viz**: start up machine: heart-muscle-.., city wake up. Could associate with sound of heavy breathing with Viz sound. **Act**: pose/flex/tense your muscle: closing fist, feet, neck, shoulder.
-**-->** the weight of intentionality in Anap-ing
-+ **Biofeedback**-Form correction: observe **active** action of lungs, diaphram, belly & general posture when anap. **Viz**: fog cleared up & light begin to show big obj like moutain/ skyscraper/ city,..**Act**: Relax but still hold strong potential like in taichi practice. **-->** Sensitivity & thoroughness of Anap, not dryness/ stuck in idea.
-+ **Lapidary**: Carve Anap into chunk: Start, Middle, End, Silence-Space between, Start, End. **Viz**: mining, gem-bone engraving with fractal,..**-->** superior present/beauty of this kind of Anap to normal
-###### Tejo Anap: Energy
-+ Warmth
-+ Smelting/Smoothing out & remove the ragged edge of Anap. **Viz**: metal in the forge, earth outer core, blood like lava in vessel-moving continuously...  **-->** **continual** Anap + Link between frustration & action.
- ###### Apo Anap: Unity
-+ **Befriend, Soften** & Slow down Anap. **Viz**: silk, pet dog **-->** Comfort & companionship of Anap.
-+ **Connect**/Tap into Rythm & Continuity of Anap.**Viz**: rain settle dust; river to ocean, lake & Ocean wave; nursery rythm **-->** Rythm/ Harmony
-+ **Connectivity** Thread of Anap-aware between Silence, soft but strong like silk thread (taichi). **Viz**: All ocean & theirs currents; underground water.
-###### Vajo Anap: Freedom
-+ **Free** & relax intention, change from manual to observational. **Viz**: wind in the sky **-->** Lightness of being
-+ Wait for Anap to settle down, **Stilling**, Aware. **Viz**: bird flying/gliding.
-+ Invite **Light & Joy**, protective, but not possessive. **Viz**: wind chimes, animals come to water-source.
++ Samvega: **Rejection/ Distaste** for sankara:
++Buddha-Saddha, Metta
 ---
-#### Unify Kaya
-##### Kaya-Sati-Acknowledge
-+ Body exist, its interaction with mind & its foundation for normal consciousness/being.
-+ Yathā yathā vā panassa kāyo paṇihito hoti tathā tathā naṁ pajānāti: Anap to Aware & Chose suitable posture.  --> Nt: Body-Exc?
-+ Identify Anap sensation in 4 general directons: Head, body, hand, leg > Mk a general sense of whole body.
-+ The space it take > Its presence
-##### Kaya-Listen-Question
-+ Do the body have negative effect? Stiff, Warm, tired, stuck into habit?....?
-+ What the body want vs mind want.
-##### Kaya-Motivating
-+ Anap Asubha
-+ Clarify details: 9 points: forehead center-eye, brain center, base throat-neck | heart-solar plexus, spine, navel, tail bone | finger tips-palm, feet --> What kind of Anap each places need?
-##### Kaya-Inspiring
-+ Anap experience with Metta.
-+ Anap Joy with movement.
-+ Joy from seclusion
-+ Qi: Connect the point into line & Spread it out. **Viz**: blood vessel, neuron in whole body.
-  + Navel > Heart > forehead
-  + Forehead > Neck > Spine > Tailbone
-  + Heart > finger tips
-  + Heart > Navel > Feet
-##### Unify
-+ Make **comfy** by replace **Obstructive** sensation with Constructive sensation:
-  + Pathavii: Tensed -> relax with Str (like taichi),Waved
-  + Apo: Blockage, Disjointed -> Circulated-Connected
-  + Tejo: Blank, apathy (deep muscle), Dull-Tired-Lack-energy -> qi-remove wastes, Hot-energy (blood-lava)
-  + Vayo: Stuck -> Openness, Freedom, Connectivity, 
-  + Dark -> Light
-  + Space the body take -> Space
-
+#### Kaya
+##### Sati Kaya
++ What is body? Interaction of mind & physical body & its foundation for normal consciousness/being. Differentiate between What the body want vs mind want,...
++ Yathā yathā vā panassa kāyo paṇihito hoti tathā tathā naṁ pajānāti: Anap to Aware of negative effect (Stiff, tired, stuck, discrete, ) & Chose suitable posture.
++ The space it take > Its presence & sensation > a general sense of whole body.
++ Listen to its rythm: Anap, heartbeat, thoughts.
+##### Make Kaya Comfy
++ Bad energy: Tensed, Dark,..  -> relax with Str (like taichi), Waved, Light,..
++ Lack of energy: Blank, apathy (deep muscle), Dull-Tired -> qi-remove wastes, Hot-energy (blood-lava)
++ Space: Blockage, Disjointed, Stuck -> Circulated, Connected, Free, Open, Spacious
 + '**sabba**-kāya-**paṭisaṃvedī** assasissāmī'ti **sikkhati**, 'sabba-kāya-paṭisaṃvedī passasissāmī'ti sikkhati: Present of whole body
-##### Stilling
+##### Kaya-Theme
+Ephemeral: rain droplet, mist on blade of grass, mayfly...
++ What you can controlled & what's perchance. Your form.
++ The degradation: Aging, Sickness,... & The end: Maranam
+Physicality: Asubha, Karuna
++ Harmony & purposeless Mechanical. "There Will Come Soft Rains".
+Focal point
++ Chakras: 9 points: forehead center-eye, brain center, base throat-neck | heart-solar plexus, spine, navel, tail bone | finger tips-palm, feet --> What kind of Anap each places need?
+Qi channel, Nadi: Connect the point into line & Spread it out. **Viz**: blood vessel, neuron in whole body.
++ Navel > Heart > forehead | Forehead > Neck > Spine > Tailbone
++ Heart > finger tips | Heart > Navel > Feet
+##### Stilling-Kaya
 + 'passambhayaṃ kāya-**saṅkhāraṃ** assasissāmī'ti **sikkhati**, 'passambhayaṃ kāyasaṅkhāraṃ passasissāmī'ti sikkhati
 Mk mental body. Distill/settle in 1 point to make Subtle Body > Draw out subtle body?
-+ Samudayadhammānupassī vā kāyasmiṁ viharati, vayadhammānupassī vā kāyasmiṁ viharati, samudayavayadhammānupassī vā kāyasmiṁ viharati.
++ Iti ajjhattaṁ vā kāye kāyānupassī viharati, bahiddhā vā kāye kāyānupassī viharati, ajjhattabahiddhā vā kāye kāyānupassī viharati. Samudayadhammānupassī vā kāyasmiṁ viharati, vayadhammānupassī vā kāyasmiṁ viharati, samudayavayadhammānupassī vā kāyasmiṁ viharati.
 + ‘netaṁ mama, nesohamasmi, na meso attā’ti samanupassati
 + ‘Atthi kāyo’ti vā panassa sati paccupaṭṭhitā hoti yāvadeva ñāṇamattāya paṭissatimattāya anissito ca viharati, na ca kiñci loke upādiyati.
-##### Kaya-Extend
-Iti ajjhattaṁ vā kāye kāyānupassī viharati, bahiddhā vā kāye kāyānupassī viharati, ajjhattabahiddhā vā kāye kāyānupassī viharati.
-
 ---
-#### Presentize Vedanta
-1. Anap as safe + distanced space to identify general vibe of emotion or lack there of (apathy, dullness..). Try to see the whole picture, not just the dominant ones. **Viz**: comfort & high places: top floor see the house in city, high floor in library, top tree in garden.. **Act**: comfort/stim act: grab book, do rosary, rocking back and forth, kneeling & whisper.
-
-2. Anap as light to identify what the emotions in the mixture, unfreeze them. Try to feel the feel before name them individualy, but not hardpress to put a label on it. **Do not** avoid, confront, critical nor inquiry of uncomfortable feelings. Check your reaction, just let it be. **Viz**: iceberg float up & melting, watering garden, coloring pictures.
-
-3.  [**Dukkhaṁ**] vā vedanaṁ vedayamāno ‘[dukkhaṁ] vedanaṁ vedayāmī’ti pajānāti. Get in touch of feeling by recognize feeling of uncomfortable: Samvega: The unavoidable sadness & disappointment of the world. Primal ever-hunger-more, the deep thirst, the craving that transcend life. The world-tire,... **Viz**: Touching the tree,.., Listen silently to friend'stories.
-
-4. [Sāmisaṁ | Nirāmisaṁ] vā [dukkhaṁ] vedanaṁ vedayamāno ‘[Sāmisaṁ | Nirāmisaṁ] [dukkhaṁ] vedanaṁ vedayāmī’ti pajānāti. Divide into of the flesh or the spiritual.**Viz**: Identify type of trees in garden.
-
-5. [Sukhaṁ] vā vedanaṁ vedayamāno ‘[sukhaṁ] vedanaṁ vedayāmī’ti pajānāti. Recognize the sublime/food born from withdrawal and kusala dhamma: gladness of refuge, right direction, Metta...
-   
-6. 'Pīti-paṭisaṃvedī assasissāmī'ti sikkhati, 'pītipaṭisaṃvedī passasissāmī'ti sikkhati. Nurture the sublime feeling, care to its specific, till it grow to euphoria (cry & goosebump) in body. **Viz**: body-qi
-
-7. 'sukha-paṭisaṃvedī assasissāmī'ti sikkhati, 'sukhapaṭisaṃvedī passasissāmī'ti sikkhati.
+#### Vedanta
+##### Vedanta Theme
++ **Safety**: mk safe + distanced space. **Viz**: comfort & high places: top floor see the house in city, high floor in library, top tree in garden.. **Act**: comfort/stim act: grab book, do rosary, rocking back and forth, kneeling & whisper.
++ **Free**: Anap as light to identify general vibe of emotion or lack there of (apathy, dullness..). Try to see the whole picture, not just the dominant ones. **Do not** avoid, confront, critical nor inquiry of uncomfortable feelings. Check your reaction, just let it be. **Viz**: Dawn
++ **Metta**: Be with what the emotions in the mixture, unfreeze them. Try to feel the feel before name them individualy, but not hardpress to put a label on it. **Viz**: iceberg float up & melting, watering garden, coloring pictures.
++ **Dukkhaṁ** vā vedanaṁ vedayamāno dukkhaṁ vedanaṁ vedayāmī’ti pajānāti. Get in touch of uncomfortable feeling, mk it visceral: Samvega: The unavoidable sadness & disappointment of the world. Primal ever-hunger-more, the deep thirst, the craving that transcend life. The world-tire,... **Viz**: Listen silently to friend'stories, The bitterness in tongue, bee'sting.
+##### Categorize Vedanta
++ [Sāmisaṁ | Nirāmisaṁ] vā [dukkhaṁ] vedanaṁ vedayamāno ‘[Sāmisaṁ | Nirāmisaṁ] [dukkhaṁ] vedanaṁ vedayāmī’ti pajānāti. Divide into of the flesh or the spiritual.**Viz**: Identify type of trees in garden.
++ [Sukhaṁ] vā vedanaṁ vedayamāno ‘[sukhaṁ] vedanaṁ vedayāmī’ti pajānāti. Recognize the sublime/food born from withdrawal and kusala dhamma: gladness of refuge, right direction, Metta...
+##### Nuture & Stilling
++ Deepen: 'Pīti-paṭisaṃvedī assasissāmī'ti sikkhati, 'pītipaṭisaṃvedī passasissāmī'ti sikkhati. Nurture the sublime feeling, care to its specific, till it grow to euphoria (cry & goosebump) in body. **Viz**: body-qi
++ Expand: 'sukha-paṭisaṃvedī assasissāmī'ti sikkhati, 'sukhapaṭisaṃvedī passasissāmī'ti sikkhati.
 Like trees make forest, water make river. permeates and pervades, suffuses and fills this very body with the rapture and pleasure born from withdrawal. There is nothing of his entire body unpervaded by rapture and pleasure born from withdrawal. 
 https://www.accesstoinsight.org/tipitaka/an/an05/an05.028.than.html
-
-8. Iti ajjhattaṁ vā vedanāsu vedanānupassī viharati, bahiddhā vā vedanāsu vedanānupassī viharati, ajjhattabahiddhā vā vedanāsu vedanānupassī viharati.
-
-9. Samudayadhammānupassī vā vedanāsu viharati, vayadhammānupassī vā vedanāsu viharati, samudayavayadhammānupassī vā vedanāsu viharati.
-    
-10. ‘Atthi vedanā’ti vā panassa sati paccupaṭṭhitā hoti yāvadeva ñāṇamattāya paṭissatimattāya anissito ca viharati, na ca kiñci loke upādiyati.
-‘netaṁ mama, nesohamasmi, na meso attā’ti samanupassati
+##### Extend Vedana
++ Iti ajjhattaṁ vā vedanāsu vedanānupassī viharati, bahiddhā vā vedanāsu vedanānupassī viharati, ajjhattabahiddhā vā vedanāsu vedanānupassī viharati. Samudayadhammānupassī vā vedanāsu viharati, vayadhammānupassī vā vedanāsu viharati, samudayavayadhammānupassī vā vedanāsu viharati.
++ ‘netaṁ mama, nesohamasmi, na meso attā’ti samanupassati
++ ‘Atthi vedanā’ti vā panassa sati paccupaṭṭhitā hoti yāvadeva ñāṇamattāya paṭissatimattāya anissito ca viharati, na ca kiñci loke upādiyati.
 ---
 #### Cittasaṅkhāra
-1.'citta-saṅkhāra-paṭisaṃvedī assasissāmī'ti sikkhati, 'cittasaṅkhārapaṭisaṃvedī passasissāmī'ti sikkhati
++ 'citta-saṅkhāra-paṭisaṃvedī assasissāmī'ti sikkhati, 'cittasaṅkhārapaṭisaṃvedī passasissāmī'ti sikkhati
 Notice space between thoughts/sensation. Thoughts like ants, contain mutiple little ants, follow their pheromone trace- death spiral.
-2. 'passambhayaṃ cittasaṅkhāraṃ assasissāmī'ti sikkhati, 'passambhayaṃ cittasaṅkhāraṃ passasissāmī'ti sikkhati
++ 'passambhayaṃ cittasaṅkhāraṃ assasissāmī'ti sikkhati, 'passambhayaṃ cittasaṅkhāraṃ passasissāmī'ti sikkhati
 Widen space between sensation.
 
 ---
 #### Citta
-1. saṅkhittaṁ (constricted)? amahaggataṁ (unexpansive)? vikkhittaṁ (scattered) ? nīvaraṇa?
-2. **'cittapaṭisaṃvedī assasissāmī'ti sikkhati, cittapaṭisaṃvedī passasissāmī'ti sikkhati;**
-what's this being/exp/awareness? foggy-lack sleep? motivated? annoyed? Bored? Anxious? Like a garden, beware of bad seed.
-3. '**abhippamodayaṃ** cittaṃ assasissāmī'ti **sikkhati**, abhippamodayaṃ cittaṃ passasissāmī'ti sikkhati;
-4. '**samādahaṃ** **cittaṃ** assasissāmī'ti **sikkhati**, samādahaṃ cittaṃ passasissāmī'ti sikkhati;
-5. '**vimocayaṃ** **cittaṃ** assasissāmī'ti **sikkhati**, vimocayaṃ cittaṃ passasissāmī'ti sikkhati. 
-6. Iti ajjhattaṁ vā citte cittānupassī viharati, bahiddhā vā citte cittānupassī viharati, ajjhattabahiddhā vā citte cittānupassī viharati.
-7. Samudayadhammānupassī vā cittasmiṁ viharati, vayadhammānupassī vā cittasmiṁ viharati, samudayavayadhammānupassī vā cittasmiṁ viharati.
-8. ‘Atthi cittan’ti vā panassa sati paccupaṭṭhitā hoti yāvadeva ñāṇamattāya paṭissatimattāya anissito ca viharati, na ca kiñci loke upādiyati.
-‘netaṁ mama, nesohamasmi, na meso attā’ti samanupassati
+##### Sati Citta
++ What is experience? 'citta-paṭisaṃvedī assasissāmī'ti sikkhati, citta-paṭisaṃvedī passasissāmī'ti sikkhati;
++ Space of citta: saṅkhittaṁ (constricted)? amahaggataṁ (unexpansive)? Stucked?
++ Texure of citta: vikkhittaṁ (scattered) ? Annoyed? Anxious?
++ Color of citta: nīvaraṇa? foggy-lack sleep? motivated?  Bored?
+##### Gladden
++ '**abhippamodayaṃ** cittaṃ assasissāmī'ti sikkhati, abhippamodayaṃ cittaṃ passasissāmī'ti sikkhati;
++ '**samādahaṃ** cittaṃ assasissāmī'ti sikkhati, samādahaṃ cittaṃ passasissāmī'ti sikkhati;
++ '**vimocayaṃ** cittaṃ assasissāmī'ti sikkhati, vimocayaṃ cittaṃ passasissāmī'ti sikkhati.
+##### Extend Citta
++ Iti ajjhattaṁ vā citte cittānupassī viharati, bahiddhā vā citte cittānupassī viharati, ajjhattabahiddhā vā citte cittānupassī viharati. Samudayadhammānupassī vā cittasmiṁ viharati, vayadhammānupassī vā cittasmiṁ viharati, samudayavayadhammānupassī vā cittasmiṁ viharati.
++ ‘Atthi cittan’ti vā panassa sati paccupaṭṭhitā hoti yāvadeva ñāṇamattāya paṭissatimattāya anissito ca viharati, na ca kiñci loke upādiyati.
++ ‘netaṁ mama, nesohamasmi, na meso attā’ti samanupassati
 ---
 #### Dhamma
-1. '**aniccānupassī** assasissāmī'ti **sikkhati**, aniccānupassī passasissāmī'ti sikkhati;
-2. '**virāgānupassī** assasissāmī'ti **sikkhati**, virāgānupassī passasissāmī'ti sikkhati;
-3. '**nirodhānupassī** assasissāmī'ti **sikkhati**, nirodhānupassī passasissāmī'ti sikkhati;
-4. '**paṭinissaggānupassī** assasissāmī'ti **sikkhati**, paṭinissaggānupassī passasissāmī'ti sikkhati;
++ '**aniccānupassī** assasissāmī'ti sikkhati, aniccānupassī passasissāmī'ti sikkhati;
++ '**virāgānupassī** assasissāmī'ti sikkhati, virāgānupassī passasissāmī'ti sikkhati;
++ '**nirodhānupassī** assasissāmī'ti sikkhati, nirodhānupassī passasissāmī'ti sikkhati;
++ '**paṭinissaggānupassī** assasissāmī'ti sikkhati, paṭinissaggānupassī passasissāmī'ti sikkhati;
 ---
 #### Dhammānupassanā-nīvaraṇa-pabba
 Santaṁ vā ajjhattaṁ kāmacchandaṁ ‘atthi me ajjhattaṁ kāmacchando’ti pajānāti, asantaṁ vā ajjhattaṁ kāmacchandaṁ ‘natthi me ajjhattaṁ kāmacchando’ti pajānāti, yathā ca anuppannassa kāmacchandassa uppādo hoti tañca pajānāti, yathā ca uppannassa kāmacchandassa pahānaṁ hoti tañca pajānāti, yathā ca pahīnassa kāmacchandassa āyatiṁ anuppādo hoti tañca pajānāti.
