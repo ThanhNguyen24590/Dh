@@ -1,4 +1,4 @@
-Go thru all big item fast. Then go details in later loop.
+Go thru all big item fast. Then go details in later loop. 1st loop is each item of the hexagon.
 + [Anap](#Anap): [Sati](#Sati-Anap), [Extend](#Extend), [Diversify](#Diversify), [Inspiring Theme](#Anap-Inspiring-Theme)
 + [Kaya](#Kaya): [Sati](#Kaya-Sati), [Make Kaya Comfy](#Make-Kaya-Comfy), [Kaya-Theme](#Kaya-Theme), [Stilling](#Stilling-Kaya)
 + [Vedanta](#Vedanta): [Theme](#Vedanta-Theme), [Categorize](#Categorize-Vedanta), [Nuture-Stilling](#Nuture-Stilling), [Extend](#Extend-Vedana)
