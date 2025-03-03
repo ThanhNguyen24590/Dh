@@ -1,6 +1,6 @@
 Go thru all big item fast. Then go details in later loop. 1st loop is each item of the hexagon.
 + [Anap](#Anap): [Sati](#Sati-Anap), [Extend](#Extend), [Diversify](#Diversify), [Inspiring Theme](#Anap-Inspiring-Theme)
-+ [Kaya]([#Kaya](https://github.com/ThanhNguyen24590/Dh/blob/main/Anapana-Kaya.md)): Sati, Make Kaya Comfy, Kaya-Theme, Stilling
++ [Kaya](https://github.com/ThanhNguyen24590/Dh/blob/main/Anapana-Kaya.md): Sati, Make Kaya Comfy, Kaya-Theme, Stilling
 + [Vedanta](https://github.com/ThanhNguyen24590/Dh/blob/main/Anapana-Vedana.md): Theme, Categorize, Nuture-Stilling, Extend
 + [Cittasaṅkhāra](#Cittasaṅkhāra)
 + [Citta](#Citta): [Sati](#Sati-Citta), [Gladden](#Gladden), [Stilling](#Stilling-Citta), [Extend](#Extend-Citta)
