@@ -7,22 +7,27 @@ Go thru all big item fast. Then go details in later loop. 1st loop is each item 
 + [Dhamma](#Dhamma)
 
 #### Anap : Cooking a delicious Anap
-##### Pickup fresh produce | Freshen up : **Satova** assasati satova passasati: This exist: Confirmation: set anap base for all steps/exp. Later step only elaborate anap.
-Grounded into physicality:
-+  Anap into where in body needed (inner brain, eye, heart, spine, tailbone.. to change negative affect: stale, obstructed, dry,.) + Exc, Msg, Dex: pose/flex/tense your muscle: closing fist, feet, neck, shoulder + Change places: Light down, AC,...
-+ Make Anap comfortable: observe **active** action of lungs, diaphram, belly & general posture of anap seg. **Viz**: fog cleared up & light begin to show big obj like moutain/ skyscraper/ city,..**Act**: Relax but still hold strong potential like in taichi practice. **-->** Sensitivity & thoroughness of Anap, not dryness/ stuck in idea, box breath, throat Exc..
-+ **Lapidary**: Carve Anap into seg: Start, Middle, End, Silence-Space between, Start, End. **Viz**: mining, gem-bone engraving with fractal,..**-->** superior present/beauty. **-->** Clarity & Stability
-##### Kneading: **Dīghaṁ** vā assasanto ‘dīghaṁ assasāmī’ti **pajānāti**, dīghaṁ vā passasanto ‘dīghaṁ passasāmī’ti pajānāti. Focus on active.
-+ **Intentional**: Manual mk deep/heavy anap (as slow lift). **Viz**: start up machine: heart-muscle-.., city wake up. Could associate with sound of heavy breathing with Viz sound. **-->** the weight of intentionality, subjectivity.
-+ **Continual** Smelting/Smoothing out & remove the ragged edge of Anap. **Viz**: metal in the forge, earth outer core, blood like lava in vessel-moving continuously...  **-->** frustration output into Anap's Flow.
-+ **Unify** Knead Silence (between In/Out), Past-Future-Present, by thread of soft but strong like silk thread (taichi). **Viz**: Oceans, theirs currents & underground water..
-+ Attune **Rythm** & Continuity of Anap. **Viz**: rain settle dust; river to ocean, lake & Ocean wave; nursery rythm **-->** Rythm/ Harmony.
-##### Stilling: **Rassaṁ** vā assasanto ‘rassaṁ assasāmī’ti **pajānāti**, rassaṁ vā passasanto ‘rassaṁ passasāmī’ti pajānāti. Focus on introspective.
-+ **Befriend, Soften** & Slow down Anap. **Viz**: pet dog **-->** Comfort & companionship of Anap.
-+ **Stilling**: Free & relax intention, change from manual to observational, let Anap settle down.  **Viz**: wind in the sky, bird gliding. **-->** Lightness of being.
-+ Invite **Light & Joy** from seclusion, burden lifted., protective, but not possessive. **Viz**: wind chimes, animals come to water-source.
-+ Find the Warmth/ **raw energy** /potential of Anap that satisfy urge/hunger. **Viz**: Lava vein. **-->** freshness, deliciousness of Anap, Fullness.
-##### Adding Spice
+##### Freshen up : **Satova** assasati satova passasati: This exist: Confirmation: set anap base for all steps/exp. Later step only elaborate anap.
+What is Anap? Start, Middle, End, Silence-Space between, Start, End,... > Refreshing or stale, obstructed, dry?
+
+What is Anap/Action? observe **active** action of lungs, diaphram, belly,... **Wake up** your body.
++ Find the link between anap and body/mood: general posture, body ennergy, negatives chakras (inner brain, eye, heart, spine, tailbone)..
++ Make place suitable: Light down, AC,... Resolve on time + set alarm.
++ Yoga: Exc, Msg, Dex: pose/flex/tense your muscle: closing fist, feet, neck, shoulder,... Do taichi. Smooth out Anap & make it continual
++ Breath Exc: box breath, throat Exc.. 
+##### Kneading: **Dīghaṁ** vā assasanto ‘dīghaṁ assasāmī’ti **pajānāti**, dīghaṁ vā passasanto ‘dīghaṁ passasāmī’ti pajānāti: 
+Action & their affect to make Anap beautiful: sound, body movement,... **Viz**: earth core with blood lava, metal melted in forge, engraving wood, Knead dough,...
++ **Intentional**: Manual mk deep/heavy anap (as slow lift) & feel their weight & strength. Duty.
++ **Power**: Energy, hunger for the freshness, deliciousness, fullness of Anap. Channel frustration.
++ **Preserve** your awareness to every moment. Measure your being in Anap.
++ **Unify** you being: Silence-Action, Past-Future-Present. Totality?One
+##### **Rassaṁ** vā assasanto ‘rassaṁ assasāmī’ti **pajānāti**, rassaṁ vā passasanto ‘rassaṁ passasāmī’ti pajānāti:
+Focus on stilling, relax. 
++ Attune to **Rythm** of Anap/Awareness. **Viz**: Ocean sound; nursery rythm, wind chimes **-->** Lightness of being.
++ **Soften** & Slow down Anap, befriend & make companionship of Anap. **Viz**: pet dog
++ Invite **Light & Joy** from seclusion, burden lifted., protective, but not possessive. **Viz**: animals come to water-source, fog cleared up & sun rise, sunflower bloom, rain settle dust..
++ **Stilling**: Look out for empty space between thought, silence between Anap, let Anap settle down. **Viz**: wind in the sky-, bird gliding,..
+##### Apply & Maintain
 Seyyathāpi, bhikkhave, dakkho bhamakāro vā bhamakārantevāsī vā dīghaṁ vā añchanto ‘dīghaṁ añchāmī’ti **pajānāti**, rassaṁ vā añchanto ‘rassaṁ añchāmī’ti pajānāti; evameva kho, bhikkhave, bhikkhu dīghaṁ vā assasanto ‘dīghaṁ assasāmī’ti pajānāti, dīghaṁ vā passasanto ‘dīghaṁ passasāmī’ti pajānāti, rassaṁ vā assasanto ‘rassaṁ assasāmī’ti pajānāti, rassaṁ vā passasanto ‘rassaṁ passasāmī’ti pajānāti; 
 + Mixture : In long-out short, in short-out long..
 + Experience & chose variery, rythm, texture that most satisfied to the current seg.
