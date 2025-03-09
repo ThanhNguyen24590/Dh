@@ -7,9 +7,9 @@ Go thru all big item fast. Then go details in later loop. 1st loop is each item 
 + [Dhamma](#Dhamma)
 
 #### Anap : Cooking a delicious Anap
-##### Sati: Looking for fresh produce.
+##### Sati: Pickup fresh produce | Freshen up
 + **Satova** assasati satova passasati: This exist: Confirmation: set anap base for all steps/exp. Later step only elaborate anap.
-+ Make body comfortable: Form correction: Observe/Listern to negative affect of Anap to whole body (stale, obstructed, dry,..). Exc to feel : pose/flex/tense your muscle: closing fist, feet, neck, shoulder. Change places.
++ Grounded into physicality: Anap into where in body needed (inner brain, eye, heart, spine, tailbone.. to change negative affect: stale, obstructed, dry,.) + Exc, Msg, Dex: pose/flex/tense your muscle: closing fist, feet, neck, shoulder + Change places: Light down, AC,...
 + Make Anap comfortable: observe **active** action of lungs, diaphram, belly & general posture of anap seg. **Viz**: fog cleared up & light begin to show big obj like moutain/ skyscraper/ city,..**Act**: Relax but still hold strong potential like in taichi practice. **-->** Sensitivity & thoroughness of Anap, not dryness/ stuck in idea, box breath, throat Exc..
 + **Lapidary**: Carve Anap into seg: Start, Middle, End, Silence-Space between, Start, End. **Viz**: mining, gem-bone engraving with fractal,..**-->** superior present/beauty. **-->** Clarity & Stability
 ##### Kneading: **Dīghaṁ** vā assasanto ‘dīghaṁ assasāmī’ti **pajānāti**, dīghaṁ vā passasanto ‘dīghaṁ passasāmī’ti pajānāti. Focus on active.
