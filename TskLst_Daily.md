@@ -1,35 +1,34 @@
 ## Ditthi: Refuge
 + St Sutta: Rd Sutta, Rsr Pali | Ls Sutta > Rm, Vid Sutta Teaching. >>> St Pitaka
 + Ls Dhamma talk, Med Guide > Med : Thai forest tradition: Thanissaro, Ajahn Brahm, Ajahn Sujato,...
-+ Dh Rd: Book: WoA. >>> Translate Thanissaro Dhamma talk book? 
-+ Dh St Csr: Early Meditation + Ajahn Brahmamavaso, ...
++ Dh Rd: Book: 8 noble path.
 ###### Extended:
++ Dh St Csr: Early Meditation + Ajahn Brahmamavaso, ...
 + Myanmar tradition, Buddhism Academia, History & Nonfiction : Pa Auk, Bikkhu Bodhi, Culadasa,..+ : Why Buddhism is true
 + Eastern Philosophy: Mahayana, vajrayana, secular Buddhism, Chinese philosophy, Indian philosophy
 + Philosophy of mind: Western philosophy
 + Neuroscience, Psychology & Science of Mind: Robert M. Sapolsky - Behave (Lib>NonFic.Mind), https://en.wikipedia.org/wiki/Emotion
 ## Sankappa: Intentions
 + Set & Maintain long term goal: 1 days goals.
-+ Set & Maintain next 3h Sche & Respect every moment
-+ Do Timesheet (3/day) for action, check emotion, mistake,...
++ Set & Maintain next 3h Sche. Respect every moment & compare to your ideal self.
++ Do Timesheet for action, check emotion, mistake,...
 ###### Extended:
 + Productivity: Learning how to learn, time mng.
 ---
 ## Vaca: Metta
-+ Refine your Ritual (Chanting, Sutta Chant, Reflection) as a reminder to what need to be protected, for you, the Sangha & **Community**.
-+ Nt: Comm Process of Communication: [Noble Conversation](https://www.dhammatalks.org/books/NobleConversation/Contents.html)
-+ Sangha: Frequent engage in Dh conversation (i.e. Listen). join Forum.
-+ Development: Bookclub & admire personality > Friend Note
++ Refine your Ritual (Chant: Refuge, Sila, Sutta, Reflection) as a reminder to what need to be protected, for you, the Sangha & **Community**.
++ Pt: Jap: Duolingo, 10 Kanji, homework
++ Art: Pt: Piano 15 min | Rd Poetry
++ Nar: LN ? Ban Do May - David Mitchell
 ### Extended:
-+ Nar & Art: CrashCourse Mythology, Daily Piano 0/30 min
++ St how to communicate & keep relationship
 + Event: Travel & Social Event
 ## Kammanta:
-+ **Sila**: Nt: Dhamma: Sila
-+ **Body**: Nt: Body: Exc + Bok: How to Think About Exercise: Anatomy & phisiology of leg 
++ Nt: Body
 + **Dana**: Charity 
 ## ājīva:
 + Nt: Cs: Be competent.
-+ **Manual Skill**: Nt: Sk
++ **Manual Skill**: Nt: Sk, Learn about tool & item you used.
 ---
 ## Vāyāma: cattārimāni sammappadhānāni
 + Maintain Anap as all time
