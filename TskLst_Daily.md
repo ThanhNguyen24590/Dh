@@ -18,24 +18,22 @@
 ## Vaca: Metta
 + Refine your Ritual (Chant: Refuge, Sila, Sutta, Reflection) as a reminder to what need to be protected, for you, the Sangha & **Community**.
 + Pt: Jap: Duolingo, 10 Kanji, homework
-+ Art: Pt: Piano 15 min | Rd Poetry
-+ Nar: LN ? Ban Do May - David Mitchell
 ### Extended:
 + St how to communicate & keep relationship
 + Event: Travel & Social Event
 ## Kammanta:
 + Nt: Body
++ Entertain: emotional food:
+  + Art: Pt: Piano 15 min | Rd Poetry
+  + Nar: Ban Do May - David Mitchell
+  + Limit: Gm, LN, Mst
 + **Dana**: Charity 
 ## ājīva:
 + Nt: Cs: Be competent.
 + **Manual Skill**: Nt: Sk, Learn about tool & item you used.
 ---
-## Vāyāma: cattārimāni sammappadhānāni
-+ Maintain Anap as all time
-  
-## Sati: [[https://suttacentral.net/mn10/en/sujato|MN10:]] 4 satipatthana
-+ Disenchanted with Rupa: Dhatu-Material-Asubha
-  
-## Samādhi: Jhanas - luminous mind: 30+ min/day ===
+## Vāyāma:  
+## Sati: 
+## Samādhi: Jhanas - luminous mind: 30+ min
 Make base (Home, Garden,..), sources of stillness/power against world asava. Basis for Iddhipada & Vision
 
