@@ -32,8 +32,11 @@
 + Nt: Cs: Be competent.
 + **Manual Skill**: Nt: Sk, Learn about tool & item you used.
 ---
-## Vāyāma:  
+## Vāyāma:
++ Keep 4 protection med theme avail
++ Maintain main theme of Anap
 ## Sati: 
++ Ensure 5 indriya avail
 ## Samādhi: Jhanas - luminous mind: 30+ min
-Make base (Home, Garden,..), sources of stillness/power against world asava. Basis for Iddhipada & Vision
++ Make base Samadhi
 
