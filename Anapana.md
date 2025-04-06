@@ -7,27 +7,22 @@ Go thru all big item fast. Then go details in later loop. 1st loop is each item 
 + [Dhamma](#Dhamma)
 
 #### Anap : Mk delicious Anap
-##### Aware : **Satova** assasati satova passasati:
-What's Anap? 8 aspect:
-+ Physcial: Air; Nose, throat, lung, breath muscle & their action; Belly ; Co2 in body trigger rate of breaht.
-+ Mental: unconscious volition to breath; Addon body sensation; Addon emotion of being here; Addon existenace-qi 
-Air: Start, Middle, End, Silence-Space between, Start, End,... > Refreshing, stale, obstructed, dry? <br/>
-Anap-Action: observe **active** action of lungs, diaphram, belly,... **Wake up** your body.
-+ Find the link between anap and body/mood: general posture, body ennergy, negatives chakras (inner brain, eye, heart, spine, tailbone)..
-+ Make place suitable: Light down, AC,... Resolve on time + set alarm.
-+ Yoga: Exc, Msg, Dex: pose/flex/tense your muscle: closing fist, feet, neck, shoulder,... Do taichi. Smooth out Anap & make it continual
+##### Aware : **Satova** assasati satova passasati: What is breathing in, breathing out?
+**Air**: Define Anap's shape: Start, Middle, End, Silence-Space between, Start, End,... & theirs property when interacte with body: Refreshing, stale, obstructed, dry. <br/>
+**Interaction** with body Anap-Action:
 + Breath Exc: box breath, throat Exc.. 
++ Link anap - body/mood: general posture, body ennergy, negatives chakras (inner brain, eye, heart, spine, tailbone)..
 ##### Refine: **Dīghaṁ** vā assasanto ‘dīghaṁ assasāmī’ti **pajānāti**, dīghaṁ vā passasanto ‘dīghaṁ passasāmī’ti pajānāti: 
 Focus on energy, action & their affect to make Anap beautiful: sound, body movement,... **Viz**: earth core with blood lava, metal melted in forge, engraving wood, Knead dough,...
-+ **Intentional**: Manual mk deep/heavy anap (as slow lift) & feel their weight & strength. Duty.
++ Tejo: **Intentional**: Manual mk deep/heavy anap (as slow lift) & feel their weight & strength. Duty.
 + **Power**: Energy, hunger for the freshness, deliciousness, fullness of Anap. Channel frustration.
-+ **Preserve** your awareness to every moment. Measure your being in Anap.
++ Pathavii: **Preserve** your awareness to every moment. Measure your being in Anap.
 + **Unify** you being: Silence-Action, Past-Future-Present. Totality?One
 ##### **Rassaṁ** vā assasanto ‘rassaṁ assasāmī’ti **pajānāti**, rassaṁ vā passasanto ‘rassaṁ passasāmī’ti pajānāti:
 Focus on stilling, relax. 
-+ Attune to **Rythm** of Anap/Awareness. **Viz**: Ocean sound; nursery rythm, wind chimes **-->** Lightness of being.
++ Apoo: Attune to **Rythm** of Anap/Awareness. **Viz**: Ocean sound; nursery rythm, wind chimes **-->** Lightness of being.
 + **Soften** & Slow down Anap, befriend & make companionship of Anap. **Viz**: pet dog
-+ Invite **Light & Joy** from seclusion, burden lifted., protective, but not possessive. **Viz**: animals come to water-source, fog cleared up & sun rise, sunflower bloom, rain settle dust..
++ Vayoo: Invite **Light & Joy** from seclusion, burden lifted., protective, but not possessive. **Viz**: animals come to water-source, fog cleared up & sun rise, sunflower bloom, rain settle dust..
 + **Stilling**: Look out for empty space between thought, silence between Anap, let Anap settle down. **Viz**: wind in the sky-, bird gliding,..
 ##### Apply & Maintain
 Seyyathāpi, bhikkhave, dakkho bhamakāro vā bhamakārantevāsī vā dīghaṁ vā añchanto ‘dīghaṁ añchāmī’ti **pajānāti**, rassaṁ vā añchanto ‘rassaṁ añchāmī’ti pajānāti; evameva kho, bhikkhave, bhikkhu dīghaṁ vā assasanto ‘dīghaṁ assasāmī’ti pajānāti, dīghaṁ vā passasanto ‘dīghaṁ passasāmī’ti pajānāti, rassaṁ vā assasanto ‘rassaṁ assasāmī’ti pajānāti, rassaṁ vā passasanto ‘rassaṁ passasāmī’ti pajānāti; 
