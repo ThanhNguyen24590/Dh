@@ -6,17 +6,19 @@ Go thru all big item fast. Then go details in later loop. 1st loop is each item 
 + [Citta](#Citta): [Sati](#Sati-Citta), [Gladden](#Gladden), [Stilling](#Stilling-Citta), [Extend](#Extend-Citta)
 + [Dhamma](#Dhamma)
 
-#### Anap : Cooking a delicious Anap
-##### Freshen up : **Satova** assasati satova passasati: This exist: Confirmation: set anap base for all steps/exp. Later step only elaborate anap.
-What is Anap? Start, Middle, End, Silence-Space between, Start, End,... > Refreshing or stale, obstructed, dry?
-
-What is Anap/Action? observe **active** action of lungs, diaphram, belly,... **Wake up** your body.
+#### Anap : Mk delicious Anap
+##### Aware : **Satova** assasati satova passasati:
+What's Anap? 8 aspect:
++ Physcial: Air; Nose, throat, lung, breath muscle & their action; Belly ; Co2 in body trigger rate of breaht.
++ Mental: unconscious volition to breath; Addon body sensation; Addon emotion of being here; Addon existenace-qi 
+Air: Start, Middle, End, Silence-Space between, Start, End,... > Refreshing, stale, obstructed, dry? <br/>
+Anap-Action: observe **active** action of lungs, diaphram, belly,... **Wake up** your body.
 + Find the link between anap and body/mood: general posture, body ennergy, negatives chakras (inner brain, eye, heart, spine, tailbone)..
 + Make place suitable: Light down, AC,... Resolve on time + set alarm.
 + Yoga: Exc, Msg, Dex: pose/flex/tense your muscle: closing fist, feet, neck, shoulder,... Do taichi. Smooth out Anap & make it continual
 + Breath Exc: box breath, throat Exc.. 
-##### Kneading: **Dīghaṁ** vā assasanto ‘dīghaṁ assasāmī’ti **pajānāti**, dīghaṁ vā passasanto ‘dīghaṁ passasāmī’ti pajānāti: 
-Action & their affect to make Anap beautiful: sound, body movement,... **Viz**: earth core with blood lava, metal melted in forge, engraving wood, Knead dough,...
+##### Refine: **Dīghaṁ** vā assasanto ‘dīghaṁ assasāmī’ti **pajānāti**, dīghaṁ vā passasanto ‘dīghaṁ passasāmī’ti pajānāti: 
+Focus on energy, action & their affect to make Anap beautiful: sound, body movement,... **Viz**: earth core with blood lava, metal melted in forge, engraving wood, Knead dough,...
 + **Intentional**: Manual mk deep/heavy anap (as slow lift) & feel their weight & strength. Duty.
 + **Power**: Energy, hunger for the freshness, deliciousness, fullness of Anap. Channel frustration.
 + **Preserve** your awareness to every moment. Measure your being in Anap.
