@@ -30,7 +30,7 @@ Narration against Mara & their daughters.
   + vayadhammā saṅkhārā appamādena sampādethā. 
   + sabbeheva piyehi manāpehi nānābhāvo vinābhāvo aññathābhāvo. Taṁ kutettha labbhā, yaṁ taṁ jātaṁ bhūtaṁ saṅkhataṁ palokadhammaṁ, taṁ vata mā palujjīti netaṁ ṭhānaṁ vijjati.
  
-+ Bhadde~eka-ratta [MN131](https://suttacentral.net/mn131/en/sujato?lang=en), Ānanda-bhadde~eka-ratta [MN132](https://suttacentral.net/mn132/en/sujato?lang=en)
++ Bhadde-eka-ratta [MN131](https://suttacentral.net/mn131/en/sujato?lang=en), Ānanda-bhadde-eka-ratta [MN132](https://suttacentral.net/mn132/en/sujato?lang=en)
   +  Atītaṁ nānvāgameyya,...
 
 + Paṭhamamaraṇassati [AN 6.19](https://suttacentral.net/an6.19/en/sujato), Dutiyamaraṇassati [AN 6.20](https://suttacentral.net/an6.20/en/sujato), Arakenanusasani [AN 7.70](https://www.accesstoinsight.org/tipitaka/an/an07/an07.070.than.html)
@@ -44,6 +44,7 @@ Narration against Mara & their daughters.
 ##### Ref
 + WIKI: [Maraṇasati](https://en.wikipedia.org/wiki/Mara%E1%B9%87asati), [Memento mori](https://en.wikipedia.org/wiki/Memento_mori), [物の哀れ](https://en.wikipedia.org/wiki/Mono_no_aware)
 + Thanissaro Chanting: Upanīyati loko. Addhuvo. Ūno loko, Atitto.  Assako loko. Sabbaṁ pahāya gamanīyaṁ. Taṇhā dāso. Sabbe saṅkhārā aniccā.
+
 
 
 
