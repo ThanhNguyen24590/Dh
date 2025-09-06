@@ -6,11 +6,14 @@
 ##### Theme: Finity
 + Finite vs self emotion: clinging, desire,.. vs others: loved one,.. vs self-samsara (self instance, social identity (in continuous existence of samsara) is just a strategy to search for food)
 + Loss-Dimishining: inherent continuous degradation of body & mind, the effort to maintain not to lose, that will eventually failed.
-+ Facture/auseau spin of memory/identity: forgetfulness but the hunger never full.
-  + Evaṁ dīgharattaṁ vo dukkhaṁ paccanubhūtaṁ (experience), tibbaṁ (sharp) paccanubhūtaṁ, byasanaṁ (ruin) paccanubhūtaṁ, kaṭasī (cemetaries) vaḍḍhitā (burden). Yāvañcidaṁ (Up to enough for) alameva **sabbasaṅkhāresu nibbindituṁ** alaṁ virajjituṁ (detach) alaṁ vimuccitun. (SN15.1)
++ Fragility of body-mind and theirs dependence on Cond.
 + Unknown dealine: Not able to chose when, where, why or how.
-
-##### Theme: Value Significance-Insignificance > Choice
+##### Nauseau
++ Facture of memory & forgetfulness -> What defined a life ?
++ Hunger never full -> Constant Search -> Bewild
++ Ever-changing of Emotion/Desire/Identity -> Weary -> Instinct.
++ Stop: Evaṁ dīgharattaṁ vo dukkhaṁ paccanubhūtaṁ (experience), tibbaṁ (sharp) paccanubhūtaṁ, byasanaṁ (ruin) paccanubhūtaṁ, kaṭasī (cemetaries) vaḍḍhitā (burden). Yāvañcidaṁ (Up to enough for) alameva **sabbasaṅkhāresu nibbindituṁ** alaṁ virajjituṁ (detach) alaṁ vimuccitun. (SN15.1)
+##### Theme: Value: Significance-Insignificance > Choice
 + Highest point: kāma-loka: Love, Ideal,.. SN 15.12 > rūpa-loka > arūpa-loka > Nibbana : Can pass time test?
 + Lowest point: kaama loka: Depression,.. SN 15.3 > rūpa-loka > arūpa-loka > Nibbana : Can pass time test?
   
@@ -44,6 +47,7 @@ Narration against Mara & their daughters.
 ##### Ref
 + WIKI: [Maraṇasati](https://en.wikipedia.org/wiki/Mara%E1%B9%87asati), [Memento mori](https://en.wikipedia.org/wiki/Memento_mori), [物の哀れ](https://en.wikipedia.org/wiki/Mono_no_aware)
 + Thanissaro Chanting: Upanīyati loko. Addhuvo. Ūno loko, Atitto.  Assako loko. Sabbaṁ pahāya gamanīyaṁ. Taṇhā dāso. Sabbe saṅkhārā aniccā.
+
 
 
 
