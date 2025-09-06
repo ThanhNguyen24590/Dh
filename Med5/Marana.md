@@ -5,7 +5,7 @@
 [paccavekkhaṇa](https://www.dhammatalks.org/books/ChantingGuide/Section0007.html)
 ##### Theme: Finity
 + Finite of self vs possible self emotion: clinging, desire,.. vs others: loved one,.. vs self-samsara (self instance, social identity (in continuous existence of samsara) is just a strategy to search for food)
-+ Loss-Dimishining: inherent continuous degradation of body & mind, the effort to maintain not to lose, that will eventually failed.
++ Loss-Dimishining: inherent continuous degradation of body-mind-relationship-community, the effort to maintain not to lose, that will eventually failed.
 + Fragility of body-mind and theirs dependence on Cond.
 + Unknown dealine: Not able to chose when, where, why or how.
 ##### Nauseau
@@ -47,6 +47,7 @@ Narration against Mara & their daughters.
 ##### Ref
 + WIKI: [Maraṇasati](https://en.wikipedia.org/wiki/Mara%E1%B9%87asati), [Memento mori](https://en.wikipedia.org/wiki/Memento_mori), [物の哀れ](https://en.wikipedia.org/wiki/Mono_no_aware)
 + Thanissaro Chanting: Upanīyati loko. Addhuvo. Ūno loko, Atitto.  Assako loko. Sabbaṁ pahāya gamanīyaṁ. Taṇhā dāso. Sabbe saṅkhārā aniccā.
+
 
 
 
