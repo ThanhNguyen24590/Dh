@@ -70,18 +70,19 @@ Svākkhāto bhagavatā dhammo, Sandiṭṭhiko, Akāliko, Ehipassiko, Opanayiko,
 - Living principals're recognized by community of the wise.
 
 ----
-[DN 22 Mahāsatipaṭṭhānasutta](https://suttacentral.net/dn22/en/sujato)
++ [DN 22 Mahāsatipaṭṭhānasutta](https://suttacentral.net/dn22/en/sujato)
 
-[MN 26 Ariyapariyesana Sutta](https://suttacentral.net/mn26/en/sujato)
-[MN 30 Cūḷa-sāropama Sutta ](https://suttacentral.net/mn30/en/sujato)
-[MN 70 Kīṭāgirisutta](https://suttacentral.net/mn70/en/sujato)
-[MN 137 Saḷāyatanavibhaṅgasutta](https://suttacentral.net/mn137/en/sujato)
-[MN 138 Uddesavibhaṅga Sutta](https://suttacentral.net/mn138/en/sujato)
-[MN 148 Chachakka Sutta](https://suttacentral.net/mn148/en/sujato)
++ [MN 26 Ariyapariyesana Sutta](https://suttacentral.net/mn26/en/sujato)
++ [MN 30 Cūḷa-sāropama Sutta ](https://suttacentral.net/mn30/en/sujato)
++ [MN 70 Kīṭāgirisutta](https://suttacentral.net/mn70/en/sujato)
++ [MN 137 Saḷāyatanavibhaṅgasutta](https://suttacentral.net/mn137/en/sujato)
++ [MN 138 Uddesavibhaṅga Sutta](https://suttacentral.net/mn138/en/sujato)
++ [MN 148 Chachakka Sutta](https://suttacentral.net/mn148/en/sujato)
 
-[An3.70 Uposathasutta](https://suttacentral.net/an3.70/en/sujato)
-[An10.48 Pabbajitaabhiṇhasutta](https://suttacentral.net/an10.48/en/sujato)
-[an10.68 Dutiyanaḷakapānasutta](https://suttacentral.net/an10.68/en/sujato)
++ [An3.70 Uposathasutta](https://suttacentral.net/an3.70/en/sujato)
++ [An10.48 Pabbajitaabhiṇhasutta](https://suttacentral.net/an10.48/en/sujato)
++ [An10.68 Dutiyanaḷakapānasutta](https://suttacentral.net/an10.68/en/sujato)
 
-[Sn 56.11 Dhammacakkappavattanasutta](https://suttacentral.net/sn56.11/en/sujato)
++ [Sn 56.11 Dhammacakkappavattanasutta](https://suttacentral.net/sn56.11/en/sujato)
 [Ud 1.3 Tatiyabodhisutta](https://suttacentral.net/ud1.3/en/sujato)
+
