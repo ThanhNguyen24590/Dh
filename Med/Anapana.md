@@ -23,5 +23,5 @@
 - ākāsha: Open - Infinity, Closed - Safe, Confined.
 - viññāṇa: The source of Light - Dark
 #### Final: Add spice to make full & Organize
-- Add if find lacking: Asubha, Maranam, Samvega: Rejection/ Distaste for sankara, Buddha-Saddha, Metta
+- Add if find lacking: Qi-Energy-Joy, Asubha, Maranam, Samvega: Rejection/ Distaste for sankara, Buddha-Saddha, Metta
 - Unify to make beautiful.
