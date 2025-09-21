@@ -15,12 +15,13 @@
 - Not attach to one variation, try as many just to be aware the posibility
 - Listern to the rythm
 - Chose one variation for specific body party, usually the eye, brain, heart. Aware that other part could use different variation.
-#### Texture - Dhatu: Pick suitable attribute to make beautiful, fresh, delicious, full vs stale, obstructed, dry
+#### Texture - Dhatu: Pick suitable attribute to make fresh, delicious vs stale, obstructed, dry
 - paṭhavī: Heavy (as slow lift) & feel the weight, Hard, Grainy,.. Visualization: engraving wood, Knead dough, Garden Field, Green Moutain & Mist cleared up, ...
 - āpa: Soft, Smooth,..Vis: rain settle dust, Clear Lake & Lotus, Ocean Wave sound, River & ship,..
 - teja: Hot - Cold,..Vis: earth core & Lava, sunflower bloom, sun rise..
 - vāyu: Weightless, Free, Invisible, On the move..Vis: Sky, Cloud, Lightness of being - burden lifted, wind chimes, bird gliding..
 - ākāsha: Open - Infinity, Closed - Safe, Confined.
 - viññāṇa: The source of Light - Dark
-#### Other theme
-Asubha, Maranam, Samvega: Rejection/ Distaste for sankara, Buddha-Saddha, Metta
+#### Final: Add spice to make full & Organize
+- Add if find lacking: Asubha, Maranam, Samvega: Rejection/ Distaste for sankara, Buddha-Saddha, Metta
+- Unify to make beautiful.
