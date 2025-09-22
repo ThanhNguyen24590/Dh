@@ -4,7 +4,7 @@
 #### Chant
 - Satova assasati satova passasati. Dīghaṁ vā assasanto ‘dīghaṁ assasāmī’ti pajānāti, dīghaṁ vā passasanto ‘dīghaṁ passasāmī’ti pajānāti. Rassaṁ vā assasanto ‘rassaṁ assasāmī’ti **pajānāti, rassaṁ vā passasanto ‘rassaṁ passasāmī’ti pajānāti.
 - Seyyathāpi, bhikkhave, dakkho bhamakāro vā bhamakārantevāsī vā dīghaṁ vā añchanto ‘dīghaṁ añchāmī’ti **pajānāti**, rassaṁ vā añchanto ‘rassaṁ añchāmī’ti pajānāti; evameva kho, bhikkhave, bhikkhu dīghaṁ vā assasanto ‘dīghaṁ assasāmī’ti pajānāti, dīghaṁ vā passasanto ‘dīghaṁ passasāmī’ti pajānāti, rassaṁ vā assasanto ‘rassaṁ assasāmī’ti pajānāti, rassaṁ vā passasanto ‘rassaṁ passasāmī’ti pajānāti;
-#### Structure: Make clarity
+#### Structure: Make clarity, grounded in present reality.
 - Break Anap into: in, out, pair with short, middle, long,..
 - Look for empty space/silence between Anap-thought: stop-in-out, stop-out-in. Totally 4 parts.
 - Identify the intention behind the parts, recognize they as process.
@@ -13,7 +13,7 @@
 #### Rythm: vibe with being & growth
 - Fast, Slow pair with Structure -> experiment multiple Rythm: fast short in, short stop-in-out, slow long out, long stop-out-in
 - Not attach to one variation, try as many just to be aware the posibility
-- Listern to the rythm
+- Listern to the rythm (sound of Anap, body, emotion,..)
 - Chose one variation for specific body party, usually the eye, brain, heart. Aware that other part could use different variation.
 #### Texture - Dhatu: Pick suitable attribute to make fresh, delicious vs stale, obstructed, dry
 - paṭhavī: Heavy (as slow lift) & feel the weight, Hard, Grainy,.. Visualization: engraving wood, Knead dough, Garden Field, Green Moutain & Mist cleared up, ...
@@ -22,6 +22,6 @@
 - vāyu: Weightless, Free, Invisible, On the move..Vis: Sky, Cloud, Lightness of being - burden lifted, wind chimes, bird gliding..
 - ākāsha: Open - Infinity, Closed - Safe, Confined.
 - viññāṇa: The source of Light - Dark
-#### Final: Add spice to make full & Organize
+#### Garnish: make full
 - Add if find lacking: Qi-Energy-Joy, Asubha, Maranam, Samvega: Rejection/ Distaste for sankara, Buddha-Saddha, Metta
 - Unify to make beautiful.
