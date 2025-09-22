@@ -5,11 +5,16 @@
 - Satova assasati satova passasati. Dīghaṁ vā assasanto ‘dīghaṁ assasāmī’ti pajānāti, dīghaṁ vā passasanto ‘dīghaṁ passasāmī’ti pajānāti. Rassaṁ vā assasanto ‘rassaṁ assasāmī’ti **pajānāti, rassaṁ vā passasanto ‘rassaṁ passasāmī’ti pajānāti.
 - Seyyathāpi, bhikkhave, dakkho bhamakāro vā bhamakārantevāsī vā dīghaṁ vā añchanto ‘dīghaṁ añchāmī’ti **pajānāti**, rassaṁ vā añchanto ‘rassaṁ añchāmī’ti pajānāti; evameva kho, bhikkhave, bhikkhu dīghaṁ vā assasanto ‘dīghaṁ assasāmī’ti pajānāti, dīghaṁ vā passasanto ‘dīghaṁ passasāmī’ti pajānāti, rassaṁ vā assasanto ‘rassaṁ assasāmī’ti pajānāti, rassaṁ vā passasanto ‘rassaṁ passasāmī’ti pajānāti;
 #### Structure: Make clarity, grounded in present reality.
-- Break Anap into: in, out, pair with short, middle, long,..
+- Take long Anap & break it into: in, out, pair with short, middle, long,..
 - Look for empty space/silence between Anap-thought: stop-in-out, stop-out-in. Totally 4 parts.
 - Identify the intention behind the parts, recognize they as process.
 - Identify the body movement to make the process possible & theirs corresponding body's sensation.
 - Recognize the process as one unit measurement.
+#### Meaning
+- Ekāyano ayaṁ, bhikkhave,
+- maggo sattānaṁ visuddhiyā,
+- sokaparidevānaṁ samatikkamāya, dukkhadomanassānaṁ atthaṅgamāya,
+- ñāyassa adhigamāya, nibbānassa sacchikiriyāya, yadidaṁ cattāro satipaṭṭhānā.
 #### Rythm: vibe with being & growth
 - Fast, Slow pair with Structure -> experiment multiple Rythm: fast short in, short stop-in-out, slow long out, long stop-out-in
 - Not attach to one variation, try as many just to be aware the posibility
