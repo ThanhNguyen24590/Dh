@@ -1,0 +1,85 @@
++ Supaṭipanno bhagavato sāvaka-saṅgho: Happy - Opposite: Dukkha
+  + Suṭṭhu (complete), Sucarita (good conduct), Subhūta (well-manifested)
+  + Subhāva (good nature), Sujāta (well-born), Sukha
+  + Suññatā-vihāra, Suddha (pure), Visuddha, Sucitta, Supaññā
++ Uju-paṭipanno bhagavato sāvaka-saṅgho: Internal uprightness & External uprightness - Opposite: Distortion (by hindrances)
+  + Visual: Clear mirror, sunlight beam thru cloud, Straight bridge over river
+  + Ujugatā, Uju-Kamma (Uju-Kāya, Uju-Vācā, Uju-Citta), Uju-Dhamma (Upright), Ujusacca, Anuju
++ Ñāya-paṭipanno bhagavato sāvaka-saṅgho: Aligned with the ultimate truth and natural order - Opposite: Falsehood.
+  + Visual: Straight stone steps leading up mountain, Clear path through forest, River flowing smoothly toward the sea
++ Sāmīci-paṭipanno bhagavato sāvaka-saṅgho: Refined elegance of the Saṅgha: Propriety, correctness, appropriateness in conduct and practice, includes both external etiquette and inner alignment with truth.
+  + Visual: lotus pond blooming, perfectly tuned instrument
+  + AN 4.28: attunement: Sāmīci-kammaṃ karoti : Right time (kālena), Right place (okāsa), Right intention (cetanā).
++ Yadidaṁ cattāri purisa-yugāni aṭṭha purisa-puggalā. Esa bhagavato sāvaka-saṅgho:
+Sotāpanna, Sakadāgāmī, Anāgāmī, Arahant : magga-puggala, phala-puggala
++ Āhuneyyo, Pāhuneyyo, Dakkhiṇeyyo, Añjali-karaṇīyo, Anuttaraṁ puññakkhettaṁ lokassa:
+Worthy of requisites that was offered, hospitality & treated with respect, being venerated, of being anjali to/ refuge to.
+----
+### Dasa Mahā-sāvaka
++ [MN 32](https://suttacentral.net/mn32/en/sujato?lang=en) - Mahāgosiṅgasutta
++ https://en.wikipedia.org/wiki/Ten_Principal_Disciples
++ Sāriputta: Paññāya aggo
+  + Wiki[The Life of Sariputta](https://www.accesstoinsight.org/lib/authors/nyanaponika/wheel090.html), [Wiki Sāriputta](https://en.wikipedia.org/wiki/%C5%9A%C4%81riputra)
++ Mahā-Moggallāna: Iddhipāṭihāriyesu aggo
++ Mahākassapa: Dhutaṅgesu aggo: [SN 16.5](https://suttacentral.net/sn16.5/en/sujato) - Jiṇṇasutta
++ Ānanda: Bahussutānaṁ aggo:
++ Anuruddha: Dibbacakkhukānaṁ aggo
++ Upāli: Vinayadharānaṁ aggo
++ Rāhula: Sikkhākāmānaṁ aggo:
++ Subhūti: Suññatāvihārīnaṁ aggo
++ Puṇṇa Mantānīputta: Dhammakathikānaṁ aggo
++ Mahākaccāna: Mahā-Kaccāno
+### [Etadagga Mahā-sāvaka](https://suttacentral.net/an1-etadaggavagga?view=normal&lang=en): Bikkhu: 
++ Aññākoṇḍañño
++ Bākula: Appābādhesu aggo: [MN 124](https://suttacentral.net/mn124/en/sujato?lang=en)
++ Bhaddiyo Kāligodhāyaputto
++ Lakuṇṭaka Bhaddiyo
++ Cūḷapanthako
++ Mahāpanthako
++ Sīvali
++ Sobhito
++ Nando
++ Sāgato
+### Etadagga Mahā-sāvaka: Bhikkhunī
++ Bakulā
++ Bhaddā Kāpilānī
+### Etadagga Mahā-sāvaka: Uposaka
++ Sudatto Gahapati Anāthapiṇḍiko
++ Mahānāma Sakko : paṇītadāyakānaṃ : [SN 55.21 ](https://suttacentral.net/sn55.21/en/sujato) - Paṭhamamahānāmasutta
++ Jīvako Komārabhacco
+### Etadagga Mahā-sāvaka: Upāsikā
++ Tapussabhallikā
++ Visākhā Migāramātā: [AN 3.70](https://suttacentral.net/an3.70/en/sujato) - Uposathasutta
++ Khujjuttarā
++ Sāmāvatī
++ Uttarānandamātā
++ Suppiyā
++ https://en.wikipedia.org/wiki/Category:Foremost_disciples_of_Gautama_Buddha
+### Other
++ Prince Jayasena: [MN 125](https://suttacentral.net/mn125/en/sujato?lang=en) 
+### No name
++ [Ud 3.1](https://suttacentral.net/ud3.1/en/sujato) : Kammavipākajasutta: No name
++ [SN 47.46](https://suttacentral.net/sn47.46/en/sujato) : Pātimokkhasaṁvarasutta : Bikkhu (no name)
+
+
+---
++ Thai Forest Tradition Order: Thanissaro, Ajahn Brahm, Ven Canda, Ajahn Sujato:  Thanissaro Bhikku / The Thai Forest Masters https://www.youtube.com/watch?v=JPbuv2dmPYk&list=PLFYqtUfYANRpmkvo3j0U5Oxy_LwX_aSNT
++ Other Theravada tradition: Pa Auk Tradition: Tejinda Sayadaw, Bhikkhu Bodhi, Culadasa..
+Vietnamese Theravada tradition: Bhikkhu Pháp Chất | Tu nữ Santacitta (Tịnh Tâm) | Bhikkhu Hộ Pháp (chùa Viên Không) | Bhikkhu Tinh Tuệ (chùa Siêu Lý Phú Định), Hộ-Tông (Vansarakkhita), Thiện Luật, Bửu Chơn, Kim Quang and Giới Nghiêm, Hộ Tông
+Other tradition: 
++ Mahayana: Nagarjuna,..Zen: Thích Thanh Từ, Thích Nhất Hạnh, Thích Quảng Đức...
++ Vajranaya: Dalai Lama, Matthew Ricard, Alexander Berzin....
++ Buddhist Research Paper...
++ Tradition: VisuddhiMagga, Patimokkha, AbhiDhamma
++ Forum: SuttaCentral/Dhammawheel/Web\Dh, Web\DhM
+---
+https://en.wikipedia.org/wiki/Category:Disciples_of_Gautama_Buddha
+https://en.wikipedia.org/wiki/Category:Arhats
+https://en.wikipedia.org/wiki/List_of_Buddhists
+https://en.wikipedia.org/wiki/Thi%E1%BB%81n_uy%E1%BB%83n_t%E1%BA%ADp_anh
+https://en.wikipedia.org/wiki/Buddhist_crisis
+https://en.wikipedia.org/wiki/Buddhism_in_Vietnam
+--------------------
+
+
+
