@@ -19,7 +19,7 @@
 + Sundarinandā : [wiki](https://en.wikipedia.org/wiki/Sundari_Nanda)
 ### Uposaka
 + Hatthaka Ālavaka : [wiki](https://en.wikipedia.org/wiki/Hatthaka_of_Alavi), Hatthaka Sutta: an3.127 https://suttacentral.net/an3.127/en/sujato, https://suttacentral.net/an3.35/en/sujato?lang=en , https://www.dhammatalks.org/suttas/AN/AN8_23.html, [AN8_24](https://www.dhammatalks.org/suttas/AN/AN8_24.html)
-+ Citta : https://en.wikipedia.org/wiki/Citta_(disciple)
++ Citta : https://en.wikipedia.org/wiki/Citta_(disciple) https://www.palikanon.com/english/pali_names/c/citta.htm
 + Ugga : https://www.dhammatalks.org/suttas/AN/AN8_22.html
 + Sudatto Gahapati Anāthapiṇḍiko
 + Trapusa_and_Bahalika : [wiki](https://en.wikipedia.org/wiki/Trapusa_and_Bahalika)
