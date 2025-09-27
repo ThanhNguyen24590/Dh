@@ -15,33 +15,8 @@ Sotāpanna, Sakadāgāmī, Anāgāmī, Arahant : magga-puggala, phala-puggala
 + Āhuneyyo, Pāhuneyyo, Dakkhiṇeyyo, Añjali-karaṇīyo, Anuttaraṁ puññakkhettaṁ lokassa:
 Worthy of requisites that was offered, hospitality & treated with respect, being venerated, of being anjali to/ refuge to.
 ----
-
-### [Etadagga Mahā-sāvaka](https://suttacentral.net/an1-etadaggavagga?view=normal&lang=en): Bikkhu: 
-+ Aññākoṇḍañño
-+ Bākula: Appābādhesu aggo: [MN 124](https://suttacentral.net/mn124/en/sujato?lang=en)
-+ Bhaddiyo Kāligodhāyaputto
-+ Lakuṇṭaka Bhaddiyo
-+ Cūḷapanthako
-+ Mahāpanthako
-+ Sīvali
-+ Sobhito
-+ Nando
-+ Sāgato
-### Etadagga Mahā-sāvaka: Bhikkhunī
-+ Bakulā
-+ Bhaddā Kāpilānī
-### Etadagga Mahā-sāvaka: Uposaka
-+ Sudatto Gahapati Anāthapiṇḍiko
-+ Mahānāma Sakko : paṇītadāyakānaṃ : [SN 55.21 ](https://suttacentral.net/sn55.21/en/sujato) - Paṭhamamahānāmasutta
-+ Jīvako Komārabhacco
-### Etadagga Mahā-sāvaka: Upāsikā
-+ Tapussabhallikā
-+ Visākhā Migāramātā: [AN 3.70](https://suttacentral.net/an3.70/en/sujato) - Uposathasutta
-+ Khujjuttarā
-+ Sāmāvatī
-+ Uttarānandamātā
-+ Suppiyā
-+ https://en.wikipedia.org/wiki/Category:Foremost_disciples_of_Gautama_Buddha
++ Dasa Mahā-sāvaka
++ Etadagga Mahā-sāvaka
 ### Other
 + Prince Jayasena: [MN 125](https://suttacentral.net/mn125/en/sujato?lang=en) 
 ### No name
@@ -50,6 +25,7 @@ Worthy of requisites that was offered, hospitality & treated with respect, being
 
 
 ---
++ History: https://en.wikipedia.org/wiki/Nalanda_mahavihara
 + Thai Forest Tradition Order: Thanissaro, Ajahn Brahm, Ven Canda, Ajahn Sujato:  Thanissaro Bhikku / The Thai Forest Masters https://www.youtube.com/watch?v=JPbuv2dmPYk&list=PLFYqtUfYANRpmkvo3j0U5Oxy_LwX_aSNT
 + Other Theravada tradition: Pa Auk Tradition: Tejinda Sayadaw, Bhikkhu Bodhi, Culadasa..
 Vietnamese Theravada tradition: Bhikkhu Pháp Chất | Tu nữ Santacitta (Tịnh Tâm) | Bhikkhu Hộ Pháp (chùa Viên Không) | Bhikkhu Tinh Tuệ (chùa Siêu Lý Phú Định), Hộ-Tông (Vansarakkhita), Thiện Luật, Bửu Chơn, Kim Quang and Giới Nghiêm, Hộ Tông
@@ -67,6 +43,7 @@ https://en.wikipedia.org/wiki/Thi%E1%BB%81n_uy%E1%BB%83n_t%E1%BA%ADp_anh
 https://en.wikipedia.org/wiki/Buddhist_crisis
 https://en.wikipedia.org/wiki/Buddhism_in_Vietnam
 --------------------
+
 
 
 
