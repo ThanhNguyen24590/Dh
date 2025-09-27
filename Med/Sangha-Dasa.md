@@ -25,3 +25,6 @@
 ---
 + Puṇṇa Mantānīputta: Dhammakathikānaṁ aggo
 + Mahākaccāna: Mahā-Kaccāno
+
+## Books
++ Hellmuth Hecker - Great Disciples of the Buddha
