@@ -15,20 +15,7 @@ Sotāpanna, Sakadāgāmī, Anāgāmī, Arahant : magga-puggala, phala-puggala
 + Āhuneyyo, Pāhuneyyo, Dakkhiṇeyyo, Añjali-karaṇīyo, Anuttaraṁ puññakkhettaṁ lokassa:
 Worthy of requisites that was offered, hospitality & treated with respect, being venerated, of being anjali to/ refuge to.
 ----
-### Dasa Mahā-sāvaka
-+ [MN 32](https://suttacentral.net/mn32/en/sujato?lang=en) - Mahāgosiṅgasutta
-+ https://en.wikipedia.org/wiki/Ten_Principal_Disciples
-+ Sāriputta: Paññāya aggo
-  + Wiki[The Life of Sariputta](https://www.accesstoinsight.org/lib/authors/nyanaponika/wheel090.html), [Wiki Sāriputta](https://en.wikipedia.org/wiki/%C5%9A%C4%81riputra)
-+ Mahā-Moggallāna: Iddhipāṭihāriyesu aggo
-+ Mahākassapa: Dhutaṅgesu aggo: [SN 16.5](https://suttacentral.net/sn16.5/en/sujato) - Jiṇṇasutta
-+ Ānanda: Bahussutānaṁ aggo:
-+ Anuruddha: Dibbacakkhukānaṁ aggo
-+ Upāli: Vinayadharānaṁ aggo
-+ Rāhula: Sikkhākāmānaṁ aggo:
-+ Subhūti: Suññatāvihārīnaṁ aggo
-+ Puṇṇa Mantānīputta: Dhammakathikānaṁ aggo
-+ Mahākaccāna: Mahā-Kaccāno
+
 ### [Etadagga Mahā-sāvaka](https://suttacentral.net/an1-etadaggavagga?view=normal&lang=en): Bikkhu: 
 + Aññākoṇḍañño
 + Bākula: Appābādhesu aggo: [MN 124](https://suttacentral.net/mn124/en/sujato?lang=en)
@@ -80,6 +67,7 @@ https://en.wikipedia.org/wiki/Thi%E1%BB%81n_uy%E1%BB%83n_t%E1%BA%ADp_anh
 https://en.wikipedia.org/wiki/Buddhist_crisis
 https://en.wikipedia.org/wiki/Buddhism_in_Vietnam
 --------------------
+
 
 
 
