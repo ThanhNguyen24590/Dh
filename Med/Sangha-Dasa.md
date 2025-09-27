@@ -15,11 +15,13 @@
 + Anuruddha: Dibbacakkhukānaṁ aggo
 + Upāli: Vinayadharānaṁ aggo
 + Rāhula: Sikkhākāmānaṁ aggo:
-+ Subhūti: Suññatāvihārīnaṁ aggo
- - Subhūti Sutta: SN 35.94
- - Subhūti Sutta: AN 1.46, AN 3.92, AN 3.101, AN 4.49, AN 5.173, AN 7.48, AN 8.54, AN 8.6, AN 9.29, AN 10.16
- - Teaching: MN 125 – Cūḷasuññata Sutta, SN 35.105 – Subhūti Saṁyutta, MN 44 – Cūḷahatthipadopama Sutta, SN 22.86 – Suññata Sutta
- - [thag1.1](https://suttacentral.net/thag1.1/en/sujato?lang=en)
- - DN 16 – Mahāparinibbāna Sutta
+---
+### Subhūti: Suññatāvihārīnaṁ aggo
+- Subhūti Sutta: SN 35.94
+- Subhūti Sutta: AN 1.46, AN 3.92, AN 3.101, AN 4.49, AN 5.173, AN 7.48, AN 8.54, AN 8.6, AN 9.29, AN 10.16
+- Teaching: MN 125 – Cūḷasuññata Sutta, SN 35.105 – Subhūti Saṁyutta, MN 44 – Cūḷahatthipadopama Sutta, SN 22.86 – Suññata Sutta
+- [thag1.1](https://suttacentral.net/thag1.1/en/sujato?lang=en)
+- DN 16 – Mahāparinibbāna Sutta
+---
 + Puṇṇa Mantānīputta: Dhammakathikānaṁ aggo
 + Mahākaccāna: Mahā-Kaccāno
