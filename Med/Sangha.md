@@ -13,7 +13,9 @@
 + Yadidaṁ cattāri purisa-yugāni aṭṭha purisa-puggalā. Esa bhagavato sāvaka-saṅgho:
 Sotāpanna, Sakadāgāmī, Anāgāmī, Arahant : magga-puggala, phala-puggala
 + Āhuneyyo, Pāhuneyyo, Dakkhiṇeyyo, Añjali-karaṇīyo, Anuttaraṁ puññakkhettaṁ lokassa:
-Worthy of requisites that was offered, hospitality & treated with respect, being venerated, of being anjali to/ refuge to.
+  - Āhuṇam (offering) + -eyya (to be fitted/worhthy of)
+  - Pāhuṇam (guest offering or gift, especially one brought by a traveler/guest) + -eyya
+  - Dakkhiṇā (Donation, gift, or offering,especially one given with the intention of accruing merit)
 ----
 + Dasa Mahā-sāvaka
 + Etadagga Mahā-sāvaka
@@ -43,6 +45,7 @@ https://en.wikipedia.org/wiki/Thi%E1%BB%81n_uy%E1%BB%83n_t%E1%BA%ADp_anh
 https://en.wikipedia.org/wiki/Buddhist_crisis
 https://en.wikipedia.org/wiki/Buddhism_in_Vietnam
 --------------------
+
 
 
 
