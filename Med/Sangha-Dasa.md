@@ -4,7 +4,7 @@
  + [Ye Dharma Hetu](https://en.wikipedia.org/wiki/Prat%C4%ABtyasamutp%C4%81da_g%C4%81th%C4%81)
 ### Sāriputta: Paññāya aggo:
 - [sn28](https://suttacentral.net/sn28-sariputtavagga) - sariputtavagga, SN 21.5 – Sāriputta Sutta
-- MN: [MN 3](https://suttacentral.net/mn3/en/sujato?lang=en)-Dhammadāyādasutta,[MN 24](https://suttacentral.net/mn24/en/sujato?lang=en)-Rathavinītasutta, [MN 67](https://suttacentral.net/mn67/en/sujato?lang=en)-Cātumasutta, [MN 74](https://suttacentral.net/mn74/en/sujato?lang=en)-Dīghanakhasutta, [MN 111](https://suttacentral.net/mn111/en/sujato?lang=en)-Anupadasutta, [MN 141](https://suttacentral.net/mn141/en/sujato?lang=en)-Saccavibhaṅgasutta, [MN 151](https://suttacentral.net/mn151/en/sujato?lang=en)-Piṇḍapātapārisuddhisutta
+- MN: [MN 3](https://suttacentral.net/mn3/en/sujato?lang=en)-Dhammadāyādasutta, [MN 24](https://suttacentral.net/mn24/en/sujato?lang=en)-Rathavinītasutta, [MN 67](https://suttacentral.net/mn67/en/sujato?lang=en)-Cātumasutta, [MN 74](https://suttacentral.net/mn74/en/sujato?lang=en)-Dīghanakhasutta, [MN 111](https://suttacentral.net/mn111/en/sujato?lang=en)-Anupadasutta, [MN 141](https://suttacentral.net/mn141/en/sujato?lang=en)-Saccavibhaṅgasutta, [MN 151](https://suttacentral.net/mn151/en/sujato?lang=en)-Piṇḍapātapārisuddhisutta
 - Relation: Susimasutta - [sn2.29](https://suttacentral.net/sn2.29/en/sujato?lang=en)-[sn11.2](https://suttacentral.net/sn11.2/en/sujato?lang=en), AN 10.7 – Nandiyasutta, MN 97 – Dhanañjānī Sutta
 - Teaching: [MN 9](https://suttacentral.net/mn9/en/sujato?lang=en) - Sammādiṭṭhisutta, DN 34 – Dasuttara Sutta, AN 4.192 – Puggala Sutta, SN 55.5 – Sotasutta, MN 5 – Anangana Sutta
 - [thag17.2](https://suttacentral.net/thag17.2/en/sujato?lang=en)
